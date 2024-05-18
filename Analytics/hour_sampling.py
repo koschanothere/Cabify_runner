@@ -67,7 +67,7 @@ async def scrape_every_hour():
         district_name = district['properties']['NAME']
         okato_ao = district['properties']['OKATO_AO']
 
-        logging.info(f"Starting run for {district_name}. OKATO: {okato_ao}")
+        logging.info(f"Run {cycle}. Starting run for {district_name}. OKATO: {okato_ao}")
 
         district_coords = district['geometry']['coordinates']
         if district_coords is None:

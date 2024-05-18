@@ -83,6 +83,20 @@ for name, count in name_counts.items():
 
 print(len(names))
 
+# unique_districts = {}
+# for feature in data['features']:
+#     district_name = feature['properties']['NAME']
+#     if district_name not in unique_districts:
+#         unique_districts[district_name] = feature
+
+# # Update the 'features' list with unique district features
+# data['features'] = list(unique_districts.values())
+
+# # Write the updated JSON data back to the file
+# with open(r'C:\Users\Kostya\Cabify_git\cabify\Analytics\origin_coords.json', 'w', encoding='utf-8') as file:
+#     json.dump(data, file, indent=4, ensure_ascii=False)
+
+
 # # Usage
 # input_file = 'moscow.geojson'
 # output_file = 'origin_coords.json'
