@@ -11,5 +11,10 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install selenium
 
+      - name: Debug
+        run: |
+          pwd
+          ls -la
+
       - name: Run Python script
         run: python Analytics/hour_sampling.py
