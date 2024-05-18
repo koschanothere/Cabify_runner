@@ -8,27 +8,29 @@ on:
 jobs:
   build:
     runs-on: windows-latest
+    outputs:
+      log_content: ${{ steps.generate_log.outputs.log_content }}
+
     steps:
-      - name: Check out the repository
-        uses: actions/checkout@v2
-
-      - name: Debug - List root directory
+      - name: Generate log content
+        id: generate_log
         run: |
-          echo Root Directory Contents:
-          dir
+          echo "This is a log message."
+          echo "::set-output name=log_content::This is a log message."
 
-      - name: Change permissions of root directory
-        run: |
-          cd ${{ github.workspace }}
-          chmod -R 777 .
-
-      - name: Debug - List checked out repository
-        run: |
-          echo Repository Directory Contents:
-          dir ${{ github.workspace }}
-        
       - name: Install Python dependencies
         run: python -m pip install selenium
 
       - name: Run Python script
         run: python Analytics/hour_sampling.py
+
+      - name: Write log to file
+        if: always()
+        run: echo "${{ needs.build.outputs.log_content }}" > scraper.logs
+
+      - name: Upload logfile as artifact
+        if: always()
+        uses: actions/upload-artifact@v2
+        with:
+          name: scraper
+          path: scraper.logs
