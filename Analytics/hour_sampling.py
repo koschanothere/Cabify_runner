@@ -7,9 +7,11 @@ from copy import deepcopy
 import scraper
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+import os
 
 # Configure logging
-logging.basicConfig(filename='scraper.log', level=logging.INFO, 
+log_file_path = os.path.join(os.getenv('GITHUB_WORKSPACE'), 'scraper.log')
+logging.basicConfig(filename=log_file_path, level=logging.INFO, 
                     format='%(asctime)s %(levelname)s:%(message)s', encoding='utf-8')
 
 # Load JSON data from files
