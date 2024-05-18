@@ -8,9 +8,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, TimeoutException
+import os
+
 
 # Configure logging
-logging.basicConfig(filename='scraper.log', level=logging.INFO, 
+log_file_path = os.path.join(os.getenv('GITHUB_WORKSPACE'), 'scraper.log')
+logging.basicConfig(filename=log_file_path, level=logging.INFO, 
                     format='%(asctime)s %(levelname)s:%(message)s', encoding='utf-8')
 
 async def runscraper(driver, name="Test", pointA="55.85995110810542, 37.56275798748232", pointB="55.88762047186569, 37.451297918193326", cycle=0, retries=3):
