@@ -17,6 +17,11 @@ jobs:
           echo Root Directory Contents:
           dir
 
+      - name: Change permissions of root directory
+        run: |
+          cd ${{ github.workspace }}
+          chmod -R 777 .
+
       - name: Debug - List checked out repository
         run: |
           echo Repository Directory Contents:
