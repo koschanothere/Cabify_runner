@@ -12,14 +12,12 @@ jobs:
       - name: Install Python dependencies
         run: python -m pip install selenium
 
-      - name: Debug - Change to repository directory and print contents
+      - name: Debug - Print working directory
         run: |
-          echo Changing to repository directory...
-          cd D:\a\Cabify_runner\Cabify_runner
           echo Current Directory:
-          cd
+          echo %cd%
           echo Directory Contents:
-          dir
+          dir %cd%
 
       - name: Run Python script
         run: python Analytics/hour_sampling.py
