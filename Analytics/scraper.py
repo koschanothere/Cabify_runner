@@ -23,7 +23,8 @@ async def runscraper(driver, name="Test", pointA="55.85995110810542, 37.56275798
     logging.info(f"Starting scraper for: {log}")
 
     try:
-        driver.get("http://127.0.0.1:5500")
+        #driver.get("http://127.0.0.1:5500")
+        driver.get("http://cabift.great-site.net")
 
         wait_for_map = WebDriverWait(driver, 10)  # Maximum wait time of 10 seconds
 
