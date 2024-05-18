@@ -9,15 +9,18 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
+      - name: Check out the repository
+        uses: actions/checkout@v2
+        
       - name: Install Python dependencies
         run: python -m pip install selenium
 
       - name: Debug - Print working directory
         run: |
           echo Current Directory:
-          echo %cd%
+          cd
           echo Directory Contents:
-          dir %cd%
+          dir
 
       - name: Run Python script
         run: python Analytics/hour_sampling.py
