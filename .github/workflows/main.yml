@@ -11,16 +11,14 @@ jobs:
     steps:
       - name: Check out the repository
         uses: actions/checkout@v2
+
+      - name: Debug - List all files in the repository
+        run: |
+          echo Listing all files:
+          dir /s /b
         
       - name: Install Python dependencies
         run: python -m pip install selenium
-
-      - name: Debug - Print working directory
-        run: |
-          echo Current Directory:
-          cd
-          echo Directory Contents:
-          dir
 
       - name: Run Python script
         run: python Analytics/hour_sampling.py
