@@ -9,4 +9,4 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Run Scraper
-        run: hour_sampling.py
+        run: Analytics/hour_sampling.py
