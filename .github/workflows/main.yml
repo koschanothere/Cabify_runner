@@ -1,4 +1,4 @@
-name: Cabify Scraper
+name: Hourly Workflow
 
 on:
   schedule:
@@ -8,5 +8,8 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
-      - name: Run Scraper
-        run: Analytics/hour_sampling.py
+      - name: Install Python dependencies
+        run: python -m pip install selenium
+
+      - name: Run Python script
+        run: python Analytics/hour_sampling.py
