@@ -13,10 +13,10 @@ logging.basicConfig(filename='scraper.log', level=logging.INFO,
                     format='%(asctime)s %(levelname)s:%(message)s', encoding='utf-8')
 
 # Load JSON data from files
-with open(r'C:\Users\Kostya\Cabify_git\cabify\Analytics\origin_coords.json', encoding='utf-8') as f1:
+with open(r'Analytics\origin_coords.json', encoding='utf-8') as f1:
     origin_coords_data = json.load(f1)
 
-with open(r'C:\Users\Kostya\Cabify_git\cabify\Analytics\region_centroid.json', encoding='utf-8') as f2:
+with open(r'Analytics\region_centroid.json', encoding='utf-8') as f2:
     region_centriods_data = json.load(f2)
 
 class CoordinatesNotFoundError(Exception):
