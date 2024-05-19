@@ -10,6 +10,7 @@ from copy import deepcopy
 import scraper
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+import os
 
 features = []
 with open('scraper.logs', 'w'):
@@ -144,8 +145,16 @@ def dump_to_json(df, filename='data.json'):
         features_list = df.to_dict(orient='records')
         
         with open(filename, 'a+') as f:
-            # Write features to JSON file
-            json.dump(features_list, f)
+            if not os.path.isfile(filename) and os.path.getsize(filename) > 0:
+                # If file is empty, write data without appending
+                json.dump(features_list, f)
+            else:
+                # If file is not empty, append a comma and then the data
+                f.seek(0, os.SEEK_END)
+                f.seek(f.tell() - 1, os.SEEK_SET)
+                f.truncate()  # Remove the trailing ']'
+                f.write(',')  # Add a comma
+                f.write(json.dumps(features_list)[1:])  # Write the data without the leading '['
             logging.info("Features dumped to %s", filename)
     except Exception as e:
         logging.error("Error dumping features to JSON file: %s", e)
