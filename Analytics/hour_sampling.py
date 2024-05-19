@@ -11,7 +11,7 @@ import os
 
 # Configure logging
 log_file_path = os.path.join(os.getenv('GITHUB_WORKSPACE'), 'scraper.log')
-logging.basicConfig(filename=log_file_path, level=logging.INFO, 
+logging.basicConfig(filename='scraper.logs', level=logging.INFO, 
                     format='%(asctime)s %(levelname)s:%(message)s', encoding='utf-8')
 
 # Load JSON data from files
