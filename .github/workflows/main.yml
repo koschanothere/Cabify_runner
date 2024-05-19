@@ -8,15 +8,15 @@ on:
 jobs:
   build:
     runs-on: windows-latest
-    outputs:
-      log_content: ${{ steps.generate_log.outputs.log_content }}
 
     steps:
-      - name: Generate log content
-        id: generate_log
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
         run: |
-          echo "This is a log message."
-          echo "::set-output name=log_content::This is a log message."
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Install Python dependencies
         run: python -m pip install selenium
@@ -25,12 +25,14 @@ jobs:
         run: python Analytics/hour_sampling.py
 
       - name: Write log to file
-        if: always()
-        run: echo "${{ needs.build.outputs.log_content }}" > scraper.logs
+        run: echo "This is a log message." > scraper.logs
 
-      - name: Upload logfile as artifact
-        if: always()
-        uses: actions/upload-artifact@v2
-        with:
-          name: scraper
-          path: scraper.logs
+      - name: Add changes to Git
+        run: |
+          git add scraper.logs data.json
+          git commit -m "Update logs and data"
+
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git push
