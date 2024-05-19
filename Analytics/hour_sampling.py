@@ -21,7 +21,7 @@ logging.basicConfig(filename='scraper.logs', level=logging.INFO,
                     format='%(asctime)s %(levelname)s:%(message)s', encoding='utf-8')
 
 # Load JSON data from files
-with open(r'Analytics\test_coords.json', encoding='utf-8') as f1:
+with open(r'Analytics\origin_coords.json', encoding='utf-8') as f1:
     origin_coords_data = json.load(f1)
 
 with open(r'Analytics\region_centroid.json', encoding='utf-8') as f2:
