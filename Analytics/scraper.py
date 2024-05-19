@@ -1,9 +1,6 @@
-import asyncio
-import json
+
 import logging
-from datetime import datetime
 from time import sleep
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -12,7 +9,6 @@ import os
 
 
 # Configure logging
-log_file_path = os.path.join(os.getenv('GITHUB_WORKSPACE'), 'scraper.log')
 logging.basicConfig(filename='scraper.logs', level=logging.INFO, 
                     format='%(asctime)s %(levelname)s:%(message)s', encoding='utf-8')
 
@@ -63,11 +59,11 @@ async def runscraper(driver, name="Test", pointA="55.85995110810542, 37.56275798
             "District": name,
             "Price": price_text,
             "Duration": duration_text,
-            "Length": length_text
+            "Length": length_text,
         }
 
-        write_to_json(data)
         logging.info(f"Data for {name}: {data}")
+        return data
 
     except (Exception, TimeoutException) as e:
         logging.error(f"An error occurred for {name}: {e}")
@@ -77,34 +73,6 @@ async def runscraper(driver, name="Test", pointA="55.85995110810542, 37.56275798
         else:
             logging.error(f"Max retries reached for {name}. Aborting.")
 
-
-def write_to_json(data, filename='data.json'):
-    now = datetime.now()
-    date_time = now.strftime("%d/%m %H:%M")
-
-    entry = {
-        "Date": date_time.split()[0],
-        "Time": date_time.split()[1],
-        "District": data["District"],
-        "Value": {
-            "Price": data["Price"],
-            "Duration": data["Duration"],
-            "Length": data["Length"]
-        }
-    }
-
-    try:
-        with open(filename, 'r', encoding='utf-8') as f:
-            json_data = json.load(f)
-    except FileNotFoundError:
-        json_data = []
-
-    json_data.append(entry)
-
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(json_data, f, indent=4, ensure_ascii=False)
-    
-    logging.info(f"Entry added to {filename}: {entry}")
 
 # Run the scraper
 # asyncio.run(runscraper())

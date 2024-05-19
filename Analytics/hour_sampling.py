@@ -3,14 +3,18 @@ import json
 import random
 import time
 import logging
+import hashlib
+import pandas as pd
+from datetime import datetime
 from copy import deepcopy
 import scraper
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import os
 
+features = []
+
 # Configure logging
-log_file_path = os.path.join(os.getenv('GITHUB_WORKSPACE'), 'scraper.log')
 logging.basicConfig(filename='scraper.logs', level=logging.INFO, 
                     format='%(asctime)s %(levelname)s:%(message)s', encoding='utf-8')
 
@@ -34,7 +38,8 @@ def get_coordinates(okato_ao):
 # Function to call the scraper with coordinates
 async def call_scraper(driver, district_name, district_coords, region_coords, cycle):
     try:
-        await scraper.runscraper(driver, district_name, district_coords, region_coords, cycle)
+        data = await scraper.runscraper(driver, district_name, district_coords, region_coords, cycle)
+        preprocess_data_and_append(data)
         logging.info(f"Scraper called successfully for {district_name}")
     except Exception as e:
         logging.error(f"Error calling scraper for {district_name}: {e}")
@@ -87,8 +92,64 @@ async def scrape_every_hour():
     driver.quit()
 
 
+def feature_hashing_district(district, num_buckets):
+    return int(hashlib.sha256(district.encode('utf-8')).hexdigest(), 16) % num_buckets
+
+def preprocess_data_and_append(entry):
+    current_year = datetime.now().year  # Get the current year
+    
+    # Calculate current date and time
+    current_date = datetime.now().strftime('%d/%m/%Y')
+    current_time = datetime.now().strftime('%H:%M')
+    
+    # Extract date and time features
+    date_parts = current_date.split('/')
+    day_of_week = pd.to_datetime(current_date, format='%d/%m/%Y').dayofweek
+    month = int(date_parts[1])
+    hour = int(current_time.split(':')[0])
+
+    # Feature hashing for district names
+    district_hash = feature_hashing_district(entry["District"], num_buckets=1000)
+    
+    # Extract numerical values
+    try:
+        price = float(entry["Price"])
+        duration = int(entry["Duration"].split()[0])  # Extract only the numerical part
+        length = float(entry["Length"].replace(',', '.'))  # Handle decimal comma
+    except ValueError as e:
+        logging.error(f"Error processing entry: {e}")
+        return None
+    
+    # Append to global features list
+    global features
+    features.append({
+        "DayOfWeek": day_of_week,
+        "Month": month,
+        "Hour": hour,
+        "District": district_hash,
+        "Price": price,
+        "Duration": duration,
+        "Length": length
+    })
+    
+    logging.info("Preprocessing completed for entry: %s", entry)
+
+
+def dump_to_json(df, filename='data.json'):
+    try:
+        # Convert DataFrame to list of dictionaries
+        features_list = df.to_dict(orient='records')
+        
+        with open(filename, 'a+') as f:
+            # Write features to JSON file
+            json.dump(features_list, f)
+            logging.info("Features dumped to %s", filename)
+    except Exception as e:
+        logging.error("Error dumping features to JSON file: %s", e)
 
 time_begin = time.time()
 asyncio.run(scrape_every_hour())
+df = pd.DataFrame(features)
+dump_to_json(df)
 time_end = time.time()
 print("Time to run: ", time_end - time_begin)
