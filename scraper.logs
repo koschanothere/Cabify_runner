@@ -1,0 +1,26 @@
+2024-05-19 15:14:13,881 INFO:Run 1. Starting run for Нагатинский Затон. OKATO: 45296000
+2024-05-19 15:14:13,882 INFO:Run 2. Starting run for Щукино. OKATO: 45283000
+2024-05-19 15:14:13,882 INFO:Run 3. Starting run for Тёплый Стан. OKATO: 45293000
+2024-05-19 15:14:13,883 INFO:Run 4. Starting run for Филёвский Парк. OKATO: 45268000
+2024-05-19 15:14:13,883 INFO:Run 5. Starting run for Дмитровский. OKATO: 45277000
+2024-05-19 15:14:13,884 INFO:Starting scraper for: {'Run': 1, 'District': 'Нагатинский Затон', 'Point A': '55.69633378517498, 37.67233844584938', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-19 15:14:22,224 INFO:Data for Нагатинский Затон: {'District': 'Нагатинский Затон', 'Price': '598', 'Duration': '22 мин', 'Length': '10,3'}
+2024-05-19 15:14:22,229 INFO:Preprocessing completed for entry: {'District': 'Нагатинский Затон', 'Price': '598', 'Duration': '22 мин', 'Length': '10,3'}
+2024-05-19 15:14:22,229 INFO:Scraper called successfully for Нагатинский Затон
+2024-05-19 15:14:22,229 INFO:Starting scraper for: {'Run': 2, 'District': 'Щукино', 'Point A': '55.81102953757514, 37.486031749675064', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-19 15:14:24,705 INFO:Data for Щукино: {'District': 'Щукино', 'Price': '328', 'Duration': '8 мин', 'Length': '4,6'}
+2024-05-19 15:14:24,706 INFO:Preprocessing completed for entry: {'District': 'Щукино', 'Price': '328', 'Duration': '8 мин', 'Length': '4,6'}
+2024-05-19 15:14:24,706 INFO:Scraper called successfully for Щукино
+2024-05-19 15:14:24,706 INFO:Starting scraper for: {'Run': 3, 'District': 'Тёплый Стан', 'Point A': '55.632916561830825, 37.478501795194454', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-19 15:14:27,239 INFO:Data for Тёплый Стан: {'District': 'Тёплый Стан', 'Price': '589', 'Duration': '18 мин', 'Length': '6,5'}
+2024-05-19 15:14:27,239 INFO:Preprocessing completed for entry: {'District': 'Тёплый Стан', 'Price': '589', 'Duration': '18 мин', 'Length': '6,5'}
+2024-05-19 15:14:27,239 INFO:Scraper called successfully for Тёплый Стан
+2024-05-19 15:14:27,240 INFO:Starting scraper for: {'Run': 4, 'District': 'Филёвский Парк', 'Point A': '55.74746739293403, 37.49006168219751', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-19 15:14:30,001 INFO:Data for Филёвский Парк: {'District': 'Филёвский Парк', 'Price': '755', 'Duration': '22 мин', 'Length': '22,1'}
+2024-05-19 15:14:30,001 INFO:Preprocessing completed for entry: {'District': 'Филёвский Парк', 'Price': '755', 'Duration': '22 мин', 'Length': '22,1'}
+2024-05-19 15:14:30,001 INFO:Scraper called successfully for Филёвский Парк
+2024-05-19 15:14:30,001 INFO:Starting scraper for: {'Run': 5, 'District': 'Дмитровский', 'Point A': '55.89295292105958, 37.531318309415404', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-19 15:14:32,997 INFO:Data for Дмитровский: {'District': 'Дмитровский', 'Price': '485', 'Duration': '15 мин', 'Length': '8,8'}
+2024-05-19 15:14:32,999 INFO:Preprocessing completed for entry: {'District': 'Дмитровский', 'Price': '485', 'Duration': '15 мин', 'Length': '8,8'}
+2024-05-19 15:14:32,999 INFO:Scraper called successfully for Дмитровский
+2024-05-19 15:14:39,272 INFO:Features dumped to data.json

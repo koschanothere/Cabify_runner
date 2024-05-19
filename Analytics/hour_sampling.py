@@ -10,16 +10,17 @@ from copy import deepcopy
 import scraper
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-import os
 
 features = []
+with open('scraper.logs', 'w'):
+    pass
 
 # Configure logging
 logging.basicConfig(filename='scraper.logs', level=logging.INFO, 
                     format='%(asctime)s %(levelname)s:%(message)s', encoding='utf-8')
 
 # Load JSON data from files
-with open(r'Analytics\origin_coords.json', encoding='utf-8') as f1:
+with open(r'Analytics\test_coords.json', encoding='utf-8') as f1:
     origin_coords_data = json.load(f1)
 
 with open(r'Analytics\region_centroid.json', encoding='utf-8') as f2:
@@ -75,6 +76,8 @@ async def scrape_every_hour():
         okato_ao = district['properties']['OKATO_AO']
 
         logging.info(f"Run {cycle}. Starting run for {district_name}. OKATO: {okato_ao}")
+
+        f"Run {cycle}. Starting run for {district_name}. OKATO: {okato_ao}"
 
         district_coords = district['geometry']['coordinates']
         if district_coords is None:
