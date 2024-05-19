@@ -22,10 +22,7 @@ jobs:
         run: python -m pip install selenium
 
       - name: Run Python script
-        run: python Analytics/hour_sampling.py
-
-      - name: Write log to file
-        run: echo "This is a log message." > scraper.log
+        run: python Analytics/tester.py
 
       - name: Add changes to Git
         run: |
