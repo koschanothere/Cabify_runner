@@ -25,11 +25,11 @@ jobs:
         run: python Analytics/hour_sampling.py
 
       - name: Write log to file
-        run: echo "This is a log message." > scraper.logs
+        run: echo "This is a log message." > scraper.log
 
       - name: Add changes to Git
         run: |
-          git add scraper.logs data.json
+          git add scraper.log data.json
           git commit -m "Update logs and data"
 
       - name: Push changes
