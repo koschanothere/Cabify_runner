@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Load your JSON data from a file
-data_file = "test_data.json"
+data_file = "data.json"
 with open(data_file, "r", encoding='utf-8') as f:
     json_data = json.load(f)
 
