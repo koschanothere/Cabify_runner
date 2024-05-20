@@ -51,9 +51,9 @@ def main():
         logger.info("Data inserted into MongoDB collections.")
         
         # Clear the JSON data file after uploading
-    #     with open(data_file, 'w') as f:
-    #         f.truncate(0)
-    #     logger.info("Cleared the JSON data file.")
+         with open(data_file, 'w') as f:
+             f.truncate(0)
+         logger.info("Cleared the JSON data file.")
     except Exception as e:
         logger.error(f"An error occurred: {e}")
 
