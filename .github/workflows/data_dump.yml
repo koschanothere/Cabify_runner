@@ -27,7 +27,7 @@ jobs:
         env:
           MONGO_URI: ${{ secrets.MONGO_URI }}  # Use the MongoDB URI secret
         run: |
-          python Analytics/test_dump.py
+          python Analytics/data_dump.py
 
       - name: Configure git
         run: |
