@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: false  # Disable GitHub token persistence
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,14 +27,17 @@ jobs:
         env:
           MONGO_URI: ${{ secrets.MONGO_URI }}  # Use the MongoDB URI secret
         run: |
-          python your_script_name.py  # Replace with the name of your Python script
+          python Analytics/test_dump.py
 
-      - name: Commit and push changes
+      - name: Configure git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json  # Replace with the path to your data.json file
-          git commit -m "Clear data.json after uploading data to MongoDB"
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit changes
+        run: |
+          git add data.json
+          git commit -m "Clear data.json after dumping data to MongoDB"
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub automatically provides this token to workflows
