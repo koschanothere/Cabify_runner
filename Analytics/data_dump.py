@@ -13,7 +13,7 @@ with open(data_file, "r", encoding='utf-8') as f:
     json_data = json.load(f)
 
 # Load district name mappings from JSON file
-with open(r"C:\Users\Kostya\Cabify_git\Cabify_runner\Analytics\districts_dictionary.json", "r", encoding='utf-8') as f:
+with open(r"Analytics\districts_dictionary.json", "r", encoding='utf-8') as f:
     district_names = json.load(f)
 
 def connect_to_mongodb(uri):
