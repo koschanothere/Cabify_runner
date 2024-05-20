@@ -1,29 +1,37 @@
-import hashlib
+import pymongo
 import json
+import os
+import logging
 
-def feature_hashing_district(district, num_buckets):
-    return int(hashlib.sha256(district.encode('utf-8')).hexdigest(), 16) % num_buckets
+# Configure logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
-def create_districts_dictionary():
-    with open(r'Analytics\origin_coords.json', 'r', encoding='utf-8') as f:
-        data = json.load(f)
+# Load your JSON data from a file
+data_file = "test_data.json"
+with open(data_file, "r", encoding='utf-8') as f:
+    json_data = json.load(f)
+
+# Load district name mappings from JSON file
+with open("swapped_districts.json", "r", encoding='utf-8') as f:
+    district_names = json.load(f)
+
+
+def insert_data_into_collections(data, district_names):
+    # Insert data into MongoDB collections based on district names
+    for entry in data:
+        logger.info(f"Running entry: {entry}")
+        district_key = str(entry["District"])
+        logger.info(f"District key: {district_key}, {type(district_key)}")
+        district_name = district_names.get(district_key, f"district_{district_key}")  # Use district name if available, otherwise default to key
+        logger.info(f"Distrit name: {district_name} \n")
+
+
+def main():
     
-    districts_dict = {}
-    for entry in data['features']:
-        if 'properties' in entry and 'NAME' in entry['properties']:
-            district_name = entry['properties']['NAME']
-            district_hash = feature_hashing_district(district_name, num_buckets=1000)
-            districts_dict[district_name] = district_hash
-
-    # Print the dictionary
-    print("Districts Dictionary:")
-    for district, hash_value in districts_dict.items():
-        print(f"{district}: {hash_value}")
-
-    # Save the dictionary to a JSON file
-    with open('districts_dictionary.json', 'w', encoding='utf-8') as f:
-        json.dump(districts_dict, f, ensure_ascii=False, indent=4)
+    insert_data_into_collections(json_data, district_names)
+    logger.info("Data inserted into MongoDB collections.")
     
-    print("Districts dictionary saved to 'districts_dictionary.json'.")
 
-create_districts_dictionary()
+if __name__ == "__main__":
+    main()
