@@ -111,6 +111,9 @@ def preprocess_data_and_append(entry):
     day_of_week = pd.to_datetime(current_date, format='%d/%m/%Y').dayofweek
     month = int(date_parts[1])
     hour = int(current_time.split(':')[0])
+    
+    new_hour = (hour + 3) % 24
+    new_day_of_week = (day_of_week + (hour + 3) // 24) % 7
 
     # Feature hashing for district names
     district_hash = feature_hashing_district(entry["District"], num_buckets=1000)
@@ -127,9 +130,9 @@ def preprocess_data_and_append(entry):
     # Append to global features list
     global features
     features.append({
-        "DayOfWeek": day_of_week,
+        "DayOfWeek": new_day_of_week,
         "Month": month,
-        "Hour": hour,
+        "Hour": new_hour,
         "District": district_hash,
         "Price": price,
         "Duration": duration,
