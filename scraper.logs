@@ -1,801 +1,876 @@
-2024-05-21 11:39:37,211 INFO:Run 1. Starting run for Печатники. OKATO: 45290000
-2024-05-21 11:39:37,211 INFO:Run 2. Starting run for Южное Бутово. OKATO: 45293000
-2024-05-21 11:39:37,212 INFO:Run 3. Starting run for Царицыно. OKATO: 45296000
-2024-05-21 11:39:37,212 INFO:Run 4. Starting run for Чертаново Южное. OKATO: 45296000
-2024-05-21 11:39:37,212 INFO:Run 5. Starting run for Ивановское. OKATO: 45263000
-2024-05-21 11:39:37,212 INFO:Run 6. Starting run for Филёвский Парк. OKATO: 45268000
-2024-05-21 11:39:37,212 INFO:Run 7. Starting run for Ломоносовский. OKATO: 45293000
-2024-05-21 11:39:37,212 INFO:Run 8. Starting run for Раменки. OKATO: 45268000
-2024-05-21 11:39:37,212 INFO:Run 9. Starting run for Лосиноостровский. OKATO: 45280000
-2024-05-21 11:39:37,212 INFO:Run 10. Starting run for Вешняки. OKATO: 45263000
-2024-05-21 11:39:37,212 INFO:Run 11. Starting run for Солнцево. OKATO: 45268000
-2024-05-21 11:39:37,212 INFO:Run 12. Starting run for Ховрино. OKATO: 45277000
-2024-05-21 11:39:37,212 INFO:Run 13. Starting run for Гагаринский. OKATO: 45293000
-2024-05-21 11:39:37,212 INFO:Run 14. Starting run for Кунцево. OKATO: 45268000
-2024-05-21 11:39:37,212 INFO:Run 15. Starting run for Южное Тушино. OKATO: 45283000
-2024-05-21 11:39:37,212 INFO:Run 16. Starting run for Орехово-Борисово Южное. OKATO: 45296000
-2024-05-21 11:39:37,212 INFO:Run 17. Starting run for Нижегородский. OKATO: 45290000
-2024-05-21 11:39:37,212 INFO:Run 18. Starting run for Бибирево. OKATO: 45280000
-2024-05-21 11:39:37,213 INFO:Run 19. Starting run for Зябликово. OKATO: 45296000
-2024-05-21 11:39:37,213 INFO:Run 20. Starting run for Марфино. OKATO: 45280000
-2024-05-21 11:39:37,213 INFO:Run 21. Starting run for Москворечье-Сабурово. OKATO: 45296000
-2024-05-21 11:39:37,213 INFO:Run 22. Starting run for Северное Измайлово. OKATO: 45263000
-2024-05-21 11:39:37,213 INFO:Run 23. Starting run for Пресненский. OKATO: 45286000
-2024-05-21 11:39:37,213 INFO:Run 24. Starting run for Фили-Давыдково. OKATO: 45268000
-2024-05-21 11:39:37,213 INFO:Run 25. Starting run for Дмитровский. OKATO: 45277000
-2024-05-21 11:39:37,213 INFO:Run 26. Starting run for Внуково. OKATO: 45268000
-2024-05-21 11:39:37,213 INFO:Run 27. Starting run for Измайлово. OKATO: 45263000
-2024-05-21 11:39:37,213 INFO:Run 28. Starting run for Нагорный. OKATO: 45296000
-2024-05-21 11:39:37,213 INFO:Run 29. Starting run for Хорошёво-Мнёвники. OKATO: 45283000
-2024-05-21 11:39:37,213 INFO:Run 30. Starting run for Арбат. OKATO: 45286000
-2024-05-21 11:39:37,213 INFO:Run 31. Starting run for Южнопортовый. OKATO: 45290000
-2024-05-21 11:39:37,213 INFO:Run 32. Starting run for Восточное Измайлово. OKATO: 45263000
-2024-05-21 11:39:37,213 INFO:Run 33. Starting run for Савёловский. OKATO: 45277000
-2024-05-21 11:39:37,213 INFO:Run 34. Starting run for Мещанский. OKATO: 45286000
-2024-05-21 11:39:37,213 INFO:Run 35. Starting run for Новокосино. OKATO: 45263000
-2024-05-21 11:39:37,214 INFO:Run 36. Starting run for Хамовники. OKATO: 45286000
-2024-05-21 11:39:37,215 INFO:Run 37. Starting run for Орехово-Борисово Северное. OKATO: 45296000
-2024-05-21 11:39:37,215 INFO:Run 38. Starting run for Басманный. OKATO: 45286000
-2024-05-21 11:39:37,215 INFO:Run 39. Starting run for Щукино. OKATO: 45283000
-2024-05-21 11:39:37,215 INFO:Run 40. Starting run for Аэропорт. OKATO: 45277000
-2024-05-21 11:39:37,215 INFO:Run 41. Starting run for Куркино. OKATO: 45283000
-2024-05-21 11:39:37,215 INFO:Run 42. Starting run for Коптево. OKATO: 45277000
-2024-05-21 11:39:37,215 INFO:Run 43. Starting run for Черёмушки. OKATO: 45293000
-2024-05-21 11:39:37,215 INFO:Run 44. Starting run for Головинский. OKATO: 45277000
-2024-05-21 11:39:37,216 INFO:Run 45. Starting run for Некрасовка. OKATO: 45290000
-2024-05-21 11:39:37,216 INFO:Run 46. Starting run for Рязанский. OKATO: 45290000
-2024-05-21 11:39:37,216 INFO:Run 47. Starting run for Алтуфьевский. OKATO: 45280000
-2024-05-21 11:39:37,216 INFO:Run 48. Starting run for Новогиреево. OKATO: 45263000
-2024-05-21 11:39:37,216 INFO:Run 49. Starting run for Лефортово. OKATO: 45290000
-2024-05-21 11:39:37,216 INFO:Run 50. Starting run for Восточное Дегунино. OKATO: 45277000
-2024-05-21 11:39:37,216 INFO:Run 51. Starting run for Выхино-Жулебино. OKATO: 45290000
-2024-05-21 11:39:37,216 INFO:Run 52. Starting run for Строгино. OKATO: 45283000
-2024-05-21 11:39:37,217 INFO:Run 53. Starting run for Южное Медведково. OKATO: 45280000
-2024-05-21 11:39:37,217 INFO:Run 54. Starting run for Покровское-Стрешнево. OKATO: 45283000
-2024-05-21 11:39:37,217 INFO:Run 55. Starting run for Ясенево. OKATO: 45293000
-2024-05-21 11:39:37,217 INFO:Run 56. Starting run for Северное Медведково. OKATO: 45280000
-2024-05-21 11:39:37,217 INFO:Run 57. Starting run for Преображенское. OKATO: 45263000
-2024-05-21 11:39:37,217 INFO:Run 58. Starting run for Алексеевский. OKATO: 45280000
-2024-05-21 11:39:37,217 INFO:Run 59. Starting run for Тимирязевский. OKATO: 45277000
-2024-05-21 11:39:37,217 INFO:Run 60. Starting run for Чертаново Центральное. OKATO: 45296000
-2024-05-21 11:39:37,218 INFO:Run 61. Starting run for Митино. OKATO: 45283000
-2024-05-21 11:39:37,218 INFO:Run 62. Starting run for Таганский. OKATO: 45286000
-2024-05-21 11:39:37,218 INFO:Run 63. Starting run for Очаково-Матвеевское. OKATO: 45268000
-2024-05-21 11:39:37,218 INFO:Run 64. Starting run for Бирюлёво Западное. OKATO: 45296000
-2024-05-21 11:39:37,219 INFO:Run 65. Starting run for Свиблово. OKATO: 45280000
-2024-05-21 11:39:37,219 INFO:Run 66. Starting run for Косино-Ухтомский. OKATO: 45263000
-2024-05-21 11:39:37,219 INFO:Run 67. Starting run for Замоскворечье. OKATO: 45286000
-2024-05-21 11:39:37,219 INFO:Run 68. Starting run for Ярославский. OKATO: 45280000
-2024-05-21 11:39:37,219 INFO:Run 69. Starting run for Обручевский. OKATO: 45293000
-2024-05-21 11:39:37,219 INFO:Run 70. Starting run for Метрогородок. OKATO: 45263000
-2024-05-21 11:39:37,219 INFO:Run 71. Starting run for Тверской. OKATO: 45286000
-2024-05-21 11:39:37,220 INFO:Run 72. Starting run for Соколиная Гора. OKATO: 45263000
-2024-05-21 11:39:37,220 INFO:Run 73. Starting run for Дорогомилово. OKATO: 45268000
-2024-05-21 11:39:37,220 INFO:Run 74. Starting run for Отрадное. OKATO: 45280000
-2024-05-21 11:39:37,220 INFO:Run 75. Starting run for Войковский. OKATO: 45277000
-2024-05-21 11:39:37,220 INFO:Run 76. Starting run for Коньково. OKATO: 45293000
-2024-05-21 11:39:37,220 INFO:Run 77. Starting run for Даниловский. OKATO: 45296000
-2024-05-21 11:39:37,221 INFO:Run 78. Starting run for Тёплый Стан. OKATO: 45293000
-2024-05-21 11:39:37,221 INFO:Run 79. Starting run for Молжаниновский. OKATO: 45277000
-2024-05-21 11:39:37,221 INFO:Run 80. Starting run for Северное Бутово. OKATO: 45293000
-2024-05-21 11:39:37,221 INFO:Run 81. Starting run for Западное Дегунино. OKATO: 45277000
-2024-05-21 11:39:37,221 INFO:Run 82. Starting run for Якиманка. OKATO: 45286000
-2024-05-21 11:39:37,221 INFO:Run 83. Starting run for Крылатское. OKATO: 45268000
-2024-05-21 11:39:37,221 INFO:Run 84. Starting run for Марьино. OKATO: 45290000
-2024-05-21 11:39:37,221 INFO:Run 85. Starting run for Хорошёвский. OKATO: 45277000
-2024-05-21 11:39:37,221 INFO:Run 86. Starting run for Беговой. OKATO: 45277000
-2024-05-21 11:39:37,221 INFO:Run 87. Starting run for Кузьминки. OKATO: 45290000
-2024-05-21 11:39:37,222 INFO:Run 88. Starting run for Ново-Переделкино. OKATO: 45268000
-2024-05-21 11:39:37,222 INFO:Run 89. Starting run for Капотня. OKATO: 45290000
-2024-05-21 11:39:37,222 INFO:Run 90. Starting run for Текстильщики. OKATO: 45290000
-2024-05-21 11:39:37,222 INFO:Run 91. Starting run for Северный. OKATO: 45280000
-2024-05-21 11:39:37,222 INFO:Run 92. Starting run for Перово. OKATO: 45263000
-2024-05-21 11:39:37,222 INFO:Run 93. Starting run for Чертаново Северное. OKATO: 45296000
-2024-05-21 11:39:37,222 INFO:Run 94. Starting run for Нагатинский Затон. OKATO: 45296000
-2024-05-21 11:39:37,222 INFO:Run 95. Starting run for Лианозово. OKATO: 45280000
-2024-05-21 11:39:37,222 INFO:Run 96. Starting run for Бутырский. OKATO: 45280000
-2024-05-21 11:39:37,222 INFO:Run 97. Starting run for Ростокино. OKATO: 45280000
-2024-05-21 11:39:37,222 INFO:Run 98. Starting run for Академический. OKATO: 45293000
-2024-05-21 11:39:37,222 INFO:Run 99. Starting run for Нагатино-Садовники. OKATO: 45296000
-2024-05-21 11:39:37,222 INFO:Run 100. Starting run for Левобережный. OKATO: 45277000
-2024-05-21 11:39:37,223 INFO:Run 101. Starting run for Люблино. OKATO: 45290000
-2024-05-21 11:39:37,223 INFO:Run 102. Starting run for Тропарёво-Никулино. OKATO: 45268000
-2024-05-21 11:39:37,223 INFO:Run 103. Starting run for Можайский. OKATO: 45268000
-2024-05-21 11:39:37,223 INFO:Run 104. Starting run for Бескудниковский. OKATO: 45277000
-2024-05-21 11:39:37,223 INFO:Run 105. Starting run for Братеево. OKATO: 45296000
-2024-05-21 11:39:37,223 INFO:Run 106. Starting run for Гольяново. OKATO: 45263000
-2024-05-21 11:39:37,223 INFO:Run 107. Starting run for Северное Тушино. OKATO: 45283000
-2024-05-21 11:39:37,223 INFO:Run 108. Starting run for Останкинский. OKATO: 45280000
-2024-05-21 11:39:37,223 INFO:Run 109. Starting run for Бабушкинский. OKATO: 45280000
-2024-05-21 11:39:37,223 INFO:Run 110. Starting run for Донской. OKATO: 45296000
-2024-05-21 11:39:37,223 INFO:Run 111. Starting run for Сокол. OKATO: 45277000
-2024-05-21 11:39:37,223 INFO:Run 112. Starting run for Марьина Роща. OKATO: 45280000
-2024-05-21 11:39:37,223 INFO:Run 113. Starting run for Котловка. OKATO: 45293000
-2024-05-21 11:39:37,223 INFO:Run 114. Starting run for Восточный. OKATO: 45263000
-2024-05-21 11:39:37,223 INFO:Run 115. Starting run for Красносельский. OKATO: 45286000
-2024-05-21 11:39:37,223 INFO:Run 116. Starting run for Зюзино. OKATO: 45293000
-2024-05-21 11:39:37,223 INFO:Run 117. Starting run for Сокольники. OKATO: 45263000
-2024-05-21 11:39:37,223 INFO:Run 118. Starting run for Бирюлёво Восточное. OKATO: 45296000
-2024-05-21 11:39:37,224 INFO:Run 119. Starting run for Богородское. OKATO: 45263000
-2024-05-21 11:39:37,224 INFO:Run 120. Starting run for Проспект Вернадского. OKATO: 45268000
-2024-05-21 11:39:37,224 INFO:Starting scraper for: {'Run': 1, 'District': 'Печатники', 'Point A': '55.690572643930075, 37.71238728690063', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:39:45,937 INFO:Data for Печатники: {'District': 'Печатники', 'Price': '845', 'Duration': '34 мин', 'Length': '17,2'}
-2024-05-21 11:39:45,945 INFO:Preprocessing completed for entry: {'District': 'Печатники', 'Price': '845', 'Duration': '34 мин', 'Length': '17,2'}
-2024-05-21 11:39:45,945 INFO:Scraper called successfully for Печатники
-2024-05-21 11:39:45,945 INFO:Starting scraper for: {'Run': 2, 'District': 'Южное Бутово', 'Point A': '55.53402392620272, 37.56391337383428', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:39:50,247 INFO:Data for Южное Бутово: {'District': 'Южное Бутово', 'Price': '689', 'Duration': '32 мин', 'Length': '13,3'}
-2024-05-21 11:39:50,247 INFO:Preprocessing completed for entry: {'District': 'Южное Бутово', 'Price': '689', 'Duration': '32 мин', 'Length': '13,3'}
-2024-05-21 11:39:50,248 INFO:Scraper called successfully for Южное Бутово
-2024-05-21 11:39:50,248 INFO:Starting scraper for: {'Run': 3, 'District': 'Царицыно', 'Point A': '55.63164968086691, 37.67362793776621', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:39:54,143 INFO:Data for Царицыно: {'District': 'Царицыно', 'Price': '340', 'Duration': '5 мин', 'Length': '1,86'}
-2024-05-21 11:39:54,144 INFO:Preprocessing completed for entry: {'District': 'Царицыно', 'Price': '340', 'Duration': '5 мин', 'Length': '1,86'}
-2024-05-21 11:39:54,144 INFO:Scraper called successfully for Царицыно
-2024-05-21 11:39:54,144 INFO:Starting scraper for: {'Run': 4, 'District': 'Чертаново Южное', 'Point A': '55.59984597819561, 37.627066641226676', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:39:58,739 INFO:Data for Чертаново Южное: {'District': 'Чертаново Южное', 'Price': '594', 'Duration': '18 мин', 'Length': '10,5'}
-2024-05-21 11:39:58,740 INFO:Preprocessing completed for entry: {'District': 'Чертаново Южное', 'Price': '594', 'Duration': '18 мин', 'Length': '10,5'}
-2024-05-21 11:39:58,740 INFO:Scraper called successfully for Чертаново Южное
-2024-05-21 11:39:58,740 INFO:Starting scraper for: {'Run': 5, 'District': 'Ивановское', 'Point A': '55.755726400204495, 37.82959352932651', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:40:02,526 INFO:Data for Ивановское: {'District': 'Ивановское', 'Price': '349', 'Duration': '31 мин', 'Length': '26'}
-2024-05-21 11:40:02,526 INFO:Preprocessing completed for entry: {'District': 'Ивановское', 'Price': '349', 'Duration': '31 мин', 'Length': '26'}
-2024-05-21 11:40:02,526 INFO:Scraper called successfully for Ивановское
-2024-05-21 11:40:02,526 INFO:Starting scraper for: {'Run': 6, 'District': 'Филёвский Парк', 'Point A': '55.74746739293403, 37.49006168219751', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:40:06,851 INFO:Data for Филёвский Парк: {'District': 'Филёвский Парк', 'Price': '883', 'Duration': '23 мин', 'Length': '22,1'}
-2024-05-21 11:40:06,851 INFO:Preprocessing completed for entry: {'District': 'Филёвский Парк', 'Price': '883', 'Duration': '23 мин', 'Length': '22,1'}
-2024-05-21 11:40:06,851 INFO:Scraper called successfully for Филёвский Парк
-2024-05-21 11:40:06,851 INFO:Starting scraper for: {'Run': 7, 'District': 'Ломоносовский', 'Point A': '55.67277443033568, 37.532975447478364', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:40:10,701 INFO:Data for Ломоносовский: {'District': 'Ломоносовский', 'Price': '646', 'Duration': '26 мин', 'Length': '10,8'}
-2024-05-21 11:40:10,701 INFO:Preprocessing completed for entry: {'District': 'Ломоносовский', 'Price': '646', 'Duration': '26 мин', 'Length': '10,8'}
-2024-05-21 11:40:10,702 INFO:Scraper called successfully for Ломоносовский
-2024-05-21 11:40:10,702 INFO:Starting scraper for: {'Run': 8, 'District': 'Раменки', 'Point A': '55.722337500418476, 37.51905116487049', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:40:14,950 INFO:Data for Раменки: {'District': 'Раменки', 'Price': '1167', 'Duration': '31 мин', 'Length': '25,1'}
-2024-05-21 11:40:14,951 INFO:Preprocessing completed for entry: {'District': 'Раменки', 'Price': '1167', 'Duration': '31 мин', 'Length': '25,1'}
-2024-05-21 11:40:14,951 INFO:Scraper called successfully for Раменки
-2024-05-21 11:40:14,951 INFO:Starting scraper for: {'Run': 9, 'District': 'Лосиноостровский', 'Point A': '55.88514158430021, 37.71106434446373', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:40:18,204 INFO:Data for Лосиноостровский: {'District': 'Лосиноостровский', 'Price': '661', 'Duration': '23 мин', 'Length': '8,5'}
-2024-05-21 11:40:18,205 INFO:Preprocessing completed for entry: {'District': 'Лосиноостровский', 'Price': '661', 'Duration': '23 мин', 'Length': '8,5'}
-2024-05-21 11:40:18,205 INFO:Scraper called successfully for Лосиноостровский
-2024-05-21 11:40:18,206 INFO:Starting scraper for: {'Run': 10, 'District': 'Вешняки', 'Point A': '55.725194854802446, 37.83036984068614', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:40:21,947 INFO:Data for Вешняки: {'District': 'Вешняки', 'Price': '369', 'Duration': '33 мин', 'Length': '28,6'}
-2024-05-21 11:40:21,948 INFO:Preprocessing completed for entry: {'District': 'Вешняки', 'Price': '369', 'Duration': '33 мин', 'Length': '28,6'}
-2024-05-21 11:40:21,948 INFO:Scraper called successfully for Вешняки
-2024-05-21 11:40:21,948 INFO:Starting scraper for: {'Run': 11, 'District': 'Солнцево', 'Point A': '55.63320297647751, 37.39127367791208', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:40:25,809 INFO:Data for Солнцево: {'District': 'Солнцево', 'Price': '1103', 'Duration': '32 мин', 'Length': '27'}
-2024-05-21 11:40:25,809 INFO:Preprocessing completed for entry: {'District': 'Солнцево', 'Price': '1103', 'Duration': '32 мин', 'Length': '27'}
-2024-05-21 11:40:25,809 INFO:Scraper called successfully for Солнцево
-2024-05-21 11:40:25,810 INFO:Starting scraper for: {'Run': 12, 'District': 'Ховрино', 'Point A': '55.87751020106036, 37.470365701092504', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:40:29,754 INFO:Data for Ховрино: {'District': 'Ховрино', 'Price': '384', 'Duration': '14 мин', 'Length': '4,3'}
-2024-05-21 11:40:29,754 INFO:Preprocessing completed for entry: {'District': 'Ховрино', 'Price': '384', 'Duration': '14 мин', 'Length': '4,3'}
-2024-05-21 11:40:29,754 INFO:Scraper called successfully for Ховрино
-2024-05-21 11:40:29,754 INFO:Starting scraper for: {'Run': 13, 'District': 'Гагаринский', 'Point A': '55.69105320688635, 37.55587849140841', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:40:33,385 INFO:Data for Гагаринский: {'District': 'Гагаринский', 'Price': '766', 'Duration': '34 мин', 'Length': '12,7'}
-2024-05-21 11:40:33,386 INFO:Preprocessing completed for entry: {'District': 'Гагаринский', 'Price': '766', 'Duration': '34 мин', 'Length': '12,7'}
-2024-05-21 11:40:33,386 INFO:Scraper called successfully for Гагаринский
-2024-05-21 11:40:33,386 INFO:Starting scraper for: {'Run': 14, 'District': 'Кунцево', 'Point A': '55.742242, 37.417231', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:40:37,136 INFO:Data for Кунцево: {'District': 'Кунцево', 'Price': '805', 'Duration': '25 мин', 'Length': '17,2'}
-2024-05-21 11:40:37,136 INFO:Preprocessing completed for entry: {'District': 'Кунцево', 'Price': '805', 'Duration': '25 мин', 'Length': '17,2'}
-2024-05-21 11:40:37,136 INFO:Scraper called successfully for Кунцево
-2024-05-21 11:40:37,136 INFO:Starting scraper for: {'Run': 15, 'District': 'Южное Тушино', 'Point A': '55.84314904191455, 37.407252514910176', 'Point B': '55.82107826014529, 37.425697921282264'}
-2024-05-21 11:40:40,962 INFO:Data for Южное Тушино: {'District': 'Южное Тушино', 'Price': '313', 'Duration': '13 мин', 'Length': '5,5'}
-2024-05-21 11:40:40,963 INFO:Preprocessing completed for entry: {'District': 'Южное Тушино', 'Price': '313', 'Duration': '13 мин', 'Length': '5,5'}
-2024-05-21 11:40:40,963 INFO:Scraper called successfully for Южное Тушино
-2024-05-21 11:40:40,963 INFO:Starting scraper for: {'Run': 16, 'District': 'Орехово-Борисово Южное', 'Point A': '55.599704285148604, 37.70241869091814', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:40:47,681 ERROR:An error occurred for Орехово-Борисово Южное: Message: 
+2024-05-21 12:56:01,010 INFO:Run 1. Starting run for Котловка. OKATO: 45293000
+2024-05-21 12:56:01,010 INFO:Run 2. Starting run for Царицыно. OKATO: 45296000
+2024-05-21 12:56:01,010 INFO:Run 3. Starting run for Внуково. OKATO: 45268000
+2024-05-21 12:56:01,010 INFO:Run 4. Starting run for Донской. OKATO: 45296000
+2024-05-21 12:56:01,010 INFO:Run 5. Starting run for Печатники. OKATO: 45290000
+2024-05-21 12:56:01,010 INFO:Run 6. Starting run for Вешняки. OKATO: 45263000
+2024-05-21 12:56:01,010 INFO:Run 7. Starting run for Фили-Давыдково. OKATO: 45268000
+2024-05-21 12:56:01,011 INFO:Run 8. Starting run for Лосиноостровский. OKATO: 45280000
+2024-05-21 12:56:01,011 INFO:Run 9. Starting run for Арбат. OKATO: 45286000
+2024-05-21 12:56:01,011 INFO:Run 10. Starting run for Зябликово. OKATO: 45296000
+2024-05-21 12:56:01,011 INFO:Run 11. Starting run for Якиманка. OKATO: 45286000
+2024-05-21 12:56:01,011 INFO:Run 12. Starting run for Бабушкинский. OKATO: 45280000
+2024-05-21 12:56:01,011 INFO:Run 13. Starting run for Дмитровский. OKATO: 45277000
+2024-05-21 12:56:01,011 INFO:Run 14. Starting run for Текстильщики. OKATO: 45290000
+2024-05-21 12:56:01,011 INFO:Run 15. Starting run for Войковский. OKATO: 45277000
+2024-05-21 12:56:01,011 INFO:Run 16. Starting run for Мещанский. OKATO: 45286000
+2024-05-21 12:56:01,011 INFO:Run 17. Starting run for Ярославский. OKATO: 45280000
+2024-05-21 12:56:01,011 INFO:Run 18. Starting run for Метрогородок. OKATO: 45263000
+2024-05-21 12:56:01,011 INFO:Run 19. Starting run for Южное Тушино. OKATO: 45283000
+2024-05-21 12:56:01,011 INFO:Run 20. Starting run for Алтуфьевский. OKATO: 45280000
+2024-05-21 12:56:01,012 INFO:Run 21. Starting run for Отрадное. OKATO: 45280000
+2024-05-21 12:56:01,012 INFO:Run 22. Starting run for Западное Дегунино. OKATO: 45277000
+2024-05-21 12:56:01,012 INFO:Run 23. Starting run for Северный. OKATO: 45280000
+2024-05-21 12:56:01,012 INFO:Run 24. Starting run for Выхино-Жулебино. OKATO: 45290000
+2024-05-21 12:56:01,012 INFO:Run 25. Starting run for Северное Медведково. OKATO: 45280000
+2024-05-21 12:56:01,012 INFO:Run 26. Starting run for Филёвский Парк. OKATO: 45268000
+2024-05-21 12:56:01,012 INFO:Run 27. Starting run for Чертаново Северное. OKATO: 45296000
+2024-05-21 12:56:01,012 INFO:Run 28. Starting run for Северное Измайлово. OKATO: 45263000
+2024-05-21 12:56:01,012 INFO:Run 29. Starting run for Молжаниновский. OKATO: 45277000
+2024-05-21 12:56:01,012 INFO:Run 30. Starting run for Крылатское. OKATO: 45268000
+2024-05-21 12:56:01,012 INFO:Run 31. Starting run for Бескудниковский. OKATO: 45277000
+2024-05-21 12:56:01,012 INFO:Run 32. Starting run for Бибирево. OKATO: 45280000
+2024-05-21 12:56:01,012 INFO:Run 33. Starting run for Сокол. OKATO: 45277000
+2024-05-21 12:56:01,013 INFO:Run 34. Starting run for Пресненский. OKATO: 45286000
+2024-05-21 12:56:01,013 INFO:Run 35. Starting run for Даниловский. OKATO: 45296000
+2024-05-21 12:56:01,013 INFO:Run 36. Starting run for Останкинский. OKATO: 45280000
+2024-05-21 12:56:01,013 INFO:Run 37. Starting run for Марфино. OKATO: 45280000
+2024-05-21 12:56:01,013 INFO:Run 38. Starting run for Ясенево. OKATO: 45293000
+2024-05-21 12:56:01,013 INFO:Run 39. Starting run for Таганский. OKATO: 45286000
+2024-05-21 12:56:01,013 INFO:Run 40. Starting run for Раменки. OKATO: 45268000
+2024-05-21 12:56:01,013 INFO:Run 41. Starting run for Рязанский. OKATO: 45290000
+2024-05-21 12:56:01,013 INFO:Run 42. Starting run for Сокольники. OKATO: 45263000
+2024-05-21 12:56:01,013 INFO:Run 43. Starting run for Замоскворечье. OKATO: 45286000
+2024-05-21 12:56:01,013 INFO:Run 44. Starting run for Коптево. OKATO: 45277000
+2024-05-21 12:56:01,013 INFO:Run 45. Starting run for Коньково. OKATO: 45293000
+2024-05-21 12:56:01,013 INFO:Run 46. Starting run for Братеево. OKATO: 45296000
+2024-05-21 12:56:01,013 INFO:Run 47. Starting run for Измайлово. OKATO: 45263000
+2024-05-21 12:56:01,013 INFO:Run 48. Starting run for Капотня. OKATO: 45290000
+2024-05-21 12:56:01,013 INFO:Run 49. Starting run for Нижегородский. OKATO: 45290000
+2024-05-21 12:56:01,014 INFO:Run 50. Starting run for Солнцево. OKATO: 45268000
+2024-05-21 12:56:01,014 INFO:Run 51. Starting run for Гольяново. OKATO: 45263000
+2024-05-21 12:56:01,014 INFO:Run 52. Starting run for Перово. OKATO: 45263000
+2024-05-21 12:56:01,014 INFO:Run 53. Starting run for Алексеевский. OKATO: 45280000
+2024-05-21 12:56:01,014 INFO:Run 54. Starting run for Марьина Роща. OKATO: 45280000
+2024-05-21 12:56:01,014 INFO:Run 55. Starting run for Богородское. OKATO: 45263000
+2024-05-21 12:56:01,014 INFO:Run 56. Starting run for Обручевский. OKATO: 45293000
+2024-05-21 12:56:01,014 INFO:Run 57. Starting run for Куркино. OKATO: 45283000
+2024-05-21 12:56:01,014 INFO:Run 58. Starting run for Чертаново Южное. OKATO: 45296000
+2024-05-21 12:56:01,014 INFO:Run 59. Starting run for Новогиреево. OKATO: 45263000
+2024-05-21 12:56:01,014 INFO:Run 60. Starting run for Проспект Вернадского. OKATO: 45268000
+2024-05-21 12:56:01,014 INFO:Run 61. Starting run for Беговой. OKATO: 45277000
+2024-05-21 12:56:01,014 INFO:Run 62. Starting run for Хорошёвский. OKATO: 45277000
+2024-05-21 12:56:01,014 INFO:Run 63. Starting run for Головинский. OKATO: 45277000
+2024-05-21 12:56:01,014 INFO:Run 64. Starting run for Хамовники. OKATO: 45286000
+2024-05-21 12:56:01,014 INFO:Run 65. Starting run for Ховрино. OKATO: 45277000
+2024-05-21 12:56:01,015 INFO:Run 66. Starting run for Чертаново Центральное. OKATO: 45296000
+2024-05-21 12:56:01,015 INFO:Run 67. Starting run for Некрасовка. OKATO: 45290000
+2024-05-21 12:56:01,015 INFO:Run 68. Starting run for Очаково-Матвеевское. OKATO: 45268000
+2024-05-21 12:56:01,015 INFO:Run 69. Starting run for Москворечье-Сабурово. OKATO: 45296000
+2024-05-21 12:56:01,015 INFO:Run 70. Starting run for Кузьминки. OKATO: 45290000
+2024-05-21 12:56:01,015 INFO:Run 71. Starting run for Гагаринский. OKATO: 45293000
+2024-05-21 12:56:01,015 INFO:Run 72. Starting run for Бирюлёво Западное. OKATO: 45296000
+2024-05-21 12:56:01,015 INFO:Run 73. Starting run for Черёмушки. OKATO: 45293000
+2024-05-21 12:56:01,015 INFO:Run 74. Starting run for Левобережный. OKATO: 45277000
+2024-05-21 12:56:01,015 INFO:Run 75. Starting run for Тимирязевский. OKATO: 45277000
+2024-05-21 12:56:01,015 INFO:Run 76. Starting run for Косино-Ухтомский. OKATO: 45263000
+2024-05-21 12:56:01,015 INFO:Run 77. Starting run for Можайский. OKATO: 45268000
+2024-05-21 12:56:01,015 INFO:Run 78. Starting run for Дорогомилово. OKATO: 45268000
+2024-05-21 12:56:01,015 INFO:Run 79. Starting run for Басманный. OKATO: 45286000
+2024-05-21 12:56:01,015 INFO:Run 80. Starting run for Тропарёво-Никулино. OKATO: 45268000
+2024-05-21 12:56:01,015 INFO:Run 81. Starting run for Ломоносовский. OKATO: 45293000
+2024-05-21 12:56:01,016 INFO:Run 82. Starting run for Хорошёво-Мнёвники. OKATO: 45283000
+2024-05-21 12:56:01,016 INFO:Run 83. Starting run for Лефортово. OKATO: 45290000
+2024-05-21 12:56:01,016 INFO:Run 84. Starting run for Соколиная Гора. OKATO: 45263000
+2024-05-21 12:56:01,016 INFO:Run 85. Starting run for Орехово-Борисово Южное. OKATO: 45296000
+2024-05-21 12:56:01,016 INFO:Run 86. Starting run for Строгино. OKATO: 45283000
+2024-05-21 12:56:01,016 INFO:Run 87. Starting run for Люблино. OKATO: 45290000
+2024-05-21 12:56:01,016 INFO:Run 88. Starting run for Зюзино. OKATO: 45293000
+2024-05-21 12:56:01,016 INFO:Run 89. Starting run for Восточный. OKATO: 45263000
+2024-05-21 12:56:01,016 INFO:Run 90. Starting run for Савёловский. OKATO: 45277000
+2024-05-21 12:56:01,016 INFO:Run 91. Starting run for Нагатино-Садовники. OKATO: 45296000
+2024-05-21 12:56:01,016 INFO:Run 92. Starting run for Северное Тушино. OKATO: 45283000
+2024-05-21 12:56:01,016 INFO:Run 93. Starting run for Ростокино. OKATO: 45280000
+2024-05-21 12:56:01,016 INFO:Run 94. Starting run for Ново-Переделкино. OKATO: 45268000
+2024-05-21 12:56:01,017 INFO:Run 95. Starting run for Восточное Дегунино. OKATO: 45277000
+2024-05-21 12:56:01,017 INFO:Run 96. Starting run for Южное Бутово. OKATO: 45293000
+2024-05-21 12:56:01,017 INFO:Run 97. Starting run for Нагатинский Затон. OKATO: 45296000
+2024-05-21 12:56:01,017 INFO:Run 98. Starting run for Преображенское. OKATO: 45263000
+2024-05-21 12:56:01,017 INFO:Run 99. Starting run for Аэропорт. OKATO: 45277000
+2024-05-21 12:56:01,017 INFO:Run 100. Starting run for Южное Медведково. OKATO: 45280000
+2024-05-21 12:56:01,017 INFO:Run 101. Starting run for Тверской. OKATO: 45286000
+2024-05-21 12:56:01,017 INFO:Run 102. Starting run for Покровское-Стрешнево. OKATO: 45283000
+2024-05-21 12:56:01,017 INFO:Run 103. Starting run for Кунцево. OKATO: 45268000
+2024-05-21 12:56:01,017 INFO:Run 104. Starting run for Митино. OKATO: 45283000
+2024-05-21 12:56:01,017 INFO:Run 105. Starting run for Нагорный. OKATO: 45296000
+2024-05-21 12:56:01,017 INFO:Run 106. Starting run for Тёплый Стан. OKATO: 45293000
+2024-05-21 12:56:01,017 INFO:Run 107. Starting run for Щукино. OKATO: 45283000
+2024-05-21 12:56:01,017 INFO:Run 108. Starting run for Марьино. OKATO: 45290000
+2024-05-21 12:56:01,018 INFO:Run 109. Starting run for Северное Бутово. OKATO: 45293000
+2024-05-21 12:56:01,018 INFO:Run 110. Starting run for Ивановское. OKATO: 45263000
+2024-05-21 12:56:01,018 INFO:Run 111. Starting run for Восточное Измайлово. OKATO: 45263000
+2024-05-21 12:56:01,018 INFO:Run 112. Starting run for Красносельский. OKATO: 45286000
+2024-05-21 12:56:01,018 INFO:Run 113. Starting run for Южнопортовый. OKATO: 45290000
+2024-05-21 12:56:01,018 INFO:Run 114. Starting run for Новокосино. OKATO: 45263000
+2024-05-21 12:56:01,018 INFO:Run 115. Starting run for Лианозово. OKATO: 45280000
+2024-05-21 12:56:01,018 INFO:Run 116. Starting run for Орехово-Борисово Северное. OKATO: 45296000
+2024-05-21 12:56:01,018 INFO:Run 117. Starting run for Бирюлёво Восточное. OKATO: 45296000
+2024-05-21 12:56:01,018 INFO:Run 118. Starting run for Академический. OKATO: 45293000
+2024-05-21 12:56:01,018 INFO:Run 119. Starting run for Свиблово. OKATO: 45280000
+2024-05-21 12:56:01,018 INFO:Run 120. Starting run for Бутырский. OKATO: 45280000
+2024-05-21 12:56:01,019 INFO:Starting scraper for: {'Run': 1, 'District': 'Котловка', 'Point A': '55.668570111263264, 37.601990511823594', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 12:56:10,047 INFO:Data for Котловка: {'District': 'Котловка', 'Price': '467', 'Duration': '30 мин', 'Length': '9,3'}
+2024-05-21 12:56:10,050 INFO:Preprocessing completed for entry: {'District': 'Котловка', 'Price': '467', 'Duration': '30 мин', 'Length': '9,3'}
+2024-05-21 12:56:10,050 INFO:Scraper called successfully for Котловка
+2024-05-21 12:56:10,050 INFO:Starting scraper for: {'Run': 2, 'District': 'Царицыно', 'Point A': '55.63164968086691, 37.67362793776621', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 12:56:13,529 INFO:Data for Царицыно: {'District': 'Царицыно', 'Price': '258', 'Duration': '5 мин', 'Length': '1,86'}
+2024-05-21 12:56:13,530 INFO:Preprocessing completed for entry: {'District': 'Царицыно', 'Price': '258', 'Duration': '5 мин', 'Length': '1,86'}
+2024-05-21 12:56:13,530 INFO:Scraper called successfully for Царицыно
+2024-05-21 12:56:13,530 INFO:Starting scraper for: {'Run': 3, 'District': 'Внуково', 'Point A': '55.60784125630275, 37.30488653709272', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 12:56:17,343 INFO:Data for Внуково: {'District': 'Внуково', 'Price': '697', 'Duration': '37 мин', 'Length': '26,8'}
+2024-05-21 12:56:17,343 INFO:Preprocessing completed for entry: {'District': 'Внуково', 'Price': '697', 'Duration': '37 мин', 'Length': '26,8'}
+2024-05-21 12:56:17,343 INFO:Scraper called successfully for Внуково
+2024-05-21 12:56:17,343 INFO:Starting scraper for: {'Run': 4, 'District': 'Донской', 'Point A': '55.70394253988541, 37.60438727619302', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 12:56:20,638 INFO:Data for Донской: {'District': 'Донской', 'Price': '737', 'Duration': '38 мин', 'Length': '13'}
+2024-05-21 12:56:20,639 INFO:Preprocessing completed for entry: {'District': 'Донской', 'Price': '737', 'Duration': '38 мин', 'Length': '13'}
+2024-05-21 12:56:20,639 INFO:Scraper called successfully for Донской
+2024-05-21 12:56:20,639 INFO:Starting scraper for: {'Run': 5, 'District': 'Печатники', 'Point A': '55.690572643930075, 37.71238728690063', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 12:56:24,391 INFO:Data for Печатники: {'District': 'Печатники', 'Price': '789', 'Duration': '34 мин', 'Length': '20,2'}
+2024-05-21 12:56:24,392 INFO:Preprocessing completed for entry: {'District': 'Печатники', 'Price': '789', 'Duration': '34 мин', 'Length': '20,2'}
+2024-05-21 12:56:24,392 INFO:Scraper called successfully for Печатники
+2024-05-21 12:56:24,392 INFO:Starting scraper for: {'Run': 6, 'District': 'Вешняки', 'Point A': '55.725194854802446, 37.83036984068614', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:56:28,111 INFO:Data for Вешняки: {'District': 'Вешняки', 'Price': '259', 'Duration': '32 мин', 'Length': '28,6'}
+2024-05-21 12:56:28,111 INFO:Preprocessing completed for entry: {'District': 'Вешняки', 'Price': '259', 'Duration': '32 мин', 'Length': '28,6'}
+2024-05-21 12:56:28,111 INFO:Scraper called successfully for Вешняки
+2024-05-21 12:56:28,111 INFO:Starting scraper for: {'Run': 7, 'District': 'Фили-Давыдково', 'Point A': '55.72233246838334, 37.47296993361166', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 12:56:31,405 INFO:Data for Фили-Давыдково: {'District': 'Фили-Давыдково', 'Price': '759', 'Duration': '26 мин', 'Length': '21,1'}
+2024-05-21 12:56:31,406 INFO:Preprocessing completed for entry: {'District': 'Фили-Давыдково', 'Price': '759', 'Duration': '26 мин', 'Length': '21,1'}
+2024-05-21 12:56:31,406 INFO:Scraper called successfully for Фили-Давыдково
+2024-05-21 12:56:31,406 INFO:Starting scraper for: {'Run': 8, 'District': 'Лосиноостровский', 'Point A': '55.88514158430021, 37.71106434446373', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:56:34,666 INFO:Data for Лосиноостровский: {'District': 'Лосиноостровский', 'Price': '602', 'Duration': '24 мин', 'Length': '8,6'}
+2024-05-21 12:56:34,666 INFO:Preprocessing completed for entry: {'District': 'Лосиноостровский', 'Price': '602', 'Duration': '24 мин', 'Length': '8,6'}
+2024-05-21 12:56:34,666 INFO:Scraper called successfully for Лосиноостровский
+2024-05-21 12:56:34,666 INFO:Starting scraper for: {'Run': 9, 'District': 'Арбат', 'Point A': '55.74844271723917, 37.59032522306373', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 12:56:37,900 INFO:Data for Арбат: {'District': 'Арбат', 'Price': '514', 'Duration': '13 мин', 'Length': '3,3'}
+2024-05-21 12:56:37,901 INFO:Preprocessing completed for entry: {'District': 'Арбат', 'Price': '514', 'Duration': '13 мин', 'Length': '3,3'}
+2024-05-21 12:56:37,901 INFO:Scraper called successfully for Арбат
+2024-05-21 12:56:37,901 INFO:Starting scraper for: {'Run': 10, 'District': 'Зябликово', 'Point A': '55.626348602530115, 37.74978607119235', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 12:56:41,141 INFO:Data for Зябликово: {'District': 'Зябликово', 'Price': '459', 'Duration': '21 мин', 'Length': '8,6'}
+2024-05-21 12:56:41,141 INFO:Preprocessing completed for entry: {'District': 'Зябликово', 'Price': '459', 'Duration': '21 мин', 'Length': '8,6'}
+2024-05-21 12:56:41,141 INFO:Scraper called successfully for Зябликово
+2024-05-21 12:56:41,142 INFO:Starting scraper for: {'Run': 11, 'District': 'Якиманка', 'Point A': '55.73175654329363, 37.61182774271349', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 12:56:44,250 INFO:Data for Якиманка: {'District': 'Якиманка', 'Price': '505', 'Duration': '21 мин', 'Length': '5,2'}
+2024-05-21 12:56:44,251 INFO:Preprocessing completed for entry: {'District': 'Якиманка', 'Price': '505', 'Duration': '21 мин', 'Length': '5,2'}
+2024-05-21 12:56:44,251 INFO:Scraper called successfully for Якиманка
+2024-05-21 12:56:44,251 INFO:Starting scraper for: {'Run': 12, 'District': 'Бабушкинский', 'Point A': '55.8653909564351, 37.67803740042649', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:56:47,476 INFO:Data for Бабушкинский: {'District': 'Бабушкинский', 'Price': '307', 'Duration': '16 мин', 'Length': '5,1'}
+2024-05-21 12:56:47,477 INFO:Preprocessing completed for entry: {'District': 'Бабушкинский', 'Price': '307', 'Duration': '16 мин', 'Length': '5,1'}
+2024-05-21 12:56:47,477 INFO:Scraper called successfully for Бабушкинский
+2024-05-21 12:56:47,477 INFO:Starting scraper for: {'Run': 13, 'District': 'Дмитровский', 'Point A': '55.89295292105958, 37.531318309415404', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 12:56:51,205 INFO:Data for Дмитровский: {'District': 'Дмитровский', 'Price': '668', 'Duration': '28 мин', 'Length': '8,8'}
+2024-05-21 12:56:51,206 INFO:Preprocessing completed for entry: {'District': 'Дмитровский', 'Price': '668', 'Duration': '28 мин', 'Length': '8,8'}
+2024-05-21 12:56:51,206 INFO:Scraper called successfully for Дмитровский
+2024-05-21 12:56:51,206 INFO:Starting scraper for: {'Run': 14, 'District': 'Текстильщики', 'Point A': '55.72121606961766, 37.721871724296285', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 12:56:54,450 INFO:Data for Текстильщики: {'District': 'Текстильщики', 'Price': '616', 'Duration': '26 мин', 'Length': '13,3'}
+2024-05-21 12:56:54,451 INFO:Preprocessing completed for entry: {'District': 'Текстильщики', 'Price': '616', 'Duration': '26 мин', 'Length': '13,3'}
+2024-05-21 12:56:54,451 INFO:Scraper called successfully for Текстильщики
+2024-05-21 12:56:54,451 INFO:Starting scraper for: {'Run': 15, 'District': 'Войковский', 'Point A': '55.83485440960517, 37.475803568347075', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 12:56:57,790 INFO:Data for Войковский: {'District': 'Войковский', 'Price': '441', 'Duration': '18 мин', 'Length': '10,3'}
+2024-05-21 12:56:57,791 INFO:Preprocessing completed for entry: {'District': 'Войковский', 'Price': '441', 'Duration': '18 мин', 'Length': '10,3'}
+2024-05-21 12:56:57,791 INFO:Scraper called successfully for Войковский
+2024-05-21 12:56:57,791 INFO:Starting scraper for: {'Run': 16, 'District': 'Мещанский', 'Point A': '55.79401988193856, 37.638024593714626', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 12:57:00,931 INFO:Data for Мещанский: {'District': 'Мещанский', 'Price': '617', 'Duration': '38 мин', 'Length': '9,4'}
+2024-05-21 12:57:00,932 INFO:Preprocessing completed for entry: {'District': 'Мещанский', 'Price': '617', 'Duration': '38 мин', 'Length': '9,4'}
+2024-05-21 12:57:00,932 INFO:Scraper called successfully for Мещанский
+2024-05-21 12:57:00,932 INFO:Starting scraper for: {'Run': 17, 'District': 'Ярославский', 'Point A': '55.8575581026343, 37.7144552526815', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:57:04,082 INFO:Data for Ярославский: {'District': 'Ярославский', 'Price': '598', 'Duration': '26 мин', 'Length': '8,8'}
+2024-05-21 12:57:04,087 INFO:Preprocessing completed for entry: {'District': 'Ярославский', 'Price': '598', 'Duration': '26 мин', 'Length': '8,8'}
+2024-05-21 12:57:04,088 INFO:Scraper called successfully for Ярославский
+2024-05-21 12:57:04,088 INFO:Starting scraper for: {'Run': 18, 'District': 'Метрогородок', 'Point A': '55.84520055710261, 37.748884756907614', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:57:07,185 INFO:Data for Метрогородок: {'District': 'Метрогородок', 'Price': '279', 'Duration': '43 мин', 'Length': '25,4'}
+2024-05-21 12:57:07,186 INFO:Preprocessing completed for entry: {'District': 'Метрогородок', 'Price': '279', 'Duration': '43 мин', 'Length': '25,4'}
+2024-05-21 12:57:07,186 INFO:Scraper called successfully for Метрогородок
+2024-05-21 12:57:07,186 INFO:Starting scraper for: {'Run': 19, 'District': 'Южное Тушино', 'Point A': '55.84314904191455, 37.407252514910176', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-21 12:57:10,425 INFO:Data for Южное Тушино: {'District': 'Южное Тушино', 'Price': '364', 'Duration': '13 мин', 'Length': '5,5'}
+2024-05-21 12:57:10,426 INFO:Preprocessing completed for entry: {'District': 'Южное Тушино', 'Price': '364', 'Duration': '13 мин', 'Length': '5,5'}
+2024-05-21 12:57:10,426 INFO:Scraper called successfully for Южное Тушино
+2024-05-21 12:57:10,426 INFO:Starting scraper for: {'Run': 20, 'District': 'Алтуфьевский', 'Point A': '55.87468379335523, 37.57241091918096', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:57:13,883 INFO:Data for Алтуфьевский: {'District': 'Алтуфьевский', 'Price': '332', 'Duration': '13 мин', 'Length': '5'}
+2024-05-21 12:57:13,884 INFO:Preprocessing completed for entry: {'District': 'Алтуфьевский', 'Price': '332', 'Duration': '13 мин', 'Length': '5'}
+2024-05-21 12:57:13,884 INFO:Scraper called successfully for Алтуфьевский
+2024-05-21 12:57:13,884 INFO:Starting scraper for: {'Run': 21, 'District': 'Отрадное', 'Point A': '55.87133406702292, 37.58941054832356', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:57:17,120 INFO:Data for Отрадное: {'District': 'Отрадное', 'Price': '274', 'Duration': '10 мин', 'Length': '4,1'}
+2024-05-21 12:57:17,120 INFO:Preprocessing completed for entry: {'District': 'Отрадное', 'Price': '274', 'Duration': '10 мин', 'Length': '4,1'}
+2024-05-21 12:57:17,120 INFO:Scraper called successfully for Отрадное
+2024-05-21 12:57:17,120 INFO:Starting scraper for: {'Run': 22, 'District': 'Западное Дегунино', 'Point A': '55.88893400538261, 37.49272228070949', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 12:57:20,242 INFO:Data for Западное Дегунино: {'District': 'Западное Дегунино', 'Price': '518', 'Duration': '24 мин', 'Length': '6,4'}
+2024-05-21 12:57:20,243 INFO:Preprocessing completed for entry: {'District': 'Западное Дегунино', 'Price': '518', 'Duration': '24 мин', 'Length': '6,4'}
+2024-05-21 12:57:20,243 INFO:Scraper called successfully for Западное Дегунино
+2024-05-21 12:57:20,243 INFO:Starting scraper for: {'Run': 23, 'District': 'Северный', 'Point A': '55.952119755194985, 37.573144176050604', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:57:23,975 INFO:Data for Северный: {'District': 'Северный', 'Price': '785', 'Duration': '36 мин', 'Length': '17,8'}
+2024-05-21 12:57:23,976 INFO:Preprocessing completed for entry: {'District': 'Северный', 'Price': '785', 'Duration': '36 мин', 'Length': '17,8'}
+2024-05-21 12:57:23,976 INFO:Scraper called successfully for Северный
+2024-05-21 12:57:23,976 INFO:Starting scraper for: {'Run': 24, 'District': 'Выхино-Жулебино', 'Point A': '55.70309788874359, 37.84076809238226', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 12:57:28,024 INFO:Data for Выхино-Жулебино: {'District': 'Выхино-Жулебино', 'Price': '239', 'Duration': '4 мин', 'Length': '1,6'}
+2024-05-21 12:57:28,024 INFO:Preprocessing completed for entry: {'District': 'Выхино-Жулебино', 'Price': '239', 'Duration': '4 мин', 'Length': '1,6'}
+2024-05-21 12:57:28,024 INFO:Scraper called successfully for Выхино-Жулебино
+2024-05-21 12:57:28,024 INFO:Starting scraper for: {'Run': 25, 'District': 'Северное Медведково', 'Point A': '55.88228761024509, 37.64366952168158', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:57:31,282 INFO:Data for Северное Медведково: {'District': 'Северное Медведково', 'Price': '340', 'Duration': '14 мин', 'Length': '4,9'}
+2024-05-21 12:57:31,284 INFO:Preprocessing completed for entry: {'District': 'Северное Медведково', 'Price': '340', 'Duration': '14 мин', 'Length': '4,9'}
+2024-05-21 12:57:31,284 INFO:Scraper called successfully for Северное Медведково
+2024-05-21 12:57:31,284 INFO:Starting scraper for: {'Run': 26, 'District': 'Филёвский Парк', 'Point A': '55.74746739293403, 37.49006168219751', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 12:57:34,511 INFO:Data for Филёвский Парк: {'District': 'Филёвский Парк', 'Price': '759', 'Duration': '23 мин', 'Length': '22,1'}
+2024-05-21 12:57:34,511 INFO:Preprocessing completed for entry: {'District': 'Филёвский Парк', 'Price': '759', 'Duration': '23 мин', 'Length': '22,1'}
+2024-05-21 12:57:34,512 INFO:Scraper called successfully for Филёвский Парк
+2024-05-21 12:57:34,512 INFO:Starting scraper for: {'Run': 27, 'District': 'Чертаново Северное', 'Point A': '55.634540051031365, 37.5951243175907', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 12:57:41,223 ERROR:An error occurred for Чертаново Северное: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00007FF706ED1522+60802]
-	(No symbol) [0x00007FF706E4AC22]
-	(No symbol) [0x00007FF706D07CE4]
-	(No symbol) [0x00007FF706D56D4D]
-	(No symbol) [0x00007FF706D56E1C]
-	(No symbol) [0x00007FF706D9CE37]
-	(No symbol) [0x00007FF706D7ABBF]
-	(No symbol) [0x00007FF706D9A224]
-	(No symbol) [0x00007FF706D7A923]
-	(No symbol) [0x00007FF706D48FEC]
-	(No symbol) [0x00007FF706D49C21]
-	GetHandleVerifier [0x00007FF7071D41BD+3217949]
-	GetHandleVerifier [0x00007FF707216157+3488183]
-	GetHandleVerifier [0x00007FF70720F0DF+3459391]
-	GetHandleVerifier [0x00007FF706F8B8E6+823622]
-	(No symbol) [0x00007FF706E55FBF]
-	(No symbol) [0x00007FF706E50EE4]
-	(No symbol) [0x00007FF706E51072]
-	(No symbol) [0x00007FF706E418C4]
-	BaseThreadInitThunk [0x00007FF85E884CB0+16]
-	RtlUserThreadStart [0x00007FF85EC5E8AB+43]
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
 
-2024-05-21 11:40:47,681 INFO:Retrying for Орехово-Борисово Южное, attempts left: 3
-2024-05-21 11:40:47,681 INFO:Starting scraper for: {'Run': 16, 'District': 'Орехово-Борисово Южное', 'Point A': '55.599704285148604, 37.70241869091814', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:40:50,914 INFO:Data for Орехово-Борисово Южное: {'District': 'Орехово-Борисово Южное', 'Price': '690', 'Duration': '26 мин', 'Length': '9,6'}
-2024-05-21 11:40:50,916 ERROR:Error calling scraper for Орехово-Борисово Южное: 'NoneType' object is not subscriptable
-2024-05-21 11:40:50,916 INFO:Starting scraper for: {'Run': 17, 'District': 'Нижегородский', 'Point A': '55.727650711152094, 37.72806045349967', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:40:54,774 INFO:Data for Нижегородский: {'District': 'Нижегородский', 'Price': '557', 'Duration': '18 мин', 'Length': '10,2'}
-2024-05-21 11:40:54,775 INFO:Preprocessing completed for entry: {'District': 'Нижегородский', 'Price': '557', 'Duration': '18 мин', 'Length': '10,2'}
-2024-05-21 11:40:54,775 INFO:Scraper called successfully for Нижегородский
-2024-05-21 11:40:54,775 INFO:Starting scraper for: {'Run': 18, 'District': 'Бибирево', 'Point A': '55.89577394551284, 37.627295749594204', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:40:58,495 INFO:Data for Бибирево: {'District': 'Бибирево', 'Price': '534', 'Duration': '19 мин', 'Length': '7,3'}
-2024-05-21 11:40:58,496 INFO:Preprocessing completed for entry: {'District': 'Бибирево', 'Price': '534', 'Duration': '19 мин', 'Length': '7,3'}
-2024-05-21 11:40:58,496 INFO:Scraper called successfully for Бибирево
-2024-05-21 11:40:58,496 INFO:Starting scraper for: {'Run': 19, 'District': 'Зябликово', 'Point A': '55.626348602530115, 37.74978607119235', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:41:02,341 INFO:Data for Зябликово: {'District': 'Зябликово', 'Price': '567', 'Duration': '21 мин', 'Length': '8,6'}
-2024-05-21 11:41:02,341 INFO:Preprocessing completed for entry: {'District': 'Зябликово', 'Price': '567', 'Duration': '21 мин', 'Length': '8,6'}
-2024-05-21 11:41:02,341 INFO:Scraper called successfully for Зябликово
-2024-05-21 11:41:02,341 INFO:Starting scraper for: {'Run': 20, 'District': 'Марфино', 'Point A': '55.84416825650055, 37.58344535935996', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:41:06,162 INFO:Data for Марфино: {'District': 'Марфино', 'Price': '2250', 'Duration': '1 ч 14 мин', 'Length': '14'}
-2024-05-21 11:41:06,163 INFO:Preprocessing completed for entry: {'District': 'Марфино', 'Price': '2250', 'Duration': '1 ч 14 мин', 'Length': '14'}
-2024-05-21 11:41:06,163 INFO:Scraper called successfully for Марфино
-2024-05-21 11:41:06,163 INFO:Starting scraper for: {'Run': 21, 'District': 'Москворечье-Сабурово', 'Point A': '55.64678042450478, 37.676350965795706', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:41:09,190 INFO:Data for Москворечье-Сабурово: {'District': 'Москворечье-Сабурово', 'Price': '570', 'Duration': '20 мин', 'Length': '7,9'}
-2024-05-21 11:41:09,191 INFO:Preprocessing completed for entry: {'District': 'Москворечье-Сабурово', 'Price': '570', 'Duration': '20 мин', 'Length': '7,9'}
-2024-05-21 11:41:09,191 INFO:Scraper called successfully for Москворечье-Сабурово
-2024-05-21 11:41:09,191 INFO:Starting scraper for: {'Run': 22, 'District': 'Северное Измайлово', 'Point A': '55.80511491015613, 37.81101253464432', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:41:13,326 INFO:Data for Северное Измайлово: {'District': 'Северное Измайлово', 'Price': '329', 'Duration': '28 мин', 'Length': '20,5'}
-2024-05-21 11:41:13,327 INFO:Preprocessing completed for entry: {'District': 'Северное Измайлово', 'Price': '329', 'Duration': '28 мин', 'Length': '20,5'}
-2024-05-21 11:41:13,327 INFO:Scraper called successfully for Северное Измайлово
-2024-05-21 11:41:13,327 INFO:Starting scraper for: {'Run': 23, 'District': 'Пресненский', 'Point A': '55.76441072782066, 37.57849670839258', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:41:17,120 INFO:Data for Пресненский: {'District': 'Пресненский', 'Price': '676', 'Duration': '21 мин', 'Length': '5,2'}
-2024-05-21 11:41:17,120 INFO:Preprocessing completed for entry: {'District': 'Пресненский', 'Price': '676', 'Duration': '21 мин', 'Length': '5,2'}
-2024-05-21 11:41:17,120 INFO:Scraper called successfully for Пресненский
-2024-05-21 11:41:17,120 INFO:Starting scraper for: {'Run': 24, 'District': 'Фили-Давыдково', 'Point A': '55.72233246838334, 37.47296993361166', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:41:20,993 INFO:Data for Фили-Давыдково: {'District': 'Фили-Давыдково', 'Price': '827', 'Duration': '25 мин', 'Length': '21,1'}
-2024-05-21 11:41:20,993 INFO:Preprocessing completed for entry: {'District': 'Фили-Давыдково', 'Price': '827', 'Duration': '25 мин', 'Length': '21,1'}
-2024-05-21 11:41:20,993 INFO:Scraper called successfully for Фили-Давыдково
-2024-05-21 11:41:20,993 INFO:Starting scraper for: {'Run': 25, 'District': 'Дмитровский', 'Point A': '55.89295292105958, 37.531318309415404', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:41:27,590 ERROR:An error occurred for Дмитровский: Message: 
+2024-05-21 12:57:41,223 INFO:Retrying for Чертаново Северное, attempts left: 3
+2024-05-21 12:57:41,223 INFO:Starting scraper for: {'Run': 27, 'District': 'Чертаново Северное', 'Point A': '55.634540051031365, 37.5951243175907', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 12:57:44,476 INFO:Data for Чертаново Северное: {'District': 'Чертаново Северное', 'Price': '390', 'Duration': '21 мин', 'Length': '5'}
+2024-05-21 12:57:44,476 ERROR:Error calling scraper for Чертаново Северное: 'NoneType' object is not subscriptable
+2024-05-21 12:57:44,476 INFO:Starting scraper for: {'Run': 28, 'District': 'Северное Измайлово', 'Point A': '55.80511491015613, 37.81101253464432', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:57:47,828 INFO:Data for Северное Измайлово: {'District': 'Северное Измайлово', 'Price': '299', 'Duration': '29 мин', 'Length': '20,5'}
+2024-05-21 12:57:47,829 INFO:Preprocessing completed for entry: {'District': 'Северное Измайлово', 'Price': '299', 'Duration': '29 мин', 'Length': '20,5'}
+2024-05-21 12:57:47,829 INFO:Scraper called successfully for Северное Измайлово
+2024-05-21 12:57:47,829 INFO:Starting scraper for: {'Run': 29, 'District': 'Молжаниновский', 'Point A': '55.91918522786902, 37.37198952541849', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 12:57:51,011 INFO:Data for Молжаниновский: {'District': 'Молжаниновский', 'Price': '612', 'Duration': '25 мин', 'Length': '9,4'}
+2024-05-21 12:57:51,012 INFO:Preprocessing completed for entry: {'District': 'Молжаниновский', 'Price': '612', 'Duration': '25 мин', 'Length': '9,4'}
+2024-05-21 12:57:51,012 INFO:Scraper called successfully for Молжаниновский
+2024-05-21 12:57:51,012 INFO:Starting scraper for: {'Run': 30, 'District': 'Крылатское', 'Point A': '55.75766310866955, 37.44840375953837', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 12:57:54,292 INFO:Data for Крылатское: {'District': 'Крылатское', 'Price': '966', 'Duration': '32 мин', 'Length': '20'}
+2024-05-21 12:57:54,293 INFO:Preprocessing completed for entry: {'District': 'Крылатское', 'Price': '966', 'Duration': '32 мин', 'Length': '20'}
+2024-05-21 12:57:54,293 INFO:Scraper called successfully for Крылатское
+2024-05-21 12:57:54,293 INFO:Starting scraper for: {'Run': 31, 'District': 'Бескудниковский', 'Point A': '55.852402338694624, 37.565644140991054', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 12:58:01,097 ERROR:An error occurred for Бескудниковский: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00007FF706ED1522+60802]
-	(No symbol) [0x00007FF706E4AC22]
-	(No symbol) [0x00007FF706D07CE4]
-	(No symbol) [0x00007FF706D56D4D]
-	(No symbol) [0x00007FF706D56E1C]
-	(No symbol) [0x00007FF706D9CE37]
-	(No symbol) [0x00007FF706D7ABBF]
-	(No symbol) [0x00007FF706D9A224]
-	(No symbol) [0x00007FF706D7A923]
-	(No symbol) [0x00007FF706D48FEC]
-	(No symbol) [0x00007FF706D49C21]
-	GetHandleVerifier [0x00007FF7071D41BD+3217949]
-	GetHandleVerifier [0x00007FF707216157+3488183]
-	GetHandleVerifier [0x00007FF70720F0DF+3459391]
-	GetHandleVerifier [0x00007FF706F8B8E6+823622]
-	(No symbol) [0x00007FF706E55FBF]
-	(No symbol) [0x00007FF706E50EE4]
-	(No symbol) [0x00007FF706E51072]
-	(No symbol) [0x00007FF706E418C4]
-	BaseThreadInitThunk [0x00007FF85E884CB0+16]
-	RtlUserThreadStart [0x00007FF85EC5E8AB+43]
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
 
-2024-05-21 11:41:27,590 INFO:Retrying for Дмитровский, attempts left: 3
-2024-05-21 11:41:27,590 INFO:Starting scraper for: {'Run': 25, 'District': 'Дмитровский', 'Point A': '55.89295292105958, 37.531318309415404', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:41:31,891 INFO:Data for Дмитровский: {'District': 'Дмитровский', 'Price': '760', 'Duration': '30 мин', 'Length': '8,6'}
-2024-05-21 11:41:31,893 ERROR:Error calling scraper for Дмитровский: 'NoneType' object is not subscriptable
-2024-05-21 11:41:31,893 INFO:Starting scraper for: {'Run': 26, 'District': 'Внуково', 'Point A': '55.60784125630275, 37.30488653709272', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:41:35,577 INFO:Data for Внуково: {'District': 'Внуково', 'Price': '714', 'Duration': '35 мин', 'Length': '37'}
-2024-05-21 11:41:35,578 INFO:Preprocessing completed for entry: {'District': 'Внуково', 'Price': '714', 'Duration': '35 мин', 'Length': '37'}
-2024-05-21 11:41:35,578 INFO:Scraper called successfully for Внуково
-2024-05-21 11:41:35,578 INFO:Starting scraper for: {'Run': 27, 'District': 'Измайлово', 'Point A': '55.79037043529277, 37.74912907439874', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:41:39,126 INFO:Data for Измайлово: {'District': 'Измайлово', 'Price': '389', 'Duration': '40 мин', 'Length': '25,7'}
-2024-05-21 11:41:39,127 INFO:Preprocessing completed for entry: {'District': 'Измайлово', 'Price': '389', 'Duration': '40 мин', 'Length': '25,7'}
-2024-05-21 11:41:39,127 INFO:Scraper called successfully for Измайлово
-2024-05-21 11:41:39,127 INFO:Starting scraper for: {'Run': 28, 'District': 'Нагорный', 'Point A': '55.647438048453274, 37.6210541963463', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:41:42,369 INFO:Data for Нагорный: {'District': 'Нагорный', 'Price': '527', 'Duration': '22 мин', 'Length': '9,5'}
-2024-05-21 11:41:42,369 INFO:Preprocessing completed for entry: {'District': 'Нагорный', 'Price': '527', 'Duration': '22 мин', 'Length': '9,5'}
-2024-05-21 11:41:42,369 INFO:Scraper called successfully for Нагорный
-2024-05-21 11:41:42,369 INFO:Starting scraper for: {'Run': 29, 'District': 'Хорошёво-Мнёвники', 'Point A': '55.74365593207669, 37.44572332557139', 'Point B': '55.82107826014529, 37.425697921282264'}
-2024-05-21 11:41:46,181 INFO:Data for Хорошёво-Мнёвники: {'District': 'Хорошёво-Мнёвники', 'Price': '859', 'Duration': '35 мин', 'Length': '16'}
-2024-05-21 11:41:46,182 INFO:Preprocessing completed for entry: {'District': 'Хорошёво-Мнёвники', 'Price': '859', 'Duration': '35 мин', 'Length': '16'}
-2024-05-21 11:41:46,182 INFO:Scraper called successfully for Хорошёво-Мнёвники
-2024-05-21 11:41:46,182 INFO:Starting scraper for: {'Run': 30, 'District': 'Арбат', 'Point A': '55.74844271723917, 37.59032522306373', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:41:49,969 INFO:Data for Арбат: {'District': 'Арбат', 'Price': '515', 'Duration': '16 мин', 'Length': '3,3'}
-2024-05-21 11:41:49,970 INFO:Preprocessing completed for entry: {'District': 'Арбат', 'Price': '515', 'Duration': '16 мин', 'Length': '3,3'}
-2024-05-21 11:41:49,970 INFO:Scraper called successfully for Арбат
-2024-05-21 11:41:49,970 INFO:Starting scraper for: {'Run': 31, 'District': 'Южнопортовый', 'Point A': '55.709976114234905, 37.669451050102694', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:41:55,326 INFO:Data for Южнопортовый: {'District': 'Южнопортовый', 'Price': '839', 'Duration': '41 мин', 'Length': '17,9'}
-2024-05-21 11:41:55,327 INFO:Preprocessing completed for entry: {'District': 'Южнопортовый', 'Price': '839', 'Duration': '41 мин', 'Length': '17,9'}
-2024-05-21 11:41:55,327 INFO:Scraper called successfully for Южнопортовый
-2024-05-21 11:41:55,327 INFO:Starting scraper for: {'Run': 32, 'District': 'Восточное Измайлово', 'Point A': '55.798122426441346, 37.83306300612433', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:41:59,200 INFO:Data for Восточное Измайлово: {'District': 'Восточное Измайлово', 'Price': '329', 'Duration': '28 мин', 'Length': '20,9'}
-2024-05-21 11:41:59,200 INFO:Preprocessing completed for entry: {'District': 'Восточное Измайлово', 'Price': '329', 'Duration': '28 мин', 'Length': '20,9'}
-2024-05-21 11:41:59,200 INFO:Scraper called successfully for Восточное Измайлово
-2024-05-21 11:41:59,200 INFO:Starting scraper for: {'Run': 33, 'District': 'Савёловский', 'Point A': '55.800504314103975, 37.56945897235895', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:42:03,591 INFO:Data for Савёловский: {'District': 'Савёловский', 'Price': '861', 'Duration': '25 мин', 'Length': '15,3'}
-2024-05-21 11:42:03,591 INFO:Preprocessing completed for entry: {'District': 'Савёловский', 'Price': '861', 'Duration': '25 мин', 'Length': '15,3'}
-2024-05-21 11:42:03,591 INFO:Scraper called successfully for Савёловский
-2024-05-21 11:42:03,591 INFO:Starting scraper for: {'Run': 34, 'District': 'Мещанский', 'Point A': '55.79401988193856, 37.638024593714626', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:42:06,708 INFO:Data for Мещанский: {'District': 'Мещанский', 'Price': '733', 'Duration': '36 мин', 'Length': '11,1'}
-2024-05-21 11:42:06,709 INFO:Preprocessing completed for entry: {'District': 'Мещанский', 'Price': '733', 'Duration': '36 мин', 'Length': '11,1'}
-2024-05-21 11:42:06,709 INFO:Scraper called successfully for Мещанский
-2024-05-21 11:42:06,709 INFO:Starting scraper for: {'Run': 35, 'District': 'Новокосино', 'Point A': '55.74468008056809, 37.865206620785315', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:42:10,551 INFO:Data for Новокосино: {'District': 'Новокосино', 'Price': '369', 'Duration': '32 мин', 'Length': '26,7'}
-2024-05-21 11:42:10,552 INFO:Preprocessing completed for entry: {'District': 'Новокосино', 'Price': '369', 'Duration': '32 мин', 'Length': '26,7'}
-2024-05-21 11:42:10,552 INFO:Scraper called successfully for Новокосино
-2024-05-21 11:42:10,552 INFO:Starting scraper for: {'Run': 36, 'District': 'Хамовники', 'Point A': '55.728417810810384, 37.55693514819191', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:42:13,835 INFO:Data for Хамовники: {'District': 'Хамовники', 'Price': '651', 'Duration': '22 мин', 'Length': '6,1'}
-2024-05-21 11:42:13,836 INFO:Preprocessing completed for entry: {'District': 'Хамовники', 'Price': '651', 'Duration': '22 мин', 'Length': '6,1'}
-2024-05-21 11:42:13,836 INFO:Scraper called successfully for Хамовники
-2024-05-21 11:42:13,836 INFO:Starting scraper for: {'Run': 37, 'District': 'Орехово-Борисово Северное', 'Point A': '55.62922553768017, 37.68942359527946', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:42:17,041 INFO:Data for Орехово-Борисово Северное: {'District': 'Орехово-Борисово Северное', 'Price': '497', 'Duration': '20 мин', 'Length': '6,8'}
-2024-05-21 11:42:17,041 INFO:Preprocessing completed for entry: {'District': 'Орехово-Борисово Северное', 'Price': '497', 'Duration': '20 мин', 'Length': '6,8'}
-2024-05-21 11:42:17,041 INFO:Scraper called successfully for Орехово-Борисово Северное
-2024-05-21 11:42:17,041 INFO:Starting scraper for: {'Run': 38, 'District': 'Басманный', 'Point A': '55.75941579563519, 37.6437850346498', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:42:20,255 INFO:Data for Басманный: {'District': 'Басманный', 'Price': '757', 'Duration': '38 мин', 'Length': '6,5'}
-2024-05-21 11:42:20,255 INFO:Preprocessing completed for entry: {'District': 'Басманный', 'Price': '757', 'Duration': '38 мин', 'Length': '6,5'}
-2024-05-21 11:42:20,255 INFO:Scraper called successfully for Басманный
-2024-05-21 11:42:20,256 INFO:Starting scraper for: {'Run': 39, 'District': 'Щукино', 'Point A': '55.81102953757514, 37.486031749675064', 'Point B': '55.82107826014529, 37.425697921282264'}
-2024-05-21 11:42:23,857 INFO:Data for Щукино: {'District': 'Щукино', 'Price': '406', 'Duration': '10 мин', 'Length': '4,6'}
-2024-05-21 11:42:23,858 INFO:Preprocessing completed for entry: {'District': 'Щукино', 'Price': '406', 'Duration': '10 мин', 'Length': '4,6'}
-2024-05-21 11:42:23,858 INFO:Scraper called successfully for Щукино
-2024-05-21 11:42:23,858 INFO:Starting scraper for: {'Run': 40, 'District': 'Аэропорт', 'Point A': '55.80894208278126, 37.52588927939455', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:42:28,275 INFO:Data for Аэропорт: {'District': 'Аэропорт', 'Price': '648', 'Duration': '20 мин', 'Length': '12,3'}
-2024-05-21 11:42:28,276 INFO:Preprocessing completed for entry: {'District': 'Аэропорт', 'Price': '648', 'Duration': '20 мин', 'Length': '12,3'}
-2024-05-21 11:42:28,276 INFO:Scraper called successfully for Аэропорт
-2024-05-21 11:42:28,276 INFO:Starting scraper for: {'Run': 41, 'District': 'Куркино', 'Point A': '55.899481280383476, 37.37680915076788', 'Point B': '55.82107826014529, 37.425697921282264'}
-2024-05-21 11:42:32,561 INFO:Data for Куркино: {'District': 'Куркино', 'Price': '473', 'Duration': '23 мин', 'Length': '12,7'}
-2024-05-21 11:42:32,561 INFO:Preprocessing completed for entry: {'District': 'Куркино', 'Price': '473', 'Duration': '23 мин', 'Length': '12,7'}
-2024-05-21 11:42:32,561 INFO:Scraper called successfully for Куркино
-2024-05-21 11:42:32,561 INFO:Starting scraper for: {'Run': 42, 'District': 'Коптево', 'Point A': '55.83914381273537, 37.528929772704736', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:42:36,327 INFO:Data for Коптево: {'District': 'Коптево', 'Price': '526', 'Duration': '23 мин', 'Length': '10,3'}
-2024-05-21 11:42:36,328 INFO:Preprocessing completed for entry: {'District': 'Коптево', 'Price': '526', 'Duration': '23 мин', 'Length': '10,3'}
-2024-05-21 11:42:36,328 INFO:Scraper called successfully for Коптево
-2024-05-21 11:42:36,328 INFO:Starting scraper for: {'Run': 43, 'District': 'Черёмушки', 'Point A': '55.67496297349619, 37.55182211879649', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:42:40,104 INFO:Data for Черёмушки: {'District': 'Черёмушки', 'Price': '611', 'Duration': '25 мин', 'Length': '9,6'}
-2024-05-21 11:42:40,104 INFO:Preprocessing completed for entry: {'District': 'Черёмушки', 'Price': '611', 'Duration': '25 мин', 'Length': '9,6'}
-2024-05-21 11:42:40,105 INFO:Scraper called successfully for Черёмушки
-2024-05-21 11:42:40,105 INFO:Starting scraper for: {'Run': 44, 'District': 'Головинский', 'Point A': '55.84788204794651, 37.51019256624134', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:42:44,460 INFO:Data for Головинский: {'District': 'Головинский', 'Price': '466', 'Duration': '20 мин', 'Length': '8,5'}
-2024-05-21 11:42:44,462 INFO:Preprocessing completed for entry: {'District': 'Головинский', 'Price': '466', 'Duration': '20 мин', 'Length': '8,5'}
-2024-05-21 11:42:44,462 INFO:Scraper called successfully for Головинский
-2024-05-21 11:42:44,462 INFO:Starting scraper for: {'Run': 45, 'District': 'Некрасовка', 'Point A': '55.68722325232954, 37.93250893558551', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:42:49,340 INFO:Data for Некрасовка: {'District': 'Некрасовка', 'Price': '621', 'Duration': '19 мин', 'Length': '7,6'}
-2024-05-21 11:42:49,341 INFO:Preprocessing completed for entry: {'District': 'Некрасовка', 'Price': '621', 'Duration': '19 мин', 'Length': '7,6'}
-2024-05-21 11:42:49,341 INFO:Scraper called successfully for Некрасовка
-2024-05-21 11:42:49,341 INFO:Starting scraper for: {'Run': 46, 'District': 'Рязанский', 'Point A': '55.711839080013426, 37.79091681541887', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:42:53,202 INFO:Data for Рязанский: {'District': 'Рязанский', 'Price': '433', 'Duration': '14 мин', 'Length': '5,9'}
-2024-05-21 11:42:53,202 INFO:Preprocessing completed for entry: {'District': 'Рязанский', 'Price': '433', 'Duration': '14 мин', 'Length': '5,9'}
-2024-05-21 11:42:53,202 INFO:Scraper called successfully for Рязанский
-2024-05-21 11:42:53,202 INFO:Starting scraper for: {'Run': 47, 'District': 'Алтуфьевский', 'Point A': '55.87468379335523, 37.57241091918096', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:42:57,035 INFO:Data for Алтуфьевский: {'District': 'Алтуфьевский', 'Price': '347', 'Duration': '13 мин', 'Length': '5'}
-2024-05-21 11:42:57,036 INFO:Preprocessing completed for entry: {'District': 'Алтуфьевский', 'Price': '347', 'Duration': '13 мин', 'Length': '5'}
-2024-05-21 11:42:57,036 INFO:Scraper called successfully for Алтуфьевский
-2024-05-21 11:42:57,036 INFO:Starting scraper for: {'Run': 48, 'District': 'Новогиреево', 'Point A': '55.74974163618338, 37.78573611571782', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:43:00,851 INFO:Data for Новогиреево: {'District': 'Новогиреево', 'Price': '259', 'Duration': '41 мин', 'Length': '28,9'}
-2024-05-21 11:43:00,852 INFO:Preprocessing completed for entry: {'District': 'Новогиреево', 'Price': '259', 'Duration': '41 мин', 'Length': '28,9'}
-2024-05-21 11:43:00,852 INFO:Scraper called successfully for Новогиреево
-2024-05-21 11:43:00,852 INFO:Starting scraper for: {'Run': 49, 'District': 'Лефортово', 'Point A': '55.736398186895165, 37.72968475443048', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:43:05,510 INFO:Data for Лефортово: {'District': 'Лефортово', 'Price': '760', 'Duration': '27 мин', 'Length': '16,3'}
-2024-05-21 11:43:05,511 INFO:Preprocessing completed for entry: {'District': 'Лефортово', 'Price': '760', 'Duration': '27 мин', 'Length': '16,3'}
-2024-05-21 11:43:05,511 INFO:Scraper called successfully for Лефортово
-2024-05-21 11:43:05,511 INFO:Starting scraper for: {'Run': 50, 'District': 'Восточное Дегунино', 'Point A': '55.85995110810542, 37.56275798748232', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:43:09,392 INFO:Data for Восточное Дегунино: {'District': 'Восточное Дегунино', 'Price': '688', 'Duration': '31 мин', 'Length': '16,6'}
-2024-05-21 11:43:09,392 INFO:Preprocessing completed for entry: {'District': 'Восточное Дегунино', 'Price': '688', 'Duration': '31 мин', 'Length': '16,6'}
-2024-05-21 11:43:09,392 INFO:Scraper called successfully for Восточное Дегунино
-2024-05-21 11:43:09,392 INFO:Starting scraper for: {'Run': 51, 'District': 'Выхино-Жулебино', 'Point A': '55.70309788874359, 37.84076809238226', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:43:12,604 INFO:Data for Выхино-Жулебино: {'District': 'Выхино-Жулебино', 'Price': '329', 'Duration': '4 мин', 'Length': '1,6'}
-2024-05-21 11:43:12,604 INFO:Preprocessing completed for entry: {'District': 'Выхино-Жулебино', 'Price': '329', 'Duration': '4 мин', 'Length': '1,6'}
-2024-05-21 11:43:12,604 INFO:Scraper called successfully for Выхино-Жулебино
-2024-05-21 11:43:12,605 INFO:Starting scraper for: {'Run': 52, 'District': 'Строгино', 'Point A': '55.77755131510294, 37.37769044726307', 'Point B': '55.82107826014529, 37.425697921282264'}
-2024-05-21 11:43:16,348 INFO:Data for Строгино: {'District': 'Строгино', 'Price': '916', 'Duration': '21 мин', 'Length': '10,2'}
-2024-05-21 11:43:16,353 INFO:Preprocessing completed for entry: {'District': 'Строгино', 'Price': '916', 'Duration': '21 мин', 'Length': '10,2'}
-2024-05-21 11:43:16,353 INFO:Scraper called successfully for Строгино
-2024-05-21 11:43:16,353 INFO:Starting scraper for: {'Run': 53, 'District': 'Южное Медведково', 'Point A': '55.869990337337626, 37.63157719678762', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:43:20,131 INFO:Data for Южное Медведково: {'District': 'Южное Медведково', 'Price': '299', 'Duration': '5 мин', 'Length': '1,95'}
-2024-05-21 11:43:20,131 INFO:Preprocessing completed for entry: {'District': 'Южное Медведково', 'Price': '299', 'Duration': '5 мин', 'Length': '1,95'}
-2024-05-21 11:43:20,131 INFO:Scraper called successfully for Южное Медведково
-2024-05-21 11:43:20,131 INFO:Starting scraper for: {'Run': 54, 'District': 'Покровское-Стрешнево', 'Point A': '55.81441945985847, 37.432184897821976', 'Point B': '55.82107826014529, 37.425697921282264'}
-2024-05-21 11:43:23,900 INFO:Data for Покровское-Стрешнево: {'District': 'Покровское-Стрешнево', 'Price': '327', 'Duration': '7 мин', 'Length': '2'}
-2024-05-21 11:43:23,900 INFO:Preprocessing completed for entry: {'District': 'Покровское-Стрешнево', 'Price': '327', 'Duration': '7 мин', 'Length': '2'}
-2024-05-21 11:43:23,900 INFO:Scraper called successfully for Покровское-Стрешнево
-2024-05-21 11:43:23,900 INFO:Starting scraper for: {'Run': 55, 'District': 'Ясенево', 'Point A': '55.64557250696668, 37.561881413163235', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:43:27,108 INFO:Data for Ясенево: {'District': 'Ясенево', 'Price': '414', 'Duration': '11 мин', 'Length': '5,8'}
-2024-05-21 11:43:27,109 INFO:Preprocessing completed for entry: {'District': 'Ясенево', 'Price': '414', 'Duration': '11 мин', 'Length': '5,8'}
-2024-05-21 11:43:27,109 INFO:Scraper called successfully for Ясенево
-2024-05-21 11:43:27,109 INFO:Starting scraper for: {'Run': 56, 'District': 'Северное Медведково', 'Point A': '55.88228761024509, 37.64366952168158', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:43:30,246 INFO:Data for Северное Медведково: {'District': 'Северное Медведково', 'Price': '435', 'Duration': '14 мин', 'Length': '5,1'}
-2024-05-21 11:43:30,247 INFO:Preprocessing completed for entry: {'District': 'Северное Медведково', 'Price': '435', 'Duration': '14 мин', 'Length': '5,1'}
-2024-05-21 11:43:30,247 INFO:Scraper called successfully for Северное Медведково
-2024-05-21 11:43:30,247 INFO:Starting scraper for: {'Run': 57, 'District': 'Преображенское', 'Point A': '55.80311342492242, 37.728890662515035', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:43:34,016 INFO:Data for Преображенское: {'District': 'Преображенское', 'Price': '369', 'Duration': '45 мин', 'Length': '25,8'}
-2024-05-21 11:43:34,016 INFO:Preprocessing completed for entry: {'District': 'Преображенское', 'Price': '369', 'Duration': '45 мин', 'Length': '25,8'}
-2024-05-21 11:43:34,016 INFO:Scraper called successfully for Преображенское
-2024-05-21 11:43:34,016 INFO:Starting scraper for: {'Run': 58, 'District': 'Алексеевский', 'Point A': '55.81061596848386, 37.65885965674445', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:43:37,799 INFO:Data for Алексеевский: {'District': 'Алексеевский', 'Price': '555', 'Duration': '23 мин', 'Length': '9,9'}
-2024-05-21 11:43:37,800 INFO:Preprocessing completed for entry: {'District': 'Алексеевский', 'Price': '555', 'Duration': '23 мин', 'Length': '9,9'}
-2024-05-21 11:43:37,800 INFO:Scraper called successfully for Алексеевский
-2024-05-21 11:43:37,800 INFO:Starting scraper for: {'Run': 59, 'District': 'Тимирязевский', 'Point A': '55.828205328422705, 37.532876973530364', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:43:41,637 INFO:Data for Тимирязевский: {'District': 'Тимирязевский', 'Price': '643', 'Duration': '24 мин', 'Length': '12,7'}
-2024-05-21 11:43:41,638 INFO:Preprocessing completed for entry: {'District': 'Тимирязевский', 'Price': '643', 'Duration': '24 мин', 'Length': '12,7'}
-2024-05-21 11:43:41,638 INFO:Scraper called successfully for Тимирязевский
-2024-05-21 11:43:41,638 INFO:Starting scraper for: {'Run': 60, 'District': 'Чертаново Центральное', 'Point A': '55.61979261808794, 37.61863064169304', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:43:45,407 INFO:Data for Чертаново Центральное: {'District': 'Чертаново Центральное', 'Price': '422', 'Duration': '20 мин', 'Length': '5,6'}
-2024-05-21 11:43:45,408 INFO:Preprocessing completed for entry: {'District': 'Чертаново Центральное', 'Price': '422', 'Duration': '20 мин', 'Length': '5,6'}
-2024-05-21 11:43:45,408 INFO:Scraper called successfully for Чертаново Центральное
-2024-05-21 11:43:45,408 INFO:Starting scraper for: {'Run': 61, 'District': 'Митино', 'Point A': '55.83905135966198, 37.350844908471345', 'Point B': '55.82107826014529, 37.425697921282264'}
-2024-05-21 11:43:49,234 INFO:Data for Митино: {'District': 'Митино', 'Price': '467', 'Duration': '16 мин', 'Length': '7,3'}
-2024-05-21 11:43:49,235 INFO:Preprocessing completed for entry: {'District': 'Митино', 'Price': '467', 'Duration': '16 мин', 'Length': '7,3'}
-2024-05-21 11:43:49,235 INFO:Scraper called successfully for Митино
-2024-05-21 11:43:49,235 INFO:Starting scraper for: {'Run': 62, 'District': 'Таганский', 'Point A': '55.73853221539014, 37.67188228736374', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:43:52,969 INFO:Data for Таганский: {'District': 'Таганский', 'Price': '675', 'Duration': '46 мин', 'Length': '9,7'}
-2024-05-21 11:43:52,969 INFO:Preprocessing completed for entry: {'District': 'Таганский', 'Price': '675', 'Duration': '46 мин', 'Length': '9,7'}
-2024-05-21 11:43:52,969 INFO:Scraper called successfully for Таганский
-2024-05-21 11:43:52,969 INFO:Starting scraper for: {'Run': 63, 'District': 'Очаково-Матвеевское', 'Point A': '55.70430017596613, 37.467497197595165', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:43:56,844 INFO:Data for Очаково-Матвеевское: {'District': 'Очаково-Матвеевское', 'Price': '876', 'Duration': '26 мин', 'Length': '22,1'}
-2024-05-21 11:43:56,845 INFO:Preprocessing completed for entry: {'District': 'Очаково-Матвеевское', 'Price': '876', 'Duration': '26 мин', 'Length': '22,1'}
-2024-05-21 11:43:56,845 INFO:Scraper called successfully for Очаково-Матвеевское
-2024-05-21 11:43:56,845 INFO:Starting scraper for: {'Run': 64, 'District': 'Бирюлёво Западное', 'Point A': '55.58511416830679, 37.641459214957656', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:44:00,612 INFO:Data for Бирюлёво Западное: {'District': 'Бирюлёво Западное', 'Price': '666', 'Duration': '20 мин', 'Length': '11,9'}
-2024-05-21 11:44:00,618 INFO:Preprocessing completed for entry: {'District': 'Бирюлёво Западное', 'Price': '666', 'Duration': '20 мин', 'Length': '11,9'}
-2024-05-21 11:44:00,618 INFO:Scraper called successfully for Бирюлёво Западное
-2024-05-21 11:44:00,619 INFO:Starting scraper for: {'Run': 65, 'District': 'Свиблово', 'Point A': '55.8493100413085, 37.64024121004941', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:44:03,853 INFO:Data for Свиблово: {'District': 'Свиблово', 'Price': '373', 'Duration': '8 мин', 'Length': '3,4'}
-2024-05-21 11:44:03,853 INFO:Preprocessing completed for entry: {'District': 'Свиблово', 'Price': '373', 'Duration': '8 мин', 'Length': '3,4'}
-2024-05-21 11:44:03,853 INFO:Scraper called successfully for Свиблово
-2024-05-21 11:44:03,853 INFO:Starting scraper for: {'Run': 66, 'District': 'Косино-Ухтомский', 'Point A': '55.70448985089735, 37.86720092093644', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:44:07,609 INFO:Data for Косино-Ухтомский: {'District': 'Косино-Ухтомский', 'Price': '339', 'Duration': '34 мин', 'Length': '31'}
-2024-05-21 11:44:07,609 INFO:Preprocessing completed for entry: {'District': 'Косино-Ухтомский', 'Price': '339', 'Duration': '34 мин', 'Length': '31'}
-2024-05-21 11:44:07,610 INFO:Scraper called successfully for Косино-Ухтомский
-2024-05-21 11:44:07,610 INFO:Starting scraper for: {'Run': 67, 'District': 'Замоскворечье', 'Point A': '55.72182706986865, 37.61946136923001', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:44:10,861 INFO:Data for Замоскворечье: {'District': 'Замоскворечье', 'Price': '803', 'Duration': '34 мин', 'Length': '6,6'}
-2024-05-21 11:44:10,861 INFO:Preprocessing completed for entry: {'District': 'Замоскворечье', 'Price': '803', 'Duration': '34 мин', 'Length': '6,6'}
-2024-05-21 11:44:10,861 INFO:Scraper called successfully for Замоскворечье
-2024-05-21 11:44:10,861 INFO:Starting scraper for: {'Run': 68, 'District': 'Ярославский', 'Point A': '55.8575581026343, 37.7144552526815', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:44:14,529 INFO:Data for Ярославский: {'District': 'Ярославский', 'Price': '791', 'Duration': '25 мин', 'Length': '8,8'}
-2024-05-21 11:44:14,530 INFO:Preprocessing completed for entry: {'District': 'Ярославский', 'Price': '791', 'Duration': '25 мин', 'Length': '8,8'}
-2024-05-21 11:44:14,530 INFO:Scraper called successfully for Ярославский
-2024-05-21 11:44:14,530 INFO:Starting scraper for: {'Run': 69, 'District': 'Обручевский', 'Point A': '55.65044490708014, 37.4852720383964', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:44:17,718 INFO:Data for Обручевский: {'District': 'Обручевский', 'Price': '661', 'Duration': '20 мин', 'Length': '7,7'}
-2024-05-21 11:44:17,719 INFO:Preprocessing completed for entry: {'District': 'Обручевский', 'Price': '661', 'Duration': '20 мин', 'Length': '7,7'}
-2024-05-21 11:44:17,720 INFO:Scraper called successfully for Обручевский
-2024-05-21 11:44:17,720 INFO:Starting scraper for: {'Run': 70, 'District': 'Метрогородок', 'Point A': '55.84520055710261, 37.748884756907614', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:44:21,496 INFO:Data for Метрогородок: {'District': 'Метрогородок', 'Price': '369', 'Duration': '42 мин', 'Length': '25,3'}
-2024-05-21 11:44:21,496 INFO:Preprocessing completed for entry: {'District': 'Метрогородок', 'Price': '369', 'Duration': '42 мин', 'Length': '25,3'}
-2024-05-21 11:44:21,496 INFO:Scraper called successfully for Метрогородок
-2024-05-21 11:44:21,496 INFO:Starting scraper for: {'Run': 71, 'District': 'Тверской', 'Point A': '55.75164140175694, 37.61735876013135', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:44:25,814 INFO:Data for Тверской: {'District': 'Тверской', 'Price': '761', 'Duration': '44 мин', 'Length': '10,1'}
-2024-05-21 11:44:25,814 INFO:Preprocessing completed for entry: {'District': 'Тверской', 'Price': '761', 'Duration': '44 мин', 'Length': '10,1'}
-2024-05-21 11:44:25,814 INFO:Scraper called successfully for Тверской
-2024-05-21 11:44:25,814 INFO:Starting scraper for: {'Run': 72, 'District': 'Соколиная Гора', 'Point A': '55.77362445638951, 37.735250018839366', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:44:29,796 INFO:Data for Соколиная Гора: {'District': 'Соколиная Гора', 'Price': '409', 'Duration': '44 мин', 'Length': '41'}
-2024-05-21 11:44:29,796 INFO:Preprocessing completed for entry: {'District': 'Соколиная Гора', 'Price': '409', 'Duration': '44 мин', 'Length': '41'}
-2024-05-21 11:44:29,796 INFO:Scraper called successfully for Соколиная Гора
-2024-05-21 11:44:29,796 INFO:Starting scraper for: {'Run': 73, 'District': 'Дорогомилово', 'Point A': '55.73724793226832, 37.520245386715786', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:44:33,659 INFO:Data for Дорогомилово: {'District': 'Дорогомилово', 'Price': '903', 'Duration': '19 мин', 'Length': '22'}
-2024-05-21 11:44:33,665 INFO:Preprocessing completed for entry: {'District': 'Дорогомилово', 'Price': '903', 'Duration': '19 мин', 'Length': '22'}
-2024-05-21 11:44:33,665 INFO:Scraper called successfully for Дорогомилово
-2024-05-21 11:44:33,665 INFO:Starting scraper for: {'Run': 74, 'District': 'Отрадное', 'Point A': '55.87133406702292, 37.58941054832356', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:44:40,447 ERROR:An error occurred for Отрадное: Message: 
+2024-05-21 12:58:01,097 INFO:Retrying for Бескудниковский, attempts left: 3
+2024-05-21 12:58:01,097 INFO:Starting scraper for: {'Run': 31, 'District': 'Бескудниковский', 'Point A': '55.852402338694624, 37.565644140991054', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 12:58:04,392 INFO:Data for Бескудниковский: {'District': 'Бескудниковский', 'Price': '635', 'Duration': '30 мин', 'Length': '17,2'}
+2024-05-21 12:58:04,393 ERROR:Error calling scraper for Бескудниковский: 'NoneType' object is not subscriptable
+2024-05-21 12:58:04,394 INFO:Starting scraper for: {'Run': 32, 'District': 'Бибирево', 'Point A': '55.89577394551284, 37.627295749594204', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:58:11,128 ERROR:An error occurred for Бибирево: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00007FF706ED1522+60802]
-	(No symbol) [0x00007FF706E4AC22]
-	(No symbol) [0x00007FF706D07CE4]
-	(No symbol) [0x00007FF706D56D4D]
-	(No symbol) [0x00007FF706D56E1C]
-	(No symbol) [0x00007FF706D9CE37]
-	(No symbol) [0x00007FF706D7ABBF]
-	(No symbol) [0x00007FF706D9A224]
-	(No symbol) [0x00007FF706D7A923]
-	(No symbol) [0x00007FF706D48FEC]
-	(No symbol) [0x00007FF706D49C21]
-	GetHandleVerifier [0x00007FF7071D41BD+3217949]
-	GetHandleVerifier [0x00007FF707216157+3488183]
-	GetHandleVerifier [0x00007FF70720F0DF+3459391]
-	GetHandleVerifier [0x00007FF706F8B8E6+823622]
-	(No symbol) [0x00007FF706E55FBF]
-	(No symbol) [0x00007FF706E50EE4]
-	(No symbol) [0x00007FF706E51072]
-	(No symbol) [0x00007FF706E418C4]
-	BaseThreadInitThunk [0x00007FF85E884CB0+16]
-	RtlUserThreadStart [0x00007FF85EC5E8AB+43]
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
 
-2024-05-21 11:44:40,447 INFO:Retrying for Отрадное, attempts left: 3
-2024-05-21 11:44:40,447 INFO:Starting scraper for: {'Run': 74, 'District': 'Отрадное', 'Point A': '55.87133406702292, 37.58941054832356', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:44:43,804 INFO:Data for Отрадное: {'District': 'Отрадное', 'Price': '281', 'Duration': '10 мин', 'Length': '4'}
-2024-05-21 11:44:43,805 ERROR:Error calling scraper for Отрадное: 'NoneType' object is not subscriptable
-2024-05-21 11:44:43,805 INFO:Starting scraper for: {'Run': 75, 'District': 'Войковский', 'Point A': '55.83485440960517, 37.475803568347075', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:44:47,624 INFO:Data for Войковский: {'District': 'Войковский', 'Price': '479', 'Duration': '19 мин', 'Length': '10,3'}
-2024-05-21 11:44:47,625 INFO:Preprocessing completed for entry: {'District': 'Войковский', 'Price': '479', 'Duration': '19 мин', 'Length': '10,3'}
-2024-05-21 11:44:47,625 INFO:Scraper called successfully for Войковский
-2024-05-21 11:44:47,625 INFO:Starting scraper for: {'Run': 76, 'District': 'Коньково', 'Point A': '55.650568585869486, 37.531018663859335', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:44:51,392 INFO:Data for Коньково: {'District': 'Коньково', 'Price': '440', 'Duration': '13 мин', 'Length': '5,6'}
-2024-05-21 11:44:51,395 INFO:Preprocessing completed for entry: {'District': 'Коньково', 'Price': '440', 'Duration': '13 мин', 'Length': '5,6'}
-2024-05-21 11:44:51,395 INFO:Scraper called successfully for Коньково
-2024-05-21 11:44:51,395 INFO:Starting scraper for: {'Run': 77, 'District': 'Даниловский', 'Point A': '55.693561736475964, 37.64983058907085', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:44:55,118 INFO:Data for Даниловский: {'District': 'Даниловский', 'Price': '679', 'Duration': '31 мин', 'Length': '10'}
-2024-05-21 11:44:55,119 INFO:Preprocessing completed for entry: {'District': 'Даниловский', 'Price': '679', 'Duration': '31 мин', 'Length': '10'}
-2024-05-21 11:44:55,120 INFO:Scraper called successfully for Даниловский
-2024-05-21 11:44:55,120 INFO:Starting scraper for: {'Run': 78, 'District': 'Тёплый Стан', 'Point A': '55.632916561830825, 37.478501795194454', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:44:58,954 INFO:Data for Тёплый Стан: {'District': 'Тёплый Стан', 'Price': '619', 'Duration': '18 мин', 'Length': '6,5'}
-2024-05-21 11:44:58,954 INFO:Preprocessing completed for entry: {'District': 'Тёплый Стан', 'Price': '619', 'Duration': '18 мин', 'Length': '6,5'}
-2024-05-21 11:44:58,954 INFO:Scraper called successfully for Тёплый Стан
-2024-05-21 11:44:58,954 INFO:Starting scraper for: {'Run': 79, 'District': 'Молжаниновский', 'Point A': '55.91918522786902, 37.37198952541849', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:45:02,698 INFO:Data for Молжаниновский: {'District': 'Молжаниновский', 'Price': '475', 'Duration': '27 мин', 'Length': '9,5'}
-2024-05-21 11:45:02,699 INFO:Preprocessing completed for entry: {'District': 'Молжаниновский', 'Price': '475', 'Duration': '27 мин', 'Length': '9,5'}
-2024-05-21 11:45:02,699 INFO:Scraper called successfully for Молжаниновский
-2024-05-21 11:45:02,699 INFO:Starting scraper for: {'Run': 80, 'District': 'Северное Бутово', 'Point A': '55.580411168197976, 37.57293606807369', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:45:07,041 INFO:Data for Северное Бутово: {'District': 'Северное Бутово', 'Price': '545', 'Duration': '17 мин', 'Length': '6,8'}
-2024-05-21 11:45:07,041 INFO:Preprocessing completed for entry: {'District': 'Северное Бутово', 'Price': '545', 'Duration': '17 мин', 'Length': '6,8'}
-2024-05-21 11:45:07,042 INFO:Scraper called successfully for Северное Бутово
-2024-05-21 11:45:07,042 INFO:Starting scraper for: {'Run': 81, 'District': 'Западное Дегунино', 'Point A': '55.88893400538261, 37.49272228070949', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:45:10,193 INFO:Data for Западное Дегунино: {'District': 'Западное Дегунино', 'Price': '553', 'Duration': '27 мин', 'Length': '6,4'}
-2024-05-21 11:45:10,194 INFO:Preprocessing completed for entry: {'District': 'Западное Дегунино', 'Price': '553', 'Duration': '27 мин', 'Length': '6,4'}
-2024-05-21 11:45:10,194 INFO:Scraper called successfully for Западное Дегунино
-2024-05-21 11:45:10,194 INFO:Starting scraper for: {'Run': 82, 'District': 'Якиманка', 'Point A': '55.73175654329363, 37.61182774271349', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:45:13,421 INFO:Data for Якиманка: {'District': 'Якиманка', 'Price': '616', 'Duration': '23 мин', 'Length': '6,1'}
-2024-05-21 11:45:13,422 INFO:Preprocessing completed for entry: {'District': 'Якиманка', 'Price': '616', 'Duration': '23 мин', 'Length': '6,1'}
-2024-05-21 11:45:13,422 INFO:Scraper called successfully for Якиманка
-2024-05-21 11:45:13,422 INFO:Starting scraper for: {'Run': 83, 'District': 'Крылатское', 'Point A': '55.75766310866955, 37.44840375953837', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:45:17,207 INFO:Data for Крылатское: {'District': 'Крылатское', 'Price': '947', 'Duration': '29 мин', 'Length': '23,1'}
-2024-05-21 11:45:17,207 INFO:Preprocessing completed for entry: {'District': 'Крылатское', 'Price': '947', 'Duration': '29 мин', 'Length': '23,1'}
-2024-05-21 11:45:17,207 INFO:Scraper called successfully for Крылатское
-2024-05-21 11:45:17,208 INFO:Starting scraper for: {'Run': 84, 'District': 'Марьино', 'Point A': '55.645715262480394, 37.70762260519868', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:45:22,497 INFO:Data for Марьино: {'District': 'Марьино', 'Price': '829', 'Duration': '44 мин', 'Length': '23'}
-2024-05-21 11:45:22,498 INFO:Preprocessing completed for entry: {'District': 'Марьино', 'Price': '829', 'Duration': '44 мин', 'Length': '23'}
-2024-05-21 11:45:22,498 INFO:Scraper called successfully for Марьино
-2024-05-21 11:45:22,498 INFO:Starting scraper for: {'Run': 85, 'District': 'Хорошёвский', 'Point A': '55.78751744841876, 37.53844735474963', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:45:26,830 INFO:Data for Хорошёвский: {'District': 'Хорошёвский', 'Price': '758', 'Duration': '23 мин', 'Length': '15,2'}
-2024-05-21 11:45:26,830 INFO:Preprocessing completed for entry: {'District': 'Хорошёвский', 'Price': '758', 'Duration': '23 мин', 'Length': '15,2'}
-2024-05-21 11:45:26,830 INFO:Scraper called successfully for Хорошёвский
-2024-05-21 11:45:26,830 INFO:Starting scraper for: {'Run': 86, 'District': 'Беговой', 'Point A': '55.78453105755615, 37.584800281333436', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:45:31,220 INFO:Data for Беговой: {'District': 'Беговой', 'Price': '888', 'Duration': '25 мин', 'Length': '16,9'}
-2024-05-21 11:45:31,220 INFO:Preprocessing completed for entry: {'District': 'Беговой', 'Price': '888', 'Duration': '25 мин', 'Length': '16,9'}
-2024-05-21 11:45:31,220 INFO:Scraper called successfully for Беговой
-2024-05-21 11:45:31,220 INFO:Starting scraper for: {'Run': 87, 'District': 'Кузьминки', 'Point A': '55.68136452077336, 37.80190115390513', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:45:35,079 INFO:Data for Кузьминки: {'District': 'Кузьминки', 'Price': '1027', 'Duration': '43 мин', 'Length': '15,4'}
-2024-05-21 11:45:35,079 INFO:Preprocessing completed for entry: {'District': 'Кузьминки', 'Price': '1027', 'Duration': '43 мин', 'Length': '15,4'}
-2024-05-21 11:45:35,080 INFO:Scraper called successfully for Кузьминки
-2024-05-21 11:45:35,080 INFO:Starting scraper for: {'Run': 88, 'District': 'Ново-Переделкино', 'Point A': '55.66453533960833, 37.35848535001102', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:45:38,795 INFO:Data for Ново-Переделкино: {'District': 'Ново-Переделкино', 'Price': '919', 'Duration': '37 мин', 'Length': '26,1'}
-2024-05-21 11:45:38,796 INFO:Preprocessing completed for entry: {'District': 'Ново-Переделкино', 'Price': '919', 'Duration': '37 мин', 'Length': '26,1'}
-2024-05-21 11:45:38,796 INFO:Scraper called successfully for Ново-Переделкино
-2024-05-21 11:45:38,796 INFO:Starting scraper for: {'Run': 89, 'District': 'Капотня', 'Point A': '55.63945360731398, 37.79518970182384', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:45:42,563 INFO:Data for Капотня: {'District': 'Капотня', 'Price': '795', 'Duration': '37 мин', 'Length': '15'}
-2024-05-21 11:45:42,563 INFO:Preprocessing completed for entry: {'District': 'Капотня', 'Price': '795', 'Duration': '37 мин', 'Length': '15'}
-2024-05-21 11:45:42,563 INFO:Scraper called successfully for Капотня
-2024-05-21 11:45:42,563 INFO:Starting scraper for: {'Run': 90, 'District': 'Текстильщики', 'Point A': '55.72121606961766, 37.721871724296285', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:45:46,340 INFO:Data for Текстильщики: {'District': 'Текстильщики', 'Price': '662', 'Duration': '24 мин', 'Length': '11,1'}
-2024-05-21 11:45:46,341 INFO:Preprocessing completed for entry: {'District': 'Текстильщики', 'Price': '662', 'Duration': '24 мин', 'Length': '11,1'}
-2024-05-21 11:45:46,341 INFO:Scraper called successfully for Текстильщики
-2024-05-21 11:45:46,341 INFO:Starting scraper for: {'Run': 91, 'District': 'Северный', 'Point A': '55.952119755194985, 37.573144176050604', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:45:50,010 INFO:Data for Северный: {'District': 'Северный', 'Price': '662', 'Duration': '32 мин', 'Length': '17,8'}
-2024-05-21 11:45:50,011 INFO:Preprocessing completed for entry: {'District': 'Северный', 'Price': '662', 'Duration': '32 мин', 'Length': '17,8'}
-2024-05-21 11:45:50,011 INFO:Scraper called successfully for Северный
-2024-05-21 11:45:50,011 INFO:Starting scraper for: {'Run': 92, 'District': 'Перово', 'Point A': '55.75818708933234, 37.761844838193866', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:45:53,830 INFO:Data for Перово: {'District': 'Перово', 'Price': '299', 'Duration': '42 мин', 'Length': '28,2'}
-2024-05-21 11:45:53,832 INFO:Preprocessing completed for entry: {'District': 'Перово', 'Price': '299', 'Duration': '42 мин', 'Length': '28,2'}
-2024-05-21 11:45:53,832 INFO:Scraper called successfully for Перово
-2024-05-21 11:45:53,832 INFO:Starting scraper for: {'Run': 93, 'District': 'Чертаново Северное', 'Point A': '55.634540051031365, 37.5951243175907', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:45:57,041 INFO:Data for Чертаново Северное: {'District': 'Чертаново Северное', 'Price': '455', 'Duration': '23 мин', 'Length': '5,3'}
-2024-05-21 11:45:57,042 INFO:Preprocessing completed for entry: {'District': 'Чертаново Северное', 'Price': '455', 'Duration': '23 мин', 'Length': '5,3'}
-2024-05-21 11:45:57,042 INFO:Scraper called successfully for Чертаново Северное
-2024-05-21 11:45:57,042 INFO:Starting scraper for: {'Run': 94, 'District': 'Нагатинский Затон', 'Point A': '55.69633378517498, 37.67233844584938', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:46:00,853 INFO:Data for Нагатинский Затон: {'District': 'Нагатинский Затон', 'Price': '695', 'Duration': '29 мин', 'Length': '12,3'}
-2024-05-21 11:46:00,854 INFO:Preprocessing completed for entry: {'District': 'Нагатинский Затон', 'Price': '695', 'Duration': '29 мин', 'Length': '12,3'}
-2024-05-21 11:46:00,854 INFO:Scraper called successfully for Нагатинский Затон
-2024-05-21 11:46:00,854 INFO:Starting scraper for: {'Run': 95, 'District': 'Лианозово', 'Point A': '55.900278695809675, 37.57329911208756', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:46:04,643 INFO:Data for Лианозово: {'District': 'Лианозово', 'Price': '336', 'Duration': '18 мин', 'Length': '7,2'}
-2024-05-21 11:46:04,643 INFO:Preprocessing completed for entry: {'District': 'Лианозово', 'Price': '336', 'Duration': '18 мин', 'Length': '7,2'}
-2024-05-21 11:46:04,643 INFO:Scraper called successfully for Лианозово
-2024-05-21 11:46:04,643 INFO:Starting scraper for: {'Run': 96, 'District': 'Бутырский', 'Point A': '55.822232426615415, 37.58905810403428', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:46:08,428 INFO:Data for Бутырский: {'District': 'Бутырский', 'Price': '409', 'Duration': '15 мин', 'Length': '7,4'}
-2024-05-21 11:46:08,429 INFO:Preprocessing completed for entry: {'District': 'Бутырский', 'Price': '409', 'Duration': '15 мин', 'Length': '7,4'}
-2024-05-21 11:46:08,429 INFO:Scraper called successfully for Бутырский
-2024-05-21 11:46:08,429 INFO:Starting scraper for: {'Run': 97, 'District': 'Ростокино', 'Point A': '55.84458695200719, 37.64760866414248', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:46:12,232 INFO:Data for Ростокино: {'District': 'Ростокино', 'Price': '373', 'Duration': '10 мин', 'Length': '3,6'}
-2024-05-21 11:46:12,232 INFO:Preprocessing completed for entry: {'District': 'Ростокино', 'Price': '373', 'Duration': '10 мин', 'Length': '3,6'}
-2024-05-21 11:46:12,232 INFO:Scraper called successfully for Ростокино
-2024-05-21 11:46:12,232 INFO:Starting scraper for: {'Run': 98, 'District': 'Академический', 'Point A': '55.67871987578925, 37.56183992574039', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:46:16,549 INFO:Data for Академический: {'District': 'Академический', 'Price': '628', 'Duration': '26 мин', 'Length': '10,8'}
-2024-05-21 11:46:16,549 INFO:Preprocessing completed for entry: {'District': 'Академический', 'Price': '628', 'Duration': '26 мин', 'Length': '10,8'}
-2024-05-21 11:46:16,549 INFO:Scraper called successfully for Академический
-2024-05-21 11:46:16,550 INFO:Starting scraper for: {'Run': 99, 'District': 'Нагатино-Садовники', 'Point A': '55.6645956404017, 37.631110686826446', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:46:23,311 ERROR:An error occurred for Нагатино-Садовники: Message: 
+2024-05-21 12:58:11,129 INFO:Retrying for Бибирево, attempts left: 3
+2024-05-21 12:58:11,129 INFO:Starting scraper for: {'Run': 32, 'District': 'Бибирево', 'Point A': '55.89577394551284, 37.627295749594204', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:58:14,261 INFO:Data for Бибирево: {'District': 'Бибирево', 'Price': '460', 'Duration': '20 мин', 'Length': '7,1'}
+2024-05-21 12:58:14,262 ERROR:Error calling scraper for Бибирево: 'NoneType' object is not subscriptable
+2024-05-21 12:58:14,262 INFO:Starting scraper for: {'Run': 33, 'District': 'Сокол', 'Point A': '55.80403472977171, 37.51615162403994', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 12:58:18,078 INFO:Data for Сокол: {'District': 'Сокол', 'Price': '689', 'Duration': '28 мин', 'Length': '15,9'}
+2024-05-21 12:58:18,079 INFO:Preprocessing completed for entry: {'District': 'Сокол', 'Price': '689', 'Duration': '28 мин', 'Length': '15,9'}
+2024-05-21 12:58:18,079 INFO:Scraper called successfully for Сокол
+2024-05-21 12:58:18,079 INFO:Starting scraper for: {'Run': 34, 'District': 'Пресненский', 'Point A': '55.76441072782066, 37.57849670839258', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 12:58:20,747 INFO:Data for Пресненский: {'District': 'Пресненский', 'Price': '604', 'Duration': '19 мин', 'Length': '5,4'}
+2024-05-21 12:58:20,748 INFO:Preprocessing completed for entry: {'District': 'Пресненский', 'Price': '604', 'Duration': '19 мин', 'Length': '5,4'}
+2024-05-21 12:58:20,748 INFO:Scraper called successfully for Пресненский
+2024-05-21 12:58:20,748 INFO:Starting scraper for: {'Run': 35, 'District': 'Даниловский', 'Point A': '55.693561736475964, 37.64983058907085', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 12:58:24,014 INFO:Data for Даниловский: {'District': 'Даниловский', 'Price': '519', 'Duration': '28 мин', 'Length': '10,9'}
+2024-05-21 12:58:24,015 INFO:Preprocessing completed for entry: {'District': 'Даниловский', 'Price': '519', 'Duration': '28 мин', 'Length': '10,9'}
+2024-05-21 12:58:24,015 INFO:Scraper called successfully for Даниловский
+2024-05-21 12:58:24,015 INFO:Starting scraper for: {'Run': 36, 'District': 'Останкинский', 'Point A': '55.83783291672194, 37.6120255213233', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:58:26,694 INFO:Data for Останкинский: {'District': 'Останкинский', 'Price': '460', 'Duration': '17 мин', 'Length': '4,5'}
+2024-05-21 12:58:26,694 INFO:Preprocessing completed for entry: {'District': 'Останкинский', 'Price': '460', 'Duration': '17 мин', 'Length': '4,5'}
+2024-05-21 12:58:26,694 INFO:Scraper called successfully for Останкинский
+2024-05-21 12:58:26,694 INFO:Starting scraper for: {'Run': 37, 'District': 'Марфино', 'Point A': '55.84416825650055, 37.58344535935996', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:58:29,384 INFO:Data for Марфино: {'District': 'Марфино', 'Price': '390', 'Duration': '12 мин', 'Length': '4,9'}
+2024-05-21 12:58:29,384 INFO:Preprocessing completed for entry: {'District': 'Марфино', 'Price': '390', 'Duration': '12 мин', 'Length': '4,9'}
+2024-05-21 12:58:29,384 INFO:Scraper called successfully for Марфино
+2024-05-21 12:58:29,384 INFO:Starting scraper for: {'Run': 38, 'District': 'Ясенево', 'Point A': '55.64557250696668, 37.561881413163235', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 12:58:32,555 INFO:Data for Ясенево: {'District': 'Ясенево', 'Price': '385', 'Duration': '12 мин', 'Length': '5,8'}
+2024-05-21 12:58:32,556 INFO:Preprocessing completed for entry: {'District': 'Ясенево', 'Price': '385', 'Duration': '12 мин', 'Length': '5,8'}
+2024-05-21 12:58:32,556 INFO:Scraper called successfully for Ясенево
+2024-05-21 12:58:32,556 INFO:Starting scraper for: {'Run': 39, 'District': 'Таганский', 'Point A': '55.73853221539014, 37.67188228736374', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 12:58:36,389 INFO:Data for Таганский: {'District': 'Таганский', 'Price': '576', 'Duration': '37 мин', 'Length': '9,7'}
+2024-05-21 12:58:36,389 INFO:Preprocessing completed for entry: {'District': 'Таганский', 'Price': '576', 'Duration': '37 мин', 'Length': '9,7'}
+2024-05-21 12:58:36,389 INFO:Scraper called successfully for Таганский
+2024-05-21 12:58:36,390 INFO:Starting scraper for: {'Run': 40, 'District': 'Раменки', 'Point A': '55.722337500418476, 37.51905116487049', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 12:58:40,182 INFO:Data for Раменки: {'District': 'Раменки', 'Price': '1016', 'Duration': '30 мин', 'Length': '25,1'}
+2024-05-21 12:58:40,182 INFO:Preprocessing completed for entry: {'District': 'Раменки', 'Price': '1016', 'Duration': '30 мин', 'Length': '25,1'}
+2024-05-21 12:58:40,182 INFO:Scraper called successfully for Раменки
+2024-05-21 12:58:40,183 INFO:Starting scraper for: {'Run': 41, 'District': 'Рязанский', 'Point A': '55.711839080013426, 37.79091681541887', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 12:58:43,328 INFO:Data for Рязанский: {'District': 'Рязанский', 'Price': '317', 'Duration': '15 мин', 'Length': '6,1'}
+2024-05-21 12:58:43,329 INFO:Preprocessing completed for entry: {'District': 'Рязанский', 'Price': '317', 'Duration': '15 мин', 'Length': '6,1'}
+2024-05-21 12:58:43,329 INFO:Scraper called successfully for Рязанский
+2024-05-21 12:58:43,329 INFO:Starting scraper for: {'Run': 42, 'District': 'Сокольники', 'Point A': '55.803521470124785, 37.67927047756431', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:58:47,093 INFO:Data for Сокольники: {'District': 'Сокольники', 'Price': '299', 'Duration': '38 мин', 'Length': '20,4'}
+2024-05-21 12:58:47,094 INFO:Preprocessing completed for entry: {'District': 'Сокольники', 'Price': '299', 'Duration': '38 мин', 'Length': '20,4'}
+2024-05-21 12:58:47,094 INFO:Scraper called successfully for Сокольники
+2024-05-21 12:58:47,094 INFO:Starting scraper for: {'Run': 43, 'District': 'Замоскворечье', 'Point A': '55.72182706986865, 37.61946136923001', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 12:58:50,326 INFO:Data for Замоскворечье: {'District': 'Замоскворечье', 'Price': '455', 'Duration': '26 мин', 'Length': '6,7'}
+2024-05-21 12:58:50,326 INFO:Preprocessing completed for entry: {'District': 'Замоскворечье', 'Price': '455', 'Duration': '26 мин', 'Length': '6,7'}
+2024-05-21 12:58:50,326 INFO:Scraper called successfully for Замоскворечье
+2024-05-21 12:58:50,326 INFO:Starting scraper for: {'Run': 44, 'District': 'Коптево', 'Point A': '55.83914381273537, 37.528929772704736', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 12:58:53,593 INFO:Data for Коптево: {'District': 'Коптево', 'Price': '560', 'Duration': '23 мин', 'Length': '10'}
+2024-05-21 12:58:53,594 INFO:Preprocessing completed for entry: {'District': 'Коптево', 'Price': '560', 'Duration': '23 мин', 'Length': '10'}
+2024-05-21 12:58:53,594 INFO:Scraper called successfully for Коптево
+2024-05-21 12:58:53,594 INFO:Starting scraper for: {'Run': 45, 'District': 'Коньково', 'Point A': '55.650568585869486, 37.531018663859335', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 12:58:56,835 INFO:Data for Коньково: {'District': 'Коньково', 'Price': '457', 'Duration': '14 мин', 'Length': '5,6'}
+2024-05-21 12:58:56,836 INFO:Preprocessing completed for entry: {'District': 'Коньково', 'Price': '457', 'Duration': '14 мин', 'Length': '5,6'}
+2024-05-21 12:58:56,836 INFO:Scraper called successfully for Коньково
+2024-05-21 12:58:56,836 INFO:Starting scraper for: {'Run': 46, 'District': 'Братеево', 'Point A': '55.628071931071446, 37.76222420849055', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 12:59:00,156 INFO:Data for Братеево: {'District': 'Братеево', 'Price': '480', 'Duration': '28 мин', 'Length': '9,7'}
+2024-05-21 12:59:00,157 INFO:Preprocessing completed for entry: {'District': 'Братеево', 'Price': '480', 'Duration': '28 мин', 'Length': '9,7'}
+2024-05-21 12:59:00,157 INFO:Scraper called successfully for Братеево
+2024-05-21 12:59:00,157 INFO:Starting scraper for: {'Run': 47, 'District': 'Измайлово', 'Point A': '55.79037043529277, 37.74912907439874', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:59:03,435 INFO:Data for Измайлово: {'District': 'Измайлово', 'Price': '329', 'Duration': '40 мин', 'Length': '25,7'}
+2024-05-21 12:59:03,436 INFO:Preprocessing completed for entry: {'District': 'Измайлово', 'Price': '329', 'Duration': '40 мин', 'Length': '25,7'}
+2024-05-21 12:59:03,436 INFO:Scraper called successfully for Измайлово
+2024-05-21 12:59:03,436 INFO:Starting scraper for: {'Run': 48, 'District': 'Капотня', 'Point A': '55.63945360731398, 37.79518970182384', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 12:59:06,651 INFO:Data for Капотня: {'District': 'Капотня', 'Price': '731', 'Duration': '42 мин', 'Length': '13,7'}
+2024-05-21 12:59:06,652 INFO:Preprocessing completed for entry: {'District': 'Капотня', 'Price': '731', 'Duration': '42 мин', 'Length': '13,7'}
+2024-05-21 12:59:06,652 INFO:Scraper called successfully for Капотня
+2024-05-21 12:59:06,653 INFO:Starting scraper for: {'Run': 49, 'District': 'Нижегородский', 'Point A': '55.727650711152094, 37.72806045349967', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 12:59:10,031 INFO:Data for Нижегородский: {'District': 'Нижегородский', 'Price': '575', 'Duration': '19 мин', 'Length': '10,2'}
+2024-05-21 12:59:10,031 INFO:Preprocessing completed for entry: {'District': 'Нижегородский', 'Price': '575', 'Duration': '19 мин', 'Length': '10,2'}
+2024-05-21 12:59:10,031 INFO:Scraper called successfully for Нижегородский
+2024-05-21 12:59:10,031 INFO:Starting scraper for: {'Run': 50, 'District': 'Солнцево', 'Point A': '55.63320297647751, 37.39127367791208', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 12:59:16,708 ERROR:An error occurred for Солнцево: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00007FF706ED1522+60802]
-	(No symbol) [0x00007FF706E4AC22]
-	(No symbol) [0x00007FF706D07CE4]
-	(No symbol) [0x00007FF706D56D4D]
-	(No symbol) [0x00007FF706D56E1C]
-	(No symbol) [0x00007FF706D9CE37]
-	(No symbol) [0x00007FF706D7ABBF]
-	(No symbol) [0x00007FF706D9A224]
-	(No symbol) [0x00007FF706D7A923]
-	(No symbol) [0x00007FF706D48FEC]
-	(No symbol) [0x00007FF706D49C21]
-	GetHandleVerifier [0x00007FF7071D41BD+3217949]
-	GetHandleVerifier [0x00007FF707216157+3488183]
-	GetHandleVerifier [0x00007FF70720F0DF+3459391]
-	GetHandleVerifier [0x00007FF706F8B8E6+823622]
-	(No symbol) [0x00007FF706E55FBF]
-	(No symbol) [0x00007FF706E50EE4]
-	(No symbol) [0x00007FF706E51072]
-	(No symbol) [0x00007FF706E418C4]
-	BaseThreadInitThunk [0x00007FF85E884CB0+16]
-	RtlUserThreadStart [0x00007FF85EC5E8AB+43]
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
 
-2024-05-21 11:46:23,311 INFO:Retrying for Нагатино-Садовники, attempts left: 3
-2024-05-21 11:46:23,311 INFO:Starting scraper for: {'Run': 99, 'District': 'Нагатино-Садовники', 'Point A': '55.6645956404017, 37.631110686826446', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:46:26,550 INFO:Data for Нагатино-Садовники: {'District': 'Нагатино-Садовники', 'Price': '502', 'Duration': '19 мин', 'Length': '8,8'}
-2024-05-21 11:46:26,551 ERROR:Error calling scraper for Нагатино-Садовники: 'NoneType' object is not subscriptable
-2024-05-21 11:46:26,552 INFO:Starting scraper for: {'Run': 100, 'District': 'Левобережный', 'Point A': '55.871655913689715, 37.45857530658032', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:46:30,836 INFO:Data for Левобережный: {'District': 'Левобережный', 'Price': '362', 'Duration': '16 мин', 'Length': '6,7'}
-2024-05-21 11:46:30,837 INFO:Preprocessing completed for entry: {'District': 'Левобережный', 'Price': '362', 'Duration': '16 мин', 'Length': '6,7'}
-2024-05-21 11:46:30,837 INFO:Scraper called successfully for Левобережный
-2024-05-21 11:46:30,837 INFO:Starting scraper for: {'Run': 101, 'District': 'Люблино', 'Point A': '55.657962734305535, 37.80090514681211', 'Point B': '55.69398417461721, 37.847189565673474'}
-2024-05-21 11:46:35,151 INFO:Data for Люблино: {'District': 'Люблино', 'Price': '1036', 'Duration': '39 мин', 'Length': '13,7'}
-2024-05-21 11:46:35,152 INFO:Preprocessing completed for entry: {'District': 'Люблино', 'Price': '1036', 'Duration': '39 мин', 'Length': '13,7'}
-2024-05-21 11:46:35,152 INFO:Scraper called successfully for Люблино
-2024-05-21 11:46:35,152 INFO:Starting scraper for: {'Run': 102, 'District': 'Тропарёво-Никулино', 'Point A': '55.65089099684057, 37.480960583253314', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:46:39,516 INFO:Data for Тропарёво-Никулино: {'District': 'Тропарёво-Никулино', 'Price': '1240', 'Duration': '25 мин', 'Length': '26,5'}
-2024-05-21 11:46:39,516 INFO:Preprocessing completed for entry: {'District': 'Тропарёво-Никулино', 'Price': '1240', 'Duration': '25 мин', 'Length': '26,5'}
-2024-05-21 11:46:39,516 INFO:Scraper called successfully for Тропарёво-Никулино
-2024-05-21 11:46:39,516 INFO:Starting scraper for: {'Run': 103, 'District': 'Можайский', 'Point A': '55.709232689356085, 37.40660766821201', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:46:43,183 INFO:Data for Можайский: {'District': 'Можайский', 'Price': '634', 'Duration': '18 мин', 'Length': '17,6'}
-2024-05-21 11:46:43,184 INFO:Preprocessing completed for entry: {'District': 'Можайский', 'Price': '634', 'Duration': '18 мин', 'Length': '17,6'}
-2024-05-21 11:46:43,184 INFO:Scraper called successfully for Можайский
-2024-05-21 11:46:43,184 INFO:Starting scraper for: {'Run': 104, 'District': 'Бескудниковский', 'Point A': '55.852402338694624, 37.565644140991054', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:46:49,900 ERROR:An error occurred for Бескудниковский: Message: 
+2024-05-21 12:59:16,708 INFO:Retrying for Солнцево, attempts left: 3
+2024-05-21 12:59:16,708 INFO:Starting scraper for: {'Run': 50, 'District': 'Солнцево', 'Point A': '55.63320297647751, 37.39127367791208', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 12:59:20,577 INFO:Data for Солнцево: {'District': 'Солнцево', 'Price': '965', 'Duration': '34 мин', 'Length': '27'}
+2024-05-21 12:59:20,578 ERROR:Error calling scraper for Солнцево: 'NoneType' object is not subscriptable
+2024-05-21 12:59:20,579 INFO:Starting scraper for: {'Run': 51, 'District': 'Гольяново', 'Point A': '55.839247426261934, 37.788903681528524', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:59:23,887 INFO:Data for Гольяново: {'District': 'Гольяново', 'Price': '259', 'Duration': '21 мин', 'Length': '18,1'}
+2024-05-21 12:59:23,888 INFO:Preprocessing completed for entry: {'District': 'Гольяново', 'Price': '259', 'Duration': '21 мин', 'Length': '18,1'}
+2024-05-21 12:59:23,888 INFO:Scraper called successfully for Гольяново
+2024-05-21 12:59:23,888 INFO:Starting scraper for: {'Run': 52, 'District': 'Перово', 'Point A': '55.75818708933234, 37.761844838193866', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:59:27,185 INFO:Data for Перово: {'District': 'Перово', 'Price': '299', 'Duration': '40 мин', 'Length': '28,2'}
+2024-05-21 12:59:27,185 INFO:Preprocessing completed for entry: {'District': 'Перово', 'Price': '299', 'Duration': '40 мин', 'Length': '28,2'}
+2024-05-21 12:59:27,185 INFO:Scraper called successfully for Перово
+2024-05-21 12:59:27,186 INFO:Starting scraper for: {'Run': 53, 'District': 'Алексеевский', 'Point A': '55.81061596848386, 37.65885965674445', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:59:30,402 INFO:Data for Алексеевский: {'District': 'Алексеевский', 'Price': '555', 'Duration': '24 мин', 'Length': '8,9'}
+2024-05-21 12:59:30,403 INFO:Preprocessing completed for entry: {'District': 'Алексеевский', 'Price': '555', 'Duration': '24 мин', 'Length': '8,9'}
+2024-05-21 12:59:30,403 INFO:Scraper called successfully for Алексеевский
+2024-05-21 12:59:30,403 INFO:Starting scraper for: {'Run': 54, 'District': 'Марьина Роща', 'Point A': '55.80752592296324, 37.60835544179455', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:59:37,295 ERROR:An error occurred for Марьина Роща: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00007FF706ED1522+60802]
-	(No symbol) [0x00007FF706E4AC22]
-	(No symbol) [0x00007FF706D07CE4]
-	(No symbol) [0x00007FF706D56D4D]
-	(No symbol) [0x00007FF706D56E1C]
-	(No symbol) [0x00007FF706D9CE37]
-	(No symbol) [0x00007FF706D7ABBF]
-	(No symbol) [0x00007FF706D9A224]
-	(No symbol) [0x00007FF706D7A923]
-	(No symbol) [0x00007FF706D48FEC]
-	(No symbol) [0x00007FF706D49C21]
-	GetHandleVerifier [0x00007FF7071D41BD+3217949]
-	GetHandleVerifier [0x00007FF707216157+3488183]
-	GetHandleVerifier [0x00007FF70720F0DF+3459391]
-	GetHandleVerifier [0x00007FF706F8B8E6+823622]
-	(No symbol) [0x00007FF706E55FBF]
-	(No symbol) [0x00007FF706E50EE4]
-	(No symbol) [0x00007FF706E51072]
-	(No symbol) [0x00007FF706E418C4]
-	BaseThreadInitThunk [0x00007FF85E884CB0+16]
-	RtlUserThreadStart [0x00007FF85EC5E8AB+43]
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
 
-2024-05-21 11:46:49,900 INFO:Retrying for Бескудниковский, attempts left: 3
-2024-05-21 11:46:49,900 INFO:Starting scraper for: {'Run': 104, 'District': 'Бескудниковский', 'Point A': '55.852402338694624, 37.565644140991054', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:46:53,138 INFO:Data for Бескудниковский: {'District': 'Бескудниковский', 'Price': '771', 'Duration': '33 мин', 'Length': '12,7'}
-2024-05-21 11:46:53,138 ERROR:Error calling scraper for Бескудниковский: 'NoneType' object is not subscriptable
-2024-05-21 11:46:53,138 INFO:Starting scraper for: {'Run': 105, 'District': 'Братеево', 'Point A': '55.628071931071446, 37.76222420849055', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:46:59,891 ERROR:An error occurred for Братеево: Message: 
+2024-05-21 12:59:37,295 INFO:Retrying for Марьина Роща, attempts left: 3
+2024-05-21 12:59:37,295 INFO:Starting scraper for: {'Run': 54, 'District': 'Марьина Роща', 'Point A': '55.80752592296324, 37.60835544179455', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 12:59:40,608 INFO:Data for Марьина Роща: {'District': 'Марьина Роща', 'Price': '488', 'Duration': '23 мин', 'Length': '9,9'}
+2024-05-21 12:59:40,608 ERROR:Error calling scraper for Марьина Роща: 'NoneType' object is not subscriptable
+2024-05-21 12:59:40,608 INFO:Starting scraper for: {'Run': 55, 'District': 'Богородское', 'Point A': '55.81632605200605, 37.68919135539411', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:59:44,464 INFO:Data for Богородское: {'District': 'Богородское', 'Price': '229', 'Duration': '37 мин', 'Length': '19,7'}
+2024-05-21 12:59:44,464 INFO:Preprocessing completed for entry: {'District': 'Богородское', 'Price': '229', 'Duration': '37 мин', 'Length': '19,7'}
+2024-05-21 12:59:44,464 INFO:Scraper called successfully for Богородское
+2024-05-21 12:59:44,464 INFO:Starting scraper for: {'Run': 56, 'District': 'Обручевский', 'Point A': '55.65044490708014, 37.4852720383964', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 12:59:48,149 INFO:Data for Обручевский: {'District': 'Обручевский', 'Price': '613', 'Duration': '20 мин', 'Length': '7,7'}
+2024-05-21 12:59:48,149 INFO:Preprocessing completed for entry: {'District': 'Обручевский', 'Price': '613', 'Duration': '20 мин', 'Length': '7,7'}
+2024-05-21 12:59:48,149 INFO:Scraper called successfully for Обручевский
+2024-05-21 12:59:48,149 INFO:Starting scraper for: {'Run': 57, 'District': 'Куркино', 'Point A': '55.899481280383476, 37.37680915076788', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-21 12:59:52,342 INFO:Data for Куркино: {'District': 'Куркино', 'Price': '450', 'Duration': '20 мин', 'Length': '12,7'}
+2024-05-21 12:59:52,342 INFO:Preprocessing completed for entry: {'District': 'Куркино', 'Price': '450', 'Duration': '20 мин', 'Length': '12,7'}
+2024-05-21 12:59:52,342 INFO:Scraper called successfully for Куркино
+2024-05-21 12:59:52,342 INFO:Starting scraper for: {'Run': 58, 'District': 'Чертаново Южное', 'Point A': '55.59984597819561, 37.627066641226676', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 12:59:55,526 INFO:Data for Чертаново Южное: {'District': 'Чертаново Южное', 'Price': '539', 'Duration': '19 мин', 'Length': '10,5'}
+2024-05-21 12:59:55,527 INFO:Preprocessing completed for entry: {'District': 'Чертаново Южное', 'Price': '539', 'Duration': '19 мин', 'Length': '10,5'}
+2024-05-21 12:59:55,527 INFO:Scraper called successfully for Чертаново Южное
+2024-05-21 12:59:55,528 INFO:Starting scraper for: {'Run': 59, 'District': 'Новогиреево', 'Point A': '55.74974163618338, 37.78573611571782', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 12:59:59,329 INFO:Data for Новогиреево: {'District': 'Новогиреево', 'Price': '259', 'Duration': '38 мин', 'Length': '28'}
+2024-05-21 12:59:59,331 INFO:Preprocessing completed for entry: {'District': 'Новогиреево', 'Price': '259', 'Duration': '38 мин', 'Length': '28'}
+2024-05-21 12:59:59,334 INFO:Scraper called successfully for Новогиреево
+2024-05-21 12:59:59,334 INFO:Starting scraper for: {'Run': 60, 'District': 'Проспект Вернадского', 'Point A': '55.67926810188126, 37.49443944766765', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:00:03,125 INFO:Data for Проспект Вернадского: {'District': 'Проспект Вернадского', 'Price': '915', 'Duration': '36 мин', 'Length': '26'}
+2024-05-21 13:00:03,126 INFO:Preprocessing completed for entry: {'District': 'Проспект Вернадского', 'Price': '915', 'Duration': '36 мин', 'Length': '26'}
+2024-05-21 13:00:03,126 INFO:Scraper called successfully for Проспект Вернадского
+2024-05-21 13:00:03,126 INFO:Starting scraper for: {'Run': 61, 'District': 'Беговой', 'Point A': '55.78453105755615, 37.584800281333436', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:00:06,854 INFO:Data for Беговой: {'District': 'Беговой', 'Price': '763', 'Duration': '27 мин', 'Length': '16,9'}
+2024-05-21 13:00:06,854 INFO:Preprocessing completed for entry: {'District': 'Беговой', 'Price': '763', 'Duration': '27 мин', 'Length': '16,9'}
+2024-05-21 13:00:06,854 INFO:Scraper called successfully for Беговой
+2024-05-21 13:00:06,854 INFO:Starting scraper for: {'Run': 62, 'District': 'Хорошёвский', 'Point A': '55.78751744841876, 37.53844735474963', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:00:09,994 INFO:Data for Хорошёвский: {'District': 'Хорошёвский', 'Price': '779', 'Duration': '29 мин', 'Length': '15,2'}
+2024-05-21 13:00:09,995 INFO:Preprocessing completed for entry: {'District': 'Хорошёвский', 'Price': '779', 'Duration': '29 мин', 'Length': '15,2'}
+2024-05-21 13:00:09,995 INFO:Scraper called successfully for Хорошёвский
+2024-05-21 13:00:09,995 INFO:Starting scraper for: {'Run': 63, 'District': 'Головинский', 'Point A': '55.84788204794651, 37.51019256624134', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:00:13,151 INFO:Data for Головинский: {'District': 'Головинский', 'Price': '488', 'Duration': '21 мин', 'Length': '8,5'}
+2024-05-21 13:00:13,153 INFO:Preprocessing completed for entry: {'District': 'Головинский', 'Price': '488', 'Duration': '21 мин', 'Length': '8,5'}
+2024-05-21 13:00:13,153 INFO:Scraper called successfully for Головинский
+2024-05-21 13:00:13,153 INFO:Starting scraper for: {'Run': 64, 'District': 'Хамовники', 'Point A': '55.728417810810384, 37.55693514819191', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 13:00:16,290 INFO:Data for Хамовники: {'District': 'Хамовники', 'Price': '718', 'Duration': '19 мин', 'Length': '6,1'}
+2024-05-21 13:00:16,290 INFO:Preprocessing completed for entry: {'District': 'Хамовники', 'Price': '718', 'Duration': '19 мин', 'Length': '6,1'}
+2024-05-21 13:00:16,290 INFO:Scraper called successfully for Хамовники
+2024-05-21 13:00:16,290 INFO:Starting scraper for: {'Run': 65, 'District': 'Ховрино', 'Point A': '55.87751020106036, 37.470365701092504', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:00:19,336 INFO:Data for Ховрино: {'District': 'Ховрино', 'Price': '383', 'Duration': '14 мин', 'Length': '4,3'}
+2024-05-21 13:00:19,336 INFO:Preprocessing completed for entry: {'District': 'Ховрино', 'Price': '383', 'Duration': '14 мин', 'Length': '4,3'}
+2024-05-21 13:00:19,337 INFO:Scraper called successfully for Ховрино
+2024-05-21 13:00:19,337 INFO:Starting scraper for: {'Run': 66, 'District': 'Чертаново Центральное', 'Point A': '55.61979261808794, 37.61863064169304', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:00:22,584 INFO:Data for Чертаново Центральное: {'District': 'Чертаново Центральное', 'Price': '442', 'Duration': '17 мин', 'Length': '5,5'}
+2024-05-21 13:00:22,585 INFO:Preprocessing completed for entry: {'District': 'Чертаново Центральное', 'Price': '442', 'Duration': '17 мин', 'Length': '5,5'}
+2024-05-21 13:00:22,585 INFO:Scraper called successfully for Чертаново Центральное
+2024-05-21 13:00:22,585 INFO:Starting scraper for: {'Run': 67, 'District': 'Некрасовка', 'Point A': '55.68722325232954, 37.93250893558551', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 13:00:25,666 INFO:Data for Некрасовка: {'District': 'Некрасовка', 'Price': '445', 'Duration': '18 мин', 'Length': '7,1'}
+2024-05-21 13:00:25,667 INFO:Preprocessing completed for entry: {'District': 'Некрасовка', 'Price': '445', 'Duration': '18 мин', 'Length': '7,1'}
+2024-05-21 13:00:25,667 INFO:Scraper called successfully for Некрасовка
+2024-05-21 13:00:25,667 INFO:Starting scraper for: {'Run': 68, 'District': 'Очаково-Матвеевское', 'Point A': '55.70430017596613, 37.467497197595165', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:00:29,420 INFO:Data for Очаково-Матвеевское: {'District': 'Очаково-Матвеевское', 'Price': '792', 'Duration': '29 мин', 'Length': '22,1'}
+2024-05-21 13:00:29,420 INFO:Preprocessing completed for entry: {'District': 'Очаково-Матвеевское', 'Price': '792', 'Duration': '29 мин', 'Length': '22,1'}
+2024-05-21 13:00:29,420 INFO:Scraper called successfully for Очаково-Матвеевское
+2024-05-21 13:00:29,420 INFO:Starting scraper for: {'Run': 69, 'District': 'Москворечье-Сабурово', 'Point A': '55.64678042450478, 37.676350965795706', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:00:32,597 INFO:Data for Москворечье-Сабурово: {'District': 'Москворечье-Сабурово', 'Price': '548', 'Duration': '21 мин', 'Length': '7,9'}
+2024-05-21 13:00:32,600 INFO:Preprocessing completed for entry: {'District': 'Москворечье-Сабурово', 'Price': '548', 'Duration': '21 мин', 'Length': '7,9'}
+2024-05-21 13:00:32,600 INFO:Scraper called successfully for Москворечье-Сабурово
+2024-05-21 13:00:32,600 INFO:Starting scraper for: {'Run': 70, 'District': 'Кузьминки', 'Point A': '55.68136452077336, 37.80190115390513', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 13:00:35,946 INFO:Data for Кузьминки: {'District': 'Кузьминки', 'Price': '1006', 'Duration': '47 мин', 'Length': '15,5'}
+2024-05-21 13:00:35,947 INFO:Preprocessing completed for entry: {'District': 'Кузьминки', 'Price': '1006', 'Duration': '47 мин', 'Length': '15,5'}
+2024-05-21 13:00:35,947 INFO:Scraper called successfully for Кузьминки
+2024-05-21 13:00:35,947 INFO:Starting scraper for: {'Run': 71, 'District': 'Гагаринский', 'Point A': '55.69105320688635, 37.55587849140841', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:00:39,153 INFO:Data for Гагаринский: {'District': 'Гагаринский', 'Price': '855', 'Duration': '38 мин', 'Length': '12,7'}
+2024-05-21 13:00:39,154 INFO:Preprocessing completed for entry: {'District': 'Гагаринский', 'Price': '855', 'Duration': '38 мин', 'Length': '12,7'}
+2024-05-21 13:00:39,154 INFO:Scraper called successfully for Гагаринский
+2024-05-21 13:00:39,154 INFO:Starting scraper for: {'Run': 72, 'District': 'Бирюлёво Западное', 'Point A': '55.58511416830679, 37.641459214957656', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:00:42,766 INFO:Data for Бирюлёво Западное: {'District': 'Бирюлёво Западное', 'Price': '473', 'Duration': '21 мин', 'Length': '9,1'}
+2024-05-21 13:00:42,773 INFO:Preprocessing completed for entry: {'District': 'Бирюлёво Западное', 'Price': '473', 'Duration': '21 мин', 'Length': '9,1'}
+2024-05-21 13:00:42,773 INFO:Scraper called successfully for Бирюлёво Западное
+2024-05-21 13:00:42,773 INFO:Starting scraper for: {'Run': 73, 'District': 'Черёмушки', 'Point A': '55.67496297349619, 37.55182211879649', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:00:46,536 INFO:Data for Черёмушки: {'District': 'Черёмушки', 'Price': '605', 'Duration': '26 мин', 'Length': '9,6'}
+2024-05-21 13:00:46,536 INFO:Preprocessing completed for entry: {'District': 'Черёмушки', 'Price': '605', 'Duration': '26 мин', 'Length': '9,6'}
+2024-05-21 13:00:46,537 INFO:Scraper called successfully for Черёмушки
+2024-05-21 13:00:46,537 INFO:Starting scraper for: {'Run': 74, 'District': 'Левобережный', 'Point A': '55.871655913689715, 37.45857530658032', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:00:53,189 ERROR:An error occurred for Левобережный: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00007FF706ED1522+60802]
-	(No symbol) [0x00007FF706E4AC22]
-	(No symbol) [0x00007FF706D07CE4]
-	(No symbol) [0x00007FF706D56D4D]
-	(No symbol) [0x00007FF706D56E1C]
-	(No symbol) [0x00007FF706D9CE37]
-	(No symbol) [0x00007FF706D7ABBF]
-	(No symbol) [0x00007FF706D9A224]
-	(No symbol) [0x00007FF706D7A923]
-	(No symbol) [0x00007FF706D48FEC]
-	(No symbol) [0x00007FF706D49C21]
-	GetHandleVerifier [0x00007FF7071D41BD+3217949]
-	GetHandleVerifier [0x00007FF707216157+3488183]
-	GetHandleVerifier [0x00007FF70720F0DF+3459391]
-	GetHandleVerifier [0x00007FF706F8B8E6+823622]
-	(No symbol) [0x00007FF706E55FBF]
-	(No symbol) [0x00007FF706E50EE4]
-	(No symbol) [0x00007FF706E51072]
-	(No symbol) [0x00007FF706E418C4]
-	BaseThreadInitThunk [0x00007FF85E884CB0+16]
-	RtlUserThreadStart [0x00007FF85EC5E8AB+43]
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
 
-2024-05-21 11:46:59,891 INFO:Retrying for Братеево, attempts left: 3
-2024-05-21 11:46:59,891 INFO:Starting scraper for: {'Run': 105, 'District': 'Братеево', 'Point A': '55.628071931071446, 37.76222420849055', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:47:03,667 INFO:Data for Братеево: {'District': 'Братеево', 'Price': '557', 'Duration': '27 мин', 'Length': '9,6'}
-2024-05-21 11:47:03,667 ERROR:Error calling scraper for Братеево: 'NoneType' object is not subscriptable
-2024-05-21 11:47:03,667 INFO:Starting scraper for: {'Run': 106, 'District': 'Гольяново', 'Point A': '55.839247426261934, 37.788903681528524', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:47:07,576 INFO:Data for Гольяново: {'District': 'Гольяново', 'Price': '799', 'Duration': '22 мин', 'Length': '18,1'}
-2024-05-21 11:47:07,577 INFO:Preprocessing completed for entry: {'District': 'Гольяново', 'Price': '799', 'Duration': '22 мин', 'Length': '18,1'}
-2024-05-21 11:47:07,577 INFO:Scraper called successfully for Гольяново
-2024-05-21 11:47:07,578 INFO:Starting scraper for: {'Run': 107, 'District': 'Северное Тушино', 'Point A': '55.86111300771202, 37.41679314946838', 'Point B': '55.82107826014529, 37.425697921282264'}
-2024-05-21 11:47:11,405 INFO:Data for Северное Тушино: {'District': 'Северное Тушино', 'Price': '443', 'Duration': '16 мин', 'Length': '8,6'}
-2024-05-21 11:47:11,406 INFO:Preprocessing completed for entry: {'District': 'Северное Тушино', 'Price': '443', 'Duration': '16 мин', 'Length': '8,6'}
-2024-05-21 11:47:11,406 INFO:Scraper called successfully for Северное Тушино
-2024-05-21 11:47:11,406 INFO:Starting scraper for: {'Run': 108, 'District': 'Останкинский', 'Point A': '55.83783291672194, 37.6120255213233', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:47:15,116 INFO:Data for Останкинский: {'District': 'Останкинский', 'Price': '475', 'Duration': '16 мин', 'Length': '4,5'}
-2024-05-21 11:47:15,117 INFO:Preprocessing completed for entry: {'District': 'Останкинский', 'Price': '475', 'Duration': '16 мин', 'Length': '4,5'}
-2024-05-21 11:47:15,117 INFO:Scraper called successfully for Останкинский
-2024-05-21 11:47:15,117 INFO:Starting scraper for: {'Run': 109, 'District': 'Бабушкинский', 'Point A': '55.8653909564351, 37.67803740042649', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:47:18,381 INFO:Data for Бабушкинский: {'District': 'Бабушкинский', 'Price': '474', 'Duration': '16 мин', 'Length': '5,1'}
-2024-05-21 11:47:18,381 INFO:Preprocessing completed for entry: {'District': 'Бабушкинский', 'Price': '474', 'Duration': '16 мин', 'Length': '5,1'}
-2024-05-21 11:47:18,381 INFO:Scraper called successfully for Бабушкинский
-2024-05-21 11:47:18,381 INFO:Starting scraper for: {'Run': 110, 'District': 'Донской', 'Point A': '55.70394253988541, 37.60438727619302', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:47:22,696 INFO:Data for Донской: {'District': 'Донской', 'Price': '876', 'Duration': '33 мин', 'Length': '14,6'}
-2024-05-21 11:47:22,697 INFO:Preprocessing completed for entry: {'District': 'Донской', 'Price': '876', 'Duration': '33 мин', 'Length': '14,6'}
-2024-05-21 11:47:22,697 INFO:Scraper called successfully for Донской
-2024-05-21 11:47:22,697 INFO:Starting scraper for: {'Run': 111, 'District': 'Сокол', 'Point A': '55.80403472977171, 37.51615162403994', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:47:29,388 ERROR:An error occurred for Сокол: Message: 
+2024-05-21 13:00:53,189 INFO:Retrying for Левобережный, attempts left: 3
+2024-05-21 13:00:53,189 INFO:Starting scraper for: {'Run': 74, 'District': 'Левобережный', 'Point A': '55.871655913689715, 37.45857530658032', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:00:56,356 INFO:Data for Левобережный: {'District': 'Левобережный', 'Price': '406', 'Duration': '14 мин', 'Length': '6,7'}
+2024-05-21 13:00:56,356 ERROR:Error calling scraper for Левобережный: 'NoneType' object is not subscriptable
+2024-05-21 13:00:56,356 INFO:Starting scraper for: {'Run': 75, 'District': 'Тимирязевский', 'Point A': '55.828205328422705, 37.532876973530364', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:00:59,697 INFO:Data for Тимирязевский: {'District': 'Тимирязевский', 'Price': '620', 'Duration': '25 мин', 'Length': '13,4'}
+2024-05-21 13:00:59,698 INFO:Preprocessing completed for entry: {'District': 'Тимирязевский', 'Price': '620', 'Duration': '25 мин', 'Length': '13,4'}
+2024-05-21 13:00:59,698 INFO:Scraper called successfully for Тимирязевский
+2024-05-21 13:00:59,698 INFO:Starting scraper for: {'Run': 76, 'District': 'Косино-Ухтомский', 'Point A': '55.70448985089735, 37.86720092093644', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 13:01:03,511 INFO:Data for Косино-Ухтомский: {'District': 'Косино-Ухтомский', 'Price': '259', 'Duration': '34 мин', 'Length': '31'}
+2024-05-21 13:01:03,512 INFO:Preprocessing completed for entry: {'District': 'Косино-Ухтомский', 'Price': '259', 'Duration': '34 мин', 'Length': '31'}
+2024-05-21 13:01:03,512 INFO:Scraper called successfully for Косино-Ухтомский
+2024-05-21 13:01:03,512 INFO:Starting scraper for: {'Run': 77, 'District': 'Можайский', 'Point A': '55.709232689356085, 37.40660766821201', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:01:10,181 ERROR:An error occurred for Можайский: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00007FF706ED1522+60802]
-	(No symbol) [0x00007FF706E4AC22]
-	(No symbol) [0x00007FF706D07CE4]
-	(No symbol) [0x00007FF706D56D4D]
-	(No symbol) [0x00007FF706D56E1C]
-	(No symbol) [0x00007FF706D9CE37]
-	(No symbol) [0x00007FF706D7ABBF]
-	(No symbol) [0x00007FF706D9A224]
-	(No symbol) [0x00007FF706D7A923]
-	(No symbol) [0x00007FF706D48FEC]
-	(No symbol) [0x00007FF706D49C21]
-	GetHandleVerifier [0x00007FF7071D41BD+3217949]
-	GetHandleVerifier [0x00007FF707216157+3488183]
-	GetHandleVerifier [0x00007FF70720F0DF+3459391]
-	GetHandleVerifier [0x00007FF706F8B8E6+823622]
-	(No symbol) [0x00007FF706E55FBF]
-	(No symbol) [0x00007FF706E50EE4]
-	(No symbol) [0x00007FF706E51072]
-	(No symbol) [0x00007FF706E418C4]
-	BaseThreadInitThunk [0x00007FF85E884CB0+16]
-	RtlUserThreadStart [0x00007FF85EC5E8AB+43]
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
 
-2024-05-21 11:47:29,388 INFO:Retrying for Сокол, attempts left: 3
-2024-05-21 11:47:29,388 INFO:Starting scraper for: {'Run': 111, 'District': 'Сокол', 'Point A': '55.80403472977171, 37.51615162403994', 'Point B': '55.88762047186569, 37.451297918193326'}
-2024-05-21 11:47:34,220 INFO:Data for Сокол: {'District': 'Сокол', 'Price': '739', 'Duration': '23 мин', 'Length': '15,9'}
-2024-05-21 11:47:34,220 ERROR:Error calling scraper for Сокол: 'NoneType' object is not subscriptable
-2024-05-21 11:47:34,220 INFO:Starting scraper for: {'Run': 112, 'District': 'Марьина Роща', 'Point A': '55.80752592296324, 37.60835544179455', 'Point B': '55.86350960551183, 37.622162994634884'}
-2024-05-21 11:47:38,360 INFO:Data for Марьина Роща: {'District': 'Марьина Роща', 'Price': '574', 'Duration': '24 мин', 'Length': '9,9'}
-2024-05-21 11:47:38,360 INFO:Preprocessing completed for entry: {'District': 'Марьина Роща', 'Price': '574', 'Duration': '24 мин', 'Length': '9,9'}
-2024-05-21 11:47:38,360 INFO:Scraper called successfully for Марьина Роща
-2024-05-21 11:47:38,360 INFO:Starting scraper for: {'Run': 113, 'District': 'Котловка', 'Point A': '55.668570111263264, 37.601990511823594', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:47:41,610 INFO:Data for Котловка: {'District': 'Котловка', 'Price': '545', 'Duration': '27 мин', 'Length': '9,3'}
-2024-05-21 11:47:41,611 INFO:Preprocessing completed for entry: {'District': 'Котловка', 'Price': '545', 'Duration': '27 мин', 'Length': '9,3'}
-2024-05-21 11:47:41,611 INFO:Scraper called successfully for Котловка
-2024-05-21 11:47:41,611 INFO:Starting scraper for: {'Run': 114, 'District': 'Восточный', 'Point A': '56.00093597364444, 37.79059042008175', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:47:45,516 INFO:Data for Восточный: {'District': 'Восточный', 'Price': '149', 'Duration': '45 мин', 'Length': '26'}
-2024-05-21 11:47:45,516 INFO:Preprocessing completed for entry: {'District': 'Восточный', 'Price': '149', 'Duration': '45 мин', 'Length': '26'}
-2024-05-21 11:47:45,516 INFO:Scraper called successfully for Восточный
-2024-05-21 11:47:45,516 INFO:Starting scraper for: {'Run': 115, 'District': 'Красносельский', 'Point A': '55.781588618842825, 37.653493813609714', 'Point B': '55.75368791410134, 37.61544846196964'}
-2024-05-21 11:47:49,309 INFO:Data for Красносельский: {'District': 'Красносельский', 'Price': '667', 'Duration': '38 мин', 'Length': '7,9'}
-2024-05-21 11:47:49,310 INFO:Preprocessing completed for entry: {'District': 'Красносельский', 'Price': '667', 'Duration': '38 мин', 'Length': '7,9'}
-2024-05-21 11:47:49,310 INFO:Scraper called successfully for Красносельский
-2024-05-21 11:47:49,310 INFO:Starting scraper for: {'Run': 116, 'District': 'Зюзино', 'Point A': '55.6563622219996, 37.584048127848085', 'Point B': '55.61298012212981, 37.54828007775951'}
-2024-05-21 11:47:53,091 INFO:Data for Зюзино: {'District': 'Зюзино', 'Price': '417', 'Duration': '16 мин', 'Length': '7,2'}
-2024-05-21 11:47:53,091 INFO:Preprocessing completed for entry: {'District': 'Зюзино', 'Price': '417', 'Duration': '16 мин', 'Length': '7,2'}
-2024-05-21 11:47:53,091 INFO:Scraper called successfully for Зюзино
-2024-05-21 11:47:53,091 INFO:Starting scraper for: {'Run': 117, 'District': 'Сокольники', 'Point A': '55.803521470124785, 37.67927047756431', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:47:56,918 INFO:Data for Сокольники: {'District': 'Сокольники', 'Price': '369', 'Duration': '45 мин', 'Length': '21,3'}
-2024-05-21 11:47:56,919 INFO:Preprocessing completed for entry: {'District': 'Сокольники', 'Price': '369', 'Duration': '45 мин', 'Length': '21,3'}
-2024-05-21 11:47:56,919 INFO:Scraper called successfully for Сокольники
-2024-05-21 11:47:56,919 INFO:Starting scraper for: {'Run': 118, 'District': 'Бирюлёво Восточное', 'Point A': '55.59045559903946, 37.67024764437423', 'Point B': '55.636563441267555, 37.66145102628217'}
-2024-05-21 11:48:00,736 INFO:Data for Бирюлёво Восточное: {'District': 'Бирюлёво Восточное', 'Price': '518', 'Duration': '16 мин', 'Length': '7'}
-2024-05-21 11:48:00,736 INFO:Preprocessing completed for entry: {'District': 'Бирюлёво Восточное', 'Price': '518', 'Duration': '16 мин', 'Length': '7'}
-2024-05-21 11:48:00,736 INFO:Scraper called successfully for Бирюлёво Восточное
-2024-05-21 11:48:00,737 INFO:Starting scraper for: {'Run': 119, 'District': 'Богородское', 'Point A': '55.81632605200605, 37.68919135539411', 'Point B': '55.88675436293484, 37.82132526712337'}
-2024-05-21 11:48:04,578 INFO:Data for Богородское: {'District': 'Богородское', 'Price': '429', 'Duration': '45 мин', 'Length': '20,6'}
-2024-05-21 11:48:04,579 INFO:Preprocessing completed for entry: {'District': 'Богородское', 'Price': '429', 'Duration': '45 мин', 'Length': '20,6'}
-2024-05-21 11:48:04,579 INFO:Scraper called successfully for Богородское
-2024-05-21 11:48:04,579 INFO:Starting scraper for: {'Run': 120, 'District': 'Проспект Вернадского', 'Point A': '55.67926810188126, 37.49443944766765', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:48:11,301 ERROR:An error occurred for Проспект Вернадского: Message: 
+2024-05-21 13:01:10,181 INFO:Retrying for Можайский, attempts left: 3
+2024-05-21 13:01:10,181 INFO:Starting scraper for: {'Run': 77, 'District': 'Можайский', 'Point A': '55.709232689356085, 37.40660766821201', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:01:13,894 INFO:Data for Можайский: {'District': 'Можайский', 'Price': '741', 'Duration': '19 мин', 'Length': '17,6'}
+2024-05-21 13:01:13,894 ERROR:Error calling scraper for Можайский: 'NoneType' object is not subscriptable
+2024-05-21 13:01:13,895 INFO:Starting scraper for: {'Run': 78, 'District': 'Дорогомилово', 'Point A': '55.73724793226832, 37.520245386715786', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:01:17,107 INFO:Data for Дорогомилово: {'District': 'Дорогомилово', 'Price': '942', 'Duration': '19 мин', 'Length': '22'}
+2024-05-21 13:01:17,108 INFO:Preprocessing completed for entry: {'District': 'Дорогомилово', 'Price': '942', 'Duration': '19 мин', 'Length': '22'}
+2024-05-21 13:01:17,108 INFO:Scraper called successfully for Дорогомилово
+2024-05-21 13:01:17,108 INFO:Starting scraper for: {'Run': 79, 'District': 'Басманный', 'Point A': '55.75941579563519, 37.6437850346498', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 13:01:20,509 INFO:Data for Басманный: {'District': 'Басманный', 'Price': '630', 'Duration': '40 мин', 'Length': '6,4'}
+2024-05-21 13:01:20,510 INFO:Preprocessing completed for entry: {'District': 'Басманный', 'Price': '630', 'Duration': '40 мин', 'Length': '6,4'}
+2024-05-21 13:01:20,510 INFO:Scraper called successfully for Басманный
+2024-05-21 13:01:20,510 INFO:Starting scraper for: {'Run': 80, 'District': 'Тропарёво-Никулино', 'Point A': '55.65089099684057, 37.480960583253314', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:01:24,112 INFO:Data for Тропарёво-Никулино: {'District': 'Тропарёво-Никулино', 'Price': '1085', 'Duration': '27 мин', 'Length': '26,5'}
+2024-05-21 13:01:24,112 INFO:Preprocessing completed for entry: {'District': 'Тропарёво-Никулино', 'Price': '1085', 'Duration': '27 мин', 'Length': '26,5'}
+2024-05-21 13:01:24,113 INFO:Scraper called successfully for Тропарёво-Никулино
+2024-05-21 13:01:24,113 INFO:Starting scraper for: {'Run': 81, 'District': 'Ломоносовский', 'Point A': '55.67277443033568, 37.532975447478364', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:01:30,732 ERROR:An error occurred for Ломоносовский: Message: 
 Stacktrace:
-	GetHandleVerifier [0x00007FF706ED1522+60802]
-	(No symbol) [0x00007FF706E4AC22]
-	(No symbol) [0x00007FF706D07CE4]
-	(No symbol) [0x00007FF706D56D4D]
-	(No symbol) [0x00007FF706D56E1C]
-	(No symbol) [0x00007FF706D9CE37]
-	(No symbol) [0x00007FF706D7ABBF]
-	(No symbol) [0x00007FF706D9A224]
-	(No symbol) [0x00007FF706D7A923]
-	(No symbol) [0x00007FF706D48FEC]
-	(No symbol) [0x00007FF706D49C21]
-	GetHandleVerifier [0x00007FF7071D41BD+3217949]
-	GetHandleVerifier [0x00007FF707216157+3488183]
-	GetHandleVerifier [0x00007FF70720F0DF+3459391]
-	GetHandleVerifier [0x00007FF706F8B8E6+823622]
-	(No symbol) [0x00007FF706E55FBF]
-	(No symbol) [0x00007FF706E50EE4]
-	(No symbol) [0x00007FF706E51072]
-	(No symbol) [0x00007FF706E418C4]
-	BaseThreadInitThunk [0x00007FF85E884CB0+16]
-	RtlUserThreadStart [0x00007FF85EC5E8AB+43]
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
 
-2024-05-21 11:48:11,301 INFO:Retrying for Проспект Вернадского, attempts left: 3
-2024-05-21 11:48:11,301 INFO:Starting scraper for: {'Run': 120, 'District': 'Проспект Вернадского', 'Point A': '55.67926810188126, 37.49443944766765', 'Point B': '55.720751956344394, 37.278124622023306'}
-2024-05-21 11:48:15,115 INFO:Data for Проспект Вернадского: {'District': 'Проспект Вернадского', 'Price': '1137', 'Duration': '33 мин', 'Length': '27'}
-2024-05-21 11:48:15,115 ERROR:Error calling scraper for Проспект Вернадского: 'NoneType' object is not subscriptable
-2024-05-21 11:48:21,511 INFO:Features dumped to data.json
+2024-05-21 13:01:30,732 INFO:Retrying for Ломоносовский, attempts left: 3
+2024-05-21 13:01:30,732 INFO:Starting scraper for: {'Run': 81, 'District': 'Ломоносовский', 'Point A': '55.67277443033568, 37.532975447478364', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:01:33,889 INFO:Data for Ломоносовский: {'District': 'Ломоносовский', 'Price': '597', 'Duration': '28 мин', 'Length': '10,8'}
+2024-05-21 13:01:33,889 ERROR:Error calling scraper for Ломоносовский: 'NoneType' object is not subscriptable
+2024-05-21 13:01:33,889 INFO:Starting scraper for: {'Run': 82, 'District': 'Хорошёво-Мнёвники', 'Point A': '55.74365593207669, 37.44572332557139', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-21 13:01:37,079 INFO:Data for Хорошёво-Мнёвники: {'District': 'Хорошёво-Мнёвники', 'Price': '688', 'Duration': '33 мин', 'Length': '19,2'}
+2024-05-21 13:01:37,083 INFO:Preprocessing completed for entry: {'District': 'Хорошёво-Мнёвники', 'Price': '688', 'Duration': '33 мин', 'Length': '19,2'}
+2024-05-21 13:01:37,083 INFO:Scraper called successfully for Хорошёво-Мнёвники
+2024-05-21 13:01:37,083 INFO:Starting scraper for: {'Run': 83, 'District': 'Лефортово', 'Point A': '55.736398186895165, 37.72968475443048', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 13:01:40,575 INFO:Data for Лефортово: {'District': 'Лефортово', 'Price': '723', 'Duration': '27 мин', 'Length': '16,3'}
+2024-05-21 13:01:40,575 INFO:Preprocessing completed for entry: {'District': 'Лефортово', 'Price': '723', 'Duration': '27 мин', 'Length': '16,3'}
+2024-05-21 13:01:40,575 INFO:Scraper called successfully for Лефортово
+2024-05-21 13:01:40,575 INFO:Starting scraper for: {'Run': 84, 'District': 'Соколиная Гора', 'Point A': '55.77362445638951, 37.735250018839366', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 13:01:44,371 INFO:Data for Соколиная Гора: {'District': 'Соколиная Гора', 'Price': '309', 'Duration': '49 мин', 'Length': '27,4'}
+2024-05-21 13:01:44,371 INFO:Preprocessing completed for entry: {'District': 'Соколиная Гора', 'Price': '309', 'Duration': '49 мин', 'Length': '27,4'}
+2024-05-21 13:01:44,371 INFO:Scraper called successfully for Соколиная Гора
+2024-05-21 13:01:44,371 INFO:Starting scraper for: {'Run': 85, 'District': 'Орехово-Борисово Южное', 'Point A': '55.599704285148604, 37.70241869091814', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:01:47,671 INFO:Data for Орехово-Борисово Южное: {'District': 'Орехово-Борисово Южное', 'Price': '531', 'Duration': '24 мин', 'Length': '9,6'}
+2024-05-21 13:01:47,677 INFO:Preprocessing completed for entry: {'District': 'Орехово-Борисово Южное', 'Price': '531', 'Duration': '24 мин', 'Length': '9,6'}
+2024-05-21 13:01:47,677 INFO:Scraper called successfully for Орехово-Борисово Южное
+2024-05-21 13:01:47,677 INFO:Starting scraper for: {'Run': 86, 'District': 'Строгино', 'Point A': '55.77755131510294, 37.37769044726307', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-21 13:01:50,979 INFO:Data for Строгино: {'District': 'Строгино', 'Price': '579', 'Duration': '18 мин', 'Length': '10,2'}
+2024-05-21 13:01:50,980 INFO:Preprocessing completed for entry: {'District': 'Строгино', 'Price': '579', 'Duration': '18 мин', 'Length': '10,2'}
+2024-05-21 13:01:50,980 INFO:Scraper called successfully for Строгино
+2024-05-21 13:01:50,980 INFO:Starting scraper for: {'Run': 87, 'District': 'Люблино', 'Point A': '55.657962734305535, 37.80090514681211', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 13:01:54,624 INFO:Data for Люблино: {'District': 'Люблино', 'Price': '921', 'Duration': '45 мин', 'Length': '12,4'}
+2024-05-21 13:01:54,624 INFO:Preprocessing completed for entry: {'District': 'Люблино', 'Price': '921', 'Duration': '45 мин', 'Length': '12,4'}
+2024-05-21 13:01:54,624 INFO:Scraper called successfully for Люблино
+2024-05-21 13:01:54,624 INFO:Starting scraper for: {'Run': 88, 'District': 'Зюзино', 'Point A': '55.6563622219996, 37.584048127848085', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:01:57,936 INFO:Data for Зюзино: {'District': 'Зюзино', 'Price': '378', 'Duration': '17 мин', 'Length': '7,2'}
+2024-05-21 13:01:57,936 INFO:Preprocessing completed for entry: {'District': 'Зюзино', 'Price': '378', 'Duration': '17 мин', 'Length': '7,2'}
+2024-05-21 13:01:57,936 INFO:Scraper called successfully for Зюзино
+2024-05-21 13:01:57,936 INFO:Starting scraper for: {'Run': 89, 'District': 'Восточный', 'Point A': '56.00093597364444, 37.79059042008175', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 13:02:01,342 INFO:Data for Восточный: {'District': 'Восточный', 'Price': '119', 'Duration': '43 мин', 'Length': '26'}
+2024-05-21 13:02:01,350 INFO:Preprocessing completed for entry: {'District': 'Восточный', 'Price': '119', 'Duration': '43 мин', 'Length': '26'}
+2024-05-21 13:02:01,350 INFO:Scraper called successfully for Восточный
+2024-05-21 13:02:01,351 INFO:Starting scraper for: {'Run': 90, 'District': 'Савёловский', 'Point A': '55.800504314103975, 37.56945897235895', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:02:04,638 INFO:Data for Савёловский: {'District': 'Савёловский', 'Price': '802', 'Duration': '28 мин', 'Length': '15,3'}
+2024-05-21 13:02:04,639 INFO:Preprocessing completed for entry: {'District': 'Савёловский', 'Price': '802', 'Duration': '28 мин', 'Length': '15,3'}
+2024-05-21 13:02:04,639 INFO:Scraper called successfully for Савёловский
+2024-05-21 13:02:04,639 INFO:Starting scraper for: {'Run': 91, 'District': 'Нагатино-Садовники', 'Point A': '55.6645956404017, 37.631110686826446', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:02:07,985 INFO:Data for Нагатино-Садовники: {'District': 'Нагатино-Садовники', 'Price': '401', 'Duration': '23 мин', 'Length': '7,7'}
+2024-05-21 13:02:07,985 INFO:Preprocessing completed for entry: {'District': 'Нагатино-Садовники', 'Price': '401', 'Duration': '23 мин', 'Length': '7,7'}
+2024-05-21 13:02:07,985 INFO:Scraper called successfully for Нагатино-Садовники
+2024-05-21 13:02:07,985 INFO:Starting scraper for: {'Run': 92, 'District': 'Северное Тушино', 'Point A': '55.86111300771202, 37.41679314946838', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-21 13:02:11,767 INFO:Data for Северное Тушино: {'District': 'Северное Тушино', 'Price': '504', 'Duration': '16 мин', 'Length': '8,6'}
+2024-05-21 13:02:11,773 INFO:Preprocessing completed for entry: {'District': 'Северное Тушино', 'Price': '504', 'Duration': '16 мин', 'Length': '8,6'}
+2024-05-21 13:02:11,773 INFO:Scraper called successfully for Северное Тушино
+2024-05-21 13:02:11,773 INFO:Starting scraper for: {'Run': 93, 'District': 'Ростокино', 'Point A': '55.84458695200719, 37.64760866414248', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 13:02:16,055 INFO:Data for Ростокино: {'District': 'Ростокино', 'Price': '349', 'Duration': '9 мин', 'Length': '3,6'}
+2024-05-21 13:02:16,056 INFO:Preprocessing completed for entry: {'District': 'Ростокино', 'Price': '349', 'Duration': '9 мин', 'Length': '3,6'}
+2024-05-21 13:02:16,056 INFO:Scraper called successfully for Ростокино
+2024-05-21 13:02:16,056 INFO:Starting scraper for: {'Run': 94, 'District': 'Ново-Переделкино', 'Point A': '55.66453533960833, 37.35848535001102', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:02:22,715 ERROR:An error occurred for Ново-Переделкино: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
+
+2024-05-21 13:02:22,715 INFO:Retrying for Ново-Переделкино, attempts left: 3
+2024-05-21 13:02:22,715 INFO:Starting scraper for: {'Run': 94, 'District': 'Ново-Переделкино', 'Point A': '55.66453533960833, 37.35848535001102', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:02:25,887 INFO:Data for Ново-Переделкино: {'District': 'Ново-Переделкино', 'Price': '780', 'Duration': '32 мин', 'Length': '26,1'}
+2024-05-21 13:02:25,888 ERROR:Error calling scraper for Ново-Переделкино: 'NoneType' object is not subscriptable
+2024-05-21 13:02:25,888 INFO:Starting scraper for: {'Run': 95, 'District': 'Восточное Дегунино', 'Point A': '55.85995110810542, 37.56275798748232', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:02:29,115 INFO:Data for Восточное Дегунино: {'District': 'Восточное Дегунино', 'Price': '614', 'Duration': '32 мин', 'Length': '12,8'}
+2024-05-21 13:02:29,116 INFO:Preprocessing completed for entry: {'District': 'Восточное Дегунино', 'Price': '614', 'Duration': '32 мин', 'Length': '12,8'}
+2024-05-21 13:02:29,116 INFO:Scraper called successfully for Восточное Дегунино
+2024-05-21 13:02:29,116 INFO:Starting scraper for: {'Run': 96, 'District': 'Южное Бутово', 'Point A': '55.53402392620272, 37.56391337383428', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:02:32,873 INFO:Data for Южное Бутово: {'District': 'Южное Бутово', 'Price': '706', 'Duration': '32 мин', 'Length': '13,3'}
+2024-05-21 13:02:32,880 INFO:Preprocessing completed for entry: {'District': 'Южное Бутово', 'Price': '706', 'Duration': '32 мин', 'Length': '13,3'}
+2024-05-21 13:02:32,880 INFO:Scraper called successfully for Южное Бутово
+2024-05-21 13:02:32,880 INFO:Starting scraper for: {'Run': 97, 'District': 'Нагатинский Затон', 'Point A': '55.69633378517498, 37.67233844584938', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:02:39,646 ERROR:An error occurred for Нагатинский Затон: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
+
+2024-05-21 13:02:39,646 INFO:Retrying for Нагатинский Затон, attempts left: 3
+2024-05-21 13:02:39,646 INFO:Starting scraper for: {'Run': 97, 'District': 'Нагатинский Затон', 'Point A': '55.69633378517498, 37.67233844584938', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:02:43,038 INFO:Data for Нагатинский Затон: {'District': 'Нагатинский Затон', 'Price': '504', 'Duration': '31 мин', 'Length': '11,4'}
+2024-05-21 13:02:43,039 ERROR:Error calling scraper for Нагатинский Затон: 'NoneType' object is not subscriptable
+2024-05-21 13:02:43,039 INFO:Starting scraper for: {'Run': 98, 'District': 'Преображенское', 'Point A': '55.80311342492242, 37.728890662515035', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 13:02:47,270 INFO:Data for Преображенское: {'District': 'Преображенское', 'Price': '299', 'Duration': '42 мин', 'Length': '22,2'}
+2024-05-21 13:02:47,271 INFO:Preprocessing completed for entry: {'District': 'Преображенское', 'Price': '299', 'Duration': '42 мин', 'Length': '22,2'}
+2024-05-21 13:02:47,271 INFO:Scraper called successfully for Преображенское
+2024-05-21 13:02:47,271 INFO:Starting scraper for: {'Run': 99, 'District': 'Аэропорт', 'Point A': '55.80894208278126, 37.52588927939455', 'Point B': '55.88762047186569, 37.451297918193326'}
+2024-05-21 13:02:50,987 INFO:Data for Аэропорт: {'District': 'Аэропорт', 'Price': '647', 'Duration': '22 мин', 'Length': '12,3'}
+2024-05-21 13:02:50,987 INFO:Preprocessing completed for entry: {'District': 'Аэропорт', 'Price': '647', 'Duration': '22 мин', 'Length': '12,3'}
+2024-05-21 13:02:50,987 INFO:Scraper called successfully for Аэропорт
+2024-05-21 13:02:50,987 INFO:Starting scraper for: {'Run': 100, 'District': 'Южное Медведково', 'Point A': '55.869990337337626, 37.63157719678762', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 13:02:54,230 INFO:Data for Южное Медведково: {'District': 'Южное Медведково', 'Price': '219', 'Duration': '6 мин', 'Length': '1,95'}
+2024-05-21 13:02:54,231 INFO:Preprocessing completed for entry: {'District': 'Южное Медведково', 'Price': '219', 'Duration': '6 мин', 'Length': '1,95'}
+2024-05-21 13:02:54,231 INFO:Scraper called successfully for Южное Медведково
+2024-05-21 13:02:54,231 INFO:Starting scraper for: {'Run': 101, 'District': 'Тверской', 'Point A': '55.75164140175694, 37.61735876013135', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 13:02:57,383 INFO:Data for Тверской: {'District': 'Тверской', 'Price': '822', 'Duration': '44 мин', 'Length': '9,8'}
+2024-05-21 13:02:57,383 INFO:Preprocessing completed for entry: {'District': 'Тверской', 'Price': '822', 'Duration': '44 мин', 'Length': '9,8'}
+2024-05-21 13:02:57,383 INFO:Scraper called successfully for Тверской
+2024-05-21 13:02:57,383 INFO:Starting scraper for: {'Run': 102, 'District': 'Покровское-Стрешнево', 'Point A': '55.81441945985847, 37.432184897821976', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-21 13:03:00,612 INFO:Data for Покровское-Стрешнево: {'District': 'Покровское-Стрешнево', 'Price': '305', 'Duration': '7 мин', 'Length': '2'}
+2024-05-21 13:03:00,613 INFO:Preprocessing completed for entry: {'District': 'Покровское-Стрешнево', 'Price': '305', 'Duration': '7 мин', 'Length': '2'}
+2024-05-21 13:03:00,613 INFO:Scraper called successfully for Покровское-Стрешнево
+2024-05-21 13:03:00,613 INFO:Starting scraper for: {'Run': 103, 'District': 'Кунцево', 'Point A': '55.742242, 37.417231', 'Point B': '55.720751956344394, 37.278124622023306'}
+2024-05-21 13:03:03,967 INFO:Data for Кунцево: {'District': 'Кунцево', 'Price': '737', 'Duration': '23 мин', 'Length': '17,2'}
+2024-05-21 13:03:03,967 INFO:Preprocessing completed for entry: {'District': 'Кунцево', 'Price': '737', 'Duration': '23 мин', 'Length': '17,2'}
+2024-05-21 13:03:03,967 INFO:Scraper called successfully for Кунцево
+2024-05-21 13:03:03,967 INFO:Starting scraper for: {'Run': 104, 'District': 'Митино', 'Point A': '55.83905135966198, 37.350844908471345', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-21 13:03:07,187 INFO:Data for Митино: {'District': 'Митино', 'Price': '378', 'Duration': '16 мин', 'Length': '7,4'}
+2024-05-21 13:03:07,188 INFO:Preprocessing completed for entry: {'District': 'Митино', 'Price': '378', 'Duration': '16 мин', 'Length': '7,4'}
+2024-05-21 13:03:07,188 INFO:Scraper called successfully for Митино
+2024-05-21 13:03:07,188 INFO:Starting scraper for: {'Run': 105, 'District': 'Нагорный', 'Point A': '55.647438048453274, 37.6210541963463', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:03:13,936 ERROR:An error occurred for Нагорный: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF62C7D1522+60802]
+	(No symbol) [0x00007FF62C74AC22]
+	(No symbol) [0x00007FF62C607CE4]
+	(No symbol) [0x00007FF62C656D4D]
+	(No symbol) [0x00007FF62C656E1C]
+	(No symbol) [0x00007FF62C69CE37]
+	(No symbol) [0x00007FF62C67ABBF]
+	(No symbol) [0x00007FF62C69A224]
+	(No symbol) [0x00007FF62C67A923]
+	(No symbol) [0x00007FF62C648FEC]
+	(No symbol) [0x00007FF62C649C21]
+	GetHandleVerifier [0x00007FF62CAD41BD+3217949]
+	GetHandleVerifier [0x00007FF62CB16157+3488183]
+	GetHandleVerifier [0x00007FF62CB0F0DF+3459391]
+	GetHandleVerifier [0x00007FF62C88B8E6+823622]
+	(No symbol) [0x00007FF62C755FBF]
+	(No symbol) [0x00007FF62C750EE4]
+	(No symbol) [0x00007FF62C751072]
+	(No symbol) [0x00007FF62C7418C4]
+	BaseThreadInitThunk [0x00007FFAE87A4CB0+16]
+	RtlUserThreadStart [0x00007FFAE9D7E8AB+43]
+
+2024-05-21 13:03:13,936 INFO:Retrying for Нагорный, attempts left: 3
+2024-05-21 13:03:13,936 INFO:Starting scraper for: {'Run': 105, 'District': 'Нагорный', 'Point A': '55.647438048453274, 37.6210541963463', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:03:17,200 INFO:Data for Нагорный: {'District': 'Нагорный', 'Price': '365', 'Duration': '23 мин', 'Length': '5,7'}
+2024-05-21 13:03:17,200 ERROR:Error calling scraper for Нагорный: 'NoneType' object is not subscriptable
+2024-05-21 13:03:17,200 INFO:Starting scraper for: {'Run': 106, 'District': 'Тёплый Стан', 'Point A': '55.632916561830825, 37.478501795194454', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:03:20,426 INFO:Data for Тёплый Стан: {'District': 'Тёплый Стан', 'Price': '585', 'Duration': '20 мин', 'Length': '6,5'}
+2024-05-21 13:03:20,426 INFO:Preprocessing completed for entry: {'District': 'Тёплый Стан', 'Price': '585', 'Duration': '20 мин', 'Length': '6,5'}
+2024-05-21 13:03:20,426 INFO:Scraper called successfully for Тёплый Стан
+2024-05-21 13:03:20,426 INFO:Starting scraper for: {'Run': 107, 'District': 'Щукино', 'Point A': '55.81102953757514, 37.486031749675064', 'Point B': '55.82107826014529, 37.425697921282264'}
+2024-05-21 13:03:24,265 INFO:Data for Щукино: {'District': 'Щукино', 'Price': '369', 'Duration': '10 мин', 'Length': '4,6'}
+2024-05-21 13:03:24,266 INFO:Preprocessing completed for entry: {'District': 'Щукино', 'Price': '369', 'Duration': '10 мин', 'Length': '4,6'}
+2024-05-21 13:03:24,266 INFO:Scraper called successfully for Щукино
+2024-05-21 13:03:24,266 INFO:Starting scraper for: {'Run': 108, 'District': 'Марьино', 'Point A': '55.645715262480394, 37.70762260519868', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 13:03:27,464 INFO:Data for Марьино: {'District': 'Марьино', 'Price': '868', 'Duration': '40 мин', 'Length': '22,9'}
+2024-05-21 13:03:27,465 INFO:Preprocessing completed for entry: {'District': 'Марьино', 'Price': '868', 'Duration': '40 мин', 'Length': '22,9'}
+2024-05-21 13:03:27,465 INFO:Scraper called successfully for Марьино
+2024-05-21 13:03:27,465 INFO:Starting scraper for: {'Run': 109, 'District': 'Северное Бутово', 'Point A': '55.580411168197976, 37.57293606807369', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:03:30,702 INFO:Data for Северное Бутово: {'District': 'Северное Бутово', 'Price': '400', 'Duration': '17 мин', 'Length': '6,9'}
+2024-05-21 13:03:30,709 INFO:Preprocessing completed for entry: {'District': 'Северное Бутово', 'Price': '400', 'Duration': '17 мин', 'Length': '6,9'}
+2024-05-21 13:03:30,709 INFO:Scraper called successfully for Северное Бутово
+2024-05-21 13:03:30,709 INFO:Starting scraper for: {'Run': 110, 'District': 'Ивановское', 'Point A': '55.755726400204495, 37.82959352932651', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 13:03:35,010 INFO:Data for Ивановское: {'District': 'Ивановское', 'Price': '229', 'Duration': '30 мин', 'Length': '25,8'}
+2024-05-21 13:03:35,011 INFO:Preprocessing completed for entry: {'District': 'Ивановское', 'Price': '229', 'Duration': '30 мин', 'Length': '25,8'}
+2024-05-21 13:03:35,011 INFO:Scraper called successfully for Ивановское
+2024-05-21 13:03:35,011 INFO:Starting scraper for: {'Run': 111, 'District': 'Восточное Измайлово', 'Point A': '55.798122426441346, 37.83306300612433', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 13:03:38,164 INFO:Data for Восточное Измайлово: {'District': 'Восточное Измайлово', 'Price': '239', 'Duration': '28 мин', 'Length': '20,9'}
+2024-05-21 13:03:38,166 INFO:Preprocessing completed for entry: {'District': 'Восточное Измайлово', 'Price': '239', 'Duration': '28 мин', 'Length': '20,9'}
+2024-05-21 13:03:38,166 INFO:Scraper called successfully for Восточное Измайлово
+2024-05-21 13:03:38,166 INFO:Starting scraper for: {'Run': 112, 'District': 'Красносельский', 'Point A': '55.781588618842825, 37.653493813609714', 'Point B': '55.75368791410134, 37.61544846196964'}
+2024-05-21 13:03:41,387 INFO:Data for Красносельский: {'District': 'Красносельский', 'Price': '493', 'Duration': '36 мин', 'Length': '7,9'}
+2024-05-21 13:03:41,387 INFO:Preprocessing completed for entry: {'District': 'Красносельский', 'Price': '493', 'Duration': '36 мин', 'Length': '7,9'}
+2024-05-21 13:03:41,387 INFO:Scraper called successfully for Красносельский
+2024-05-21 13:03:41,387 INFO:Starting scraper for: {'Run': 113, 'District': 'Южнопортовый', 'Point A': '55.709976114234905, 37.669451050102694', 'Point B': '55.69398417461721, 37.847189565673474'}
+2024-05-21 13:03:44,797 INFO:Data for Южнопортовый: {'District': 'Южнопортовый', 'Price': '750', 'Duration': '38 мин', 'Length': '17,9'}
+2024-05-21 13:03:44,798 INFO:Preprocessing completed for entry: {'District': 'Южнопортовый', 'Price': '750', 'Duration': '38 мин', 'Length': '17,9'}
+2024-05-21 13:03:44,798 INFO:Scraper called successfully for Южнопортовый
+2024-05-21 13:03:44,798 INFO:Starting scraper for: {'Run': 114, 'District': 'Новокосино', 'Point A': '55.74468008056809, 37.865206620785315', 'Point B': '55.88675436293484, 37.82132526712337'}
+2024-05-21 13:03:47,963 INFO:Data for Новокосино: {'District': 'Новокосино', 'Price': '219', 'Duration': '30 мин', 'Length': '26,7'}
+2024-05-21 13:03:47,963 INFO:Preprocessing completed for entry: {'District': 'Новокосино', 'Price': '219', 'Duration': '30 мин', 'Length': '26,7'}
+2024-05-21 13:03:47,963 INFO:Scraper called successfully for Новокосино
+2024-05-21 13:03:47,963 INFO:Starting scraper for: {'Run': 115, 'District': 'Лианозово', 'Point A': '55.900278695809675, 37.57329911208756', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 13:03:51,207 INFO:Data for Лианозово: {'District': 'Лианозово', 'Price': '402', 'Duration': '18 мин', 'Length': '7,2'}
+2024-05-21 13:03:51,209 INFO:Preprocessing completed for entry: {'District': 'Лианозово', 'Price': '402', 'Duration': '18 мин', 'Length': '7,2'}
+2024-05-21 13:03:51,209 INFO:Scraper called successfully for Лианозово
+2024-05-21 13:03:51,209 INFO:Starting scraper for: {'Run': 116, 'District': 'Орехово-Борисово Северное', 'Point A': '55.62922553768017, 37.68942359527946', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:03:54,455 INFO:Data for Орехово-Борисово Северное: {'District': 'Орехово-Борисово Северное', 'Price': '423', 'Duration': '19 мин', 'Length': '6,8'}
+2024-05-21 13:03:54,455 INFO:Preprocessing completed for entry: {'District': 'Орехово-Борисово Северное', 'Price': '423', 'Duration': '19 мин', 'Length': '6,8'}
+2024-05-21 13:03:54,455 INFO:Scraper called successfully for Орехово-Борисово Северное
+2024-05-21 13:03:54,455 INFO:Starting scraper for: {'Run': 117, 'District': 'Бирюлёво Восточное', 'Point A': '55.59045559903946, 37.67024764437423', 'Point B': '55.636563441267555, 37.66145102628217'}
+2024-05-21 13:03:58,247 INFO:Data for Бирюлёво Восточное: {'District': 'Бирюлёво Восточное', 'Price': '486', 'Duration': '15 мин', 'Length': '7'}
+2024-05-21 13:03:58,248 INFO:Preprocessing completed for entry: {'District': 'Бирюлёво Восточное', 'Price': '486', 'Duration': '15 мин', 'Length': '7'}
+2024-05-21 13:03:58,248 INFO:Scraper called successfully for Бирюлёво Восточное
+2024-05-21 13:03:58,248 INFO:Starting scraper for: {'Run': 118, 'District': 'Академический', 'Point A': '55.67871987578925, 37.56183992574039', 'Point B': '55.61298012212981, 37.54828007775951'}
+2024-05-21 13:04:01,524 INFO:Data for Академический: {'District': 'Академический', 'Price': '684', 'Duration': '28 мин', 'Length': '10,6'}
+2024-05-21 13:04:01,525 INFO:Preprocessing completed for entry: {'District': 'Академический', 'Price': '684', 'Duration': '28 мин', 'Length': '10,6'}
+2024-05-21 13:04:01,525 INFO:Scraper called successfully for Академический
+2024-05-21 13:04:01,525 INFO:Starting scraper for: {'Run': 119, 'District': 'Свиблово', 'Point A': '55.8493100413085, 37.64024121004941', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 13:04:04,616 INFO:Data for Свиблово: {'District': 'Свиблово', 'Price': '372', 'Duration': '8 мин', 'Length': '3,4'}
+2024-05-21 13:04:04,616 INFO:Preprocessing completed for entry: {'District': 'Свиблово', 'Price': '372', 'Duration': '8 мин', 'Length': '3,4'}
+2024-05-21 13:04:04,617 INFO:Scraper called successfully for Свиблово
+2024-05-21 13:04:04,617 INFO:Starting scraper for: {'Run': 120, 'District': 'Бутырский', 'Point A': '55.822232426615415, 37.58905810403428', 'Point B': '55.86350960551183, 37.622162994634884'}
+2024-05-21 13:04:07,780 INFO:Data for Бутырский: {'District': 'Бутырский', 'Price': '438', 'Duration': '15 мин', 'Length': '7,4'}
+2024-05-21 13:04:07,781 INFO:Preprocessing completed for entry: {'District': 'Бутырский', 'Price': '438', 'Duration': '15 мин', 'Length': '7,4'}
+2024-05-21 13:04:07,782 INFO:Scraper called successfully for Бутырский
+2024-05-21 13:04:14,154 INFO:Features dumped to data.json
