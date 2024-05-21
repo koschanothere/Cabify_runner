@@ -148,7 +148,7 @@ def dump_to_json(df, filename='data.json'):
         features_list = df.to_dict(orient='records')
         
         with open(filename, 'a+') as f:
-            if not os.path.isfile(filename) and os.path.getsize(filename) > 0:
+            if not os.path.isfile(filename) or os.path.getsize(filename) == 0:
                 # If file is empty, write data without appending
                 json.dump(features_list, f)
             else:
