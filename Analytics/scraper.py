@@ -67,7 +67,7 @@ async def runscraper(driver, name="Test", pointA="55.85995110810542, 37.56275798
         logging.error(f"An error occurred for {name}: {e}")
         if retries > 0:
             logging.info(f"Retrying for {name}, attempts left: {retries}")
-            await runscraper(driver, name, pointA, pointB, cycle, retries - 1)
+            return await runscraper(driver, name, pointA, pointB, cycle, retries - 1)
         else:
             logging.error(f"Max retries reached for {name}. Aborting.")
 
